@@ -3,6 +3,6 @@ sources:
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
-  - href: https://workchronicles.com/feed/
+#  - href: https://workchronicles.com/feed/
   - href: https://www.swyx.io/rss.xml
   - href: https://kentcdodds.com/blog/rss.xml
