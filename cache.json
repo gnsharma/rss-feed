@@ -1,22 +1,6 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 370,
-          "title": "v1.11.0"
-        }
-      ]
-    },
-    {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
@@ -653,6 +637,55 @@
           "title": "How To Use Axios With React: The Definitive Guide (2021)"
         }
       ]
+    },
+    {
+      "title": "Swyx.io RSS Feed",
+      "feedUrl": "https://www.swyx.io/rss.xml",
+      "siteUrl": "https://swyx.io/",
+      "articles": [
+        {
+          "id": "https://swyx.io/new-mac-setup-2021",
+          "author": null,
+          "description": "I set up a new Mac for work today. Here's everything I use on a Mac for fullstack web development.",
+          "link": "https://swyx.io/new-mac-setup-2021",
+          "publishedOn": "2021-07-05T21:57:11.000Z",
+          "wordCount": 1200,
+          "title": "My 2021 New Mac Setup"
+        },
+        {
+          "id": "https://swyx.io/particle-wave-duality",
+          "author": null,
+          "description": "Learning is *BOTH* a discrete and a continuous process. If the tools we use don't respect this duality, information is lost — either writing involves too much effort, or reading requires too much context.",
+          "link": "https://swyx.io/particle-wave-duality",
+          "publishedOn": "2021-06-25T20:29:35.000Z",
+          "wordCount": 2138,
+          "title": "The Particle/Wave Duality Theory of Knowledge"
+        },
+        {
+          "id": "https://swyx.io/temporal-activity-timeouts",
+          "author": null,
+          "description": "This post (together with the embedded talk) aims to give you a solid mental model on what each Activity timeout in Temporal does and when to use it.",
+          "link": "https://swyx.io/temporal-activity-timeouts",
+          "publishedOn": "2021-06-22T20:57:31.000Z",
+          "wordCount": 1821,
+          "title": "The 4 Types of Activity timeouts in Temporal"
+        },
+        {
+          "id": "https://swyx.io/memento-vitae",
+          "author": null,
+          "description": "Remember what life can do.",
+          "link": "https://swyx.io/memento-vitae",
+          "publishedOn": "2021-06-19T21:47:04.000Z",
+          "wordCount": 433,
+          "title": "Memento Vivere"
+        }
+      ]
+    },
+    {
+      "title": "Kent C. Dodds Blog RSS Feed",
+      "feedUrl": "https://kentcdodds.com/blog/rss.xml",
+      "siteUrl": "https://kentcdodds.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-17T12:38:16.366Z</id>
+    <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T12:38:16.366Z</updated>
+    <updated>2021-07-17T12:43:26.555Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
+    <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
         <id>https://css-tricks.com/?p=344217</id>
@@ -392,6 +393,16 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My 2021 New Mac Setup]]></title>
+        <id>https://swyx.io/new-mac-setup-2021</id>
+        <link href="https://swyx.io/new-mac-setup-2021"/>
+        <updated>2021-07-05T21:57:11.000Z</updated>
+        <summary type="html"><![CDATA[I set up a new Mac for work today. Here's everything I use on a Mac for fullstack web development.]]></summary>
+        <author>
+            <name>Swyx.io RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
         <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
         <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
@@ -472,6 +483,16 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Particle/Wave Duality Theory of Knowledge]]></title>
+        <id>https://swyx.io/particle-wave-duality</id>
+        <link href="https://swyx.io/particle-wave-duality"/>
+        <updated>2021-06-25T20:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Learning is *BOTH* a discrete and a continuous process. If the tools we use don't respect this duality, information is lost — either writing involves too much effort, or reading requires too much context.]]></summary>
+        <author>
+            <name>Swyx.io RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
         <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
@@ -522,22 +543,13 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
-
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
+        <title type="html"><![CDATA[The 4 Types of Activity timeouts in Temporal]]></title>
+        <id>https://swyx.io/temporal-activity-timeouts</id>
+        <link href="https://swyx.io/temporal-activity-timeouts"/>
+        <updated>2021-06-22T20:57:31.000Z</updated>
+        <summary type="html"><![CDATA[This post (together with the embedded talk) aims to give you a solid mental model on what each Activity timeout in Temporal does and when to use it.]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -558,6 +570,16 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memento Vivere]]></title>
+        <id>https://swyx.io/memento-vitae</id>
+        <link href="https://swyx.io/memento-vitae"/>
+        <updated>2021-06-19T21:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Remember what life can do.]]></summary>
+        <author>
+            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
     <entry>
