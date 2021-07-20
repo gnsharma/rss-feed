@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344404",
+          "author": "Chris Coyier",
+          "description": "Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …\nThe post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/images-are-hard/",
+          "publishedOn": "2021-07-19T20:51:07.000Z",
+          "wordCount": 901,
+          "title": "Images are hard."
+        },
+        {
+          "id": "https://css-tricks.com/?p=343893",
+          "author": "Bramus Van Damme",
+          "description": "The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.\nIn this post, we take a …\nThe post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/",
+          "publishedOn": "2021-07-19T14:43:29.000Z",
+          "wordCount": 2018,
+          "title": "Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines"
+        },
+        {
           "id": "https://css-tricks.com/?p=344217",
           "author": "Chris Coyier",
           "description": "We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …\nThe post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -147,6 +165,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
+          "author": "hello@smashingmagazine.com (Colby Fayock)",
+          "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
+          "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
+          "publishedOn": "2021-07-19T10:30:00.000Z",
+          "wordCount": 4479,
+          "title": "Maintaining End-To-End Quality With Visual Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "author": "hello@smashingmagazine.com (Marcus Herrmann)",
@@ -519,6 +551,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f3e5ca66c61b07d458eb2d",
+          "author": null,
+          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
+          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
+          "publishedOn": "2021-07-19T22:25:44.000Z",
+          "wordCount": 1246,
+          "title": "How to Install Xcode Command Line Tools on a Mac"
+        },
+        {
+          "id": "60f53af066c61b07d458ed0a",
+          "author": null,
+          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
+          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
+          "publishedOn": "2021-07-19T19:00:35.000Z",
+          "wordCount": 1566,
+          "title": "RGB Color – HTML and CSS Guide"
+        },
+        {
+          "id": "60f2829d66c61b07d458e58f",
+          "author": null,
+          "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
+          "link": "https://www.freecodecamp.org/news/get-started-with-cloud-native/",
+          "publishedOn": "2021-07-19T18:12:13.000Z",
+          "wordCount": 1358,
+          "title": "What is Cloud Native? The Cloud Computing Delivery Model Explained"
+        },
+        {
+          "id": "60ec528ce8ee9b08300edb9e",
+          "author": null,
+          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
+          "publishedOn": "2021-07-19T16:50:30.000Z",
+          "wordCount": 2311,
+          "title": "How to Scrape Websites with Node.js and Cheerio"
+        },
+        {
+          "id": "60e7d016134ad707be00f47c",
+          "author": null,
+          "description": "Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if",
+          "link": "https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/",
+          "publishedOn": "2021-07-19T15:25:39.000Z",
+          "wordCount": 1079,
+          "title": "How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage"
+        },
+        {
+          "id": "60dbcc7c27f80207bcdbbcff",
+          "author": null,
+          "description": "In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email",
+          "link": "https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/",
+          "publishedOn": "2021-07-19T14:34:59.000Z",
+          "wordCount": 2641,
+          "title": "How Does Kerberos Work? The Authentication Protocol Explained"
+        },
+        {
+          "id": "60f18a9666c61b07d458e2b0",
+          "author": null,
+          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
+          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
+          "publishedOn": "2021-07-19T13:56:48.000Z",
+          "wordCount": 18791,
+          "title": "Understanding Recursion in Programming"
+        },
+        {
           "id": "60eef23666c61b07d458d43c",
           "author": null,
           "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
@@ -616,6 +711,15 @@
       "siteUrl": "https://swyx.io/",
       "articles": [
         {
+          "id": "https://swyx.io/why-temporal",
+          "author": null,
+          "description": "Temporal ties Orchestration, Event Sourcing, and Workflows-as-Code in one distributed system and it is eating the world.",
+          "link": "https://swyx.io/why-temporal",
+          "publishedOn": "2021-07-19T07:46:12.000Z",
+          "wordCount": 2847,
+          "title": "Temporal - the iPhone of System Design"
+        },
+        {
           "id": "https://swyx.io/new-mac-setup-2021",
           "author": null,
           "description": "I set up a new Mac for work today. Here's everything I use on a Mac for fullstack web development.",
@@ -641,15 +745,6 @@
           "publishedOn": "2021-06-22T20:57:31.000Z",
           "wordCount": 1821,
           "title": "The 4 Types of Activity timeouts in Temporal"
-        },
-        {
-          "id": "https://swyx.io/memento-vitae",
-          "author": null,
-          "description": "Remember what life can do.",
-          "link": "https://swyx.io/memento-vitae",
-          "publishedOn": "2021-06-19T21:47:04.000Z",
-          "wordCount": 433,
-          "title": "Memento Vivere"
         }
       ]
     },

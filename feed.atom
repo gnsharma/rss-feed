@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T00:47:13.978Z</updated>
+    <updated>2021-07-20T00:48:58.928Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
+        <id>60f3e5ca66c61b07d458eb2d</id>
+        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
+        <updated>2021-07-19T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Images are hard.]]></title>
+        <id>https://css-tricks.com/?p=344404</id>
+        <link href="https://css-tricks.com/images-are-hard/"/>
+        <updated>2021-07-19T20:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
+The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
+        <id>60f53af066c61b07d458ed0a</id>
+        <link href="https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/"/>
+        <updated>2021-07-19T19:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Native? The Cloud Computing Delivery Model Explained]]></title>
+        <id>60f2829d66c61b07d458e58f</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-cloud-native/"/>
+        <updated>2021-07-19T18:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
+        <id>60ec528ce8ee9b08300edb9e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
+        <updated>2021-07-19T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
+        <id>60e7d016134ad707be00f47c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
+        <updated>2021-07-19T15:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines]]></title>
+        <id>https://css-tricks.com/?p=343893</id>
+        <link href="https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/"/>
+        <updated>2021-07-19T14:43:29.000Z</updated>
+        <summary type="html"><![CDATA[The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.
+In this post, we take a …
+The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bramus Van Damme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
+        <id>60dbcc7c27f80207bcdbbcff</id>
+        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
+        <updated>2021-07-19T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
+        <id>60f18a9666c61b07d458e2b0</id>
+        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
+        <updated>2021-07-19T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
+        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
+        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
+        <updated>2021-07-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Colby Fayock)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal - the iPhone of System Design]]></title>
+        <id>https://swyx.io/why-temporal</id>
+        <link href="https://swyx.io/why-temporal"/>
+        <updated>2021-07-19T07:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Temporal ties Orchestration, Event Sourcing, and Workflows-as-Code in one distributed system and it is eating the world.]]></summary>
+        <author>
+            <name>Swyx.io RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
         <id>https://css-tricks.com/?p=344217</id>
@@ -570,16 +683,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memento Vivere]]></title>
-        <id>https://swyx.io/memento-vitae</id>
-        <link href="https://swyx.io/memento-vitae"/>
-        <updated>2021-06-19T21:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Remember what life can do.]]></summary>
-        <author>
-            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
 </feed>
