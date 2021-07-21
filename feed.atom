@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:48:58.928Z</updated>
+    <updated>2021-07-21T00:47:01.827Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Nine States of Design]]></title>
+        <id>https://css-tricks.com/?p=345062</id>
+        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
+        <updated>2021-07-20T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
+Modern UI teams are designing components 
+…
+The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
+        <id>605301d528094f59be257c67</id>
+        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
+        <updated>2021-07-20T22:48:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
+        <id>60f2dbac66c61b07d458e5c9</id>
+        <link href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/"/>
+        <updated>2021-07-20T20:04:12.000Z</updated>
+        <summary type="html"><![CDATA[In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://css-tricks.com/?p=344944</id>
+        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-07-20T20:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
+In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
+…
+The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale a System With Process Splitting and Redis]]></title>
+        <id>60ed44c866c61b07d458d023</id>
+        <link href="https://www.freecodecamp.org/news/scale-system-split-processes/"/>
+        <updated>2021-07-20T19:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
+        <id>60e009e527f80207bcdbd00a</id>
+        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
+        <updated>2021-07-20T17:09:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+        <id>https://css-tricks.com/?p=344497</id>
+        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
+        <updated>2021-07-20T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
+The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
+        <id>60f1d20a66c61b07d458e4a3</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
+        <updated>2021-07-20T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
+        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
+        <updated>2021-07-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
         <id>60f3e5ca66c61b07d458eb2d</id>
