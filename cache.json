@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344019",
+          "author": "Farai Gandiya",
+          "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/",
+          "publishedOn": "2021-07-23T15:12:11.000Z",
+          "wordCount": 1889,
+          "title": "Web Features That May Not Work As You’d Expect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345209",
+          "author": "Chris Coyier",
+          "description": "Dave:\npetite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps \n…\nThe post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://daverupert.com/2021/07/petite-vue-review/",
+          "publishedOn": "2021-07-23T15:10:08.000Z",
+          "wordCount": 1060,
+          "title": "My petite-vue review"
+        },
+        {
           "id": "https://css-tricks.com/?p=344960",
           "author": "Chris Coyier",
           "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -246,6 +264,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
+          "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
+          "publishedOn": "2021-07-23T11:00:00.000Z",
+          "wordCount": 3410,
+          "title": "A Guide To Attracting Clients To Your Agency",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
           "author": "hello@smashingmagazine.com (Matthew Talebi)",
@@ -609,20 +641,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "publishedOn": "2021-06-23T13:30:00.000Z",
-          "wordCount": 953,
-          "title": "Smashing Online Workshops (July-October 2021)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -631,6 +649,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60faae4d1d2b080797b82046",
+          "author": null,
+          "description": "Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome",
+          "link": "https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/",
+          "publishedOn": "2021-07-23T21:42:07.000Z",
+          "wordCount": 1401,
+          "title": "How to Clear Search History – Delete All Browsing Data in Chrome"
+        },
+        {
+          "id": "60f5aca466c61b07d458f119",
+          "author": null,
+          "description": "Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why",
+          "link": "https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/",
+          "publishedOn": "2021-07-23T17:25:34.000Z",
+          "wordCount": 1545,
+          "title": "Python zip() Function – Explained with Code Examples"
+        },
         {
           "id": "60f969ee1d2b080797b8160a",
           "author": null,
