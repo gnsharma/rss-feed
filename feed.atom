@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T00:45:47.414Z</updated>
+    <updated>2021-07-25T00:47:31.880Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
@@ -974,36 +974,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <summary type="html"><![CDATA[Learning is *BOTH* a discrete and a continuous process. If the tools we use don't respect this duality, information is lost — either writing involves too much effort, or reading requires too much context.]]></summary>
         <author>
             <name>Swyx.io RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
-        <updated>2021-06-25T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dom Habersack)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
-        <updated>2021-06-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
-        <updated>2021-06-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Josh Singer)</name>
         </author>
     </entry>
 </feed>

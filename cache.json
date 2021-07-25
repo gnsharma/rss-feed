@@ -599,48 +599,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "author": "hello@smashingmagazine.com (Dom Habersack)",
-          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
-          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5467,
-          "title": "Creating A Multi-Author Blog With Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
-          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
-          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3536,
-          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "author": "hello@smashingmagazine.com (Josh Singer)",
-          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
-          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4183,
-          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
