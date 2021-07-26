@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T00:47:31.880Z</updated>
+    <updated>2021-07-26T00:45:11.753Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
@@ -964,16 +964,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Particle/Wave Duality Theory of Knowledge]]></title>
-        <id>https://swyx.io/particle-wave-duality</id>
-        <link href="https://swyx.io/particle-wave-duality"/>
-        <updated>2021-06-25T20:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Learning is *BOTH* a discrete and a continuous process. If the tools we use don't respect this duality, information is lost — either writing involves too much effort, or reading requires too much context.]]></summary>
-        <author>
-            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
 </feed>
