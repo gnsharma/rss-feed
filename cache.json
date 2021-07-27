@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345297",
+          "author": "Chris Coyier",
+          "description": "Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. \nstyled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …\nThe post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "publishedOn": "2021-07-27T00:17:01.000Z",
+          "wordCount": 2758,
+          "title": "Demystifying styled-components"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344653",
+          "author": "Luke Edwards",
+          "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
+          "publishedOn": "2021-07-26T14:36:13.000Z",
+          "wordCount": 4189,
+          "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345288",
+          "author": "Chris Coyier",
+          "description": "Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …\nThe post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://slinkity.dev/",
+          "publishedOn": "2021-07-26T14:36:04.000Z",
+          "wordCount": 550,
+          "title": "Slinkity"
+        },
+        {
           "id": "https://css-tricks.com/?p=344019",
           "author": "Farai Gandiya",
           "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -264,6 +291,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
+          "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
+          "publishedOn": "2021-07-26T10:30:00.000Z",
+          "wordCount": 3081,
+          "title": "Gatsby Serverless Functions And The International Space Station",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -607,6 +648,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60fc070722b0e2078fcd0ae1",
+          "author": null,
+          "description": "The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called",
+          "link": "https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/",
+          "publishedOn": "2021-07-26T23:01:30.000Z",
+          "wordCount": 2250,
+          "title": "Google Doodle Games – Baseball, PacMan, and More"
+        },
+        {
+          "id": "60f746ee1d2b080797b807f6",
+          "author": null,
+          "description": "Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are",
+          "link": "https://www.freecodecamp.org/news/how-to-find-remote-jobs/",
+          "publishedOn": "2021-07-26T21:46:24.000Z",
+          "wordCount": 1095,
+          "title": "How to Find Remote Jobs – 25 Websites To Help You Work from Home Online"
+        },
+        {
+          "id": "60fa671e1d2b080797b81cd4",
+          "author": null,
+          "description": "If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/",
+          "publishedOn": "2021-07-26T21:41:00.000Z",
+          "wordCount": 3761,
+          "title": "How to Perform CRUD Operations using React, React Hooks, and Axios"
+        },
+        {
+          "id": "60fe9a5222b0e2078fcd154f",
+          "author": null,
+          "description": "You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that",
+          "link": "https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/",
+          "publishedOn": "2021-07-26T19:23:37.000Z",
+          "wordCount": 1468,
+          "title": "What is Pseudocode? How to Use Pseudocode to Solve Coding Problems"
+        },
         {
           "id": "60faae4d1d2b080797b82046",
           "author": null,

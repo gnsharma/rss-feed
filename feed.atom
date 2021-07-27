@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T00:45:11.753Z</updated>
+    <updated>2021-07-27T00:47:54.309Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Demystifying styled-components]]></title>
+        <id>https://css-tricks.com/?p=345297</id>
+        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
+        <updated>2021-07-27T00:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
+styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
+The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
+        <id>60fc070722b0e2078fcd0ae1</id>
+        <link href="https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/"/>
+        <updated>2021-07-26T23:01:30.000Z</updated>
+        <summary type="html"><![CDATA[The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
+        <id>60f746ee1d2b080797b807f6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-remote-jobs/"/>
+        <updated>2021-07-26T21:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations using React, React Hooks, and Axios]]></title>
+        <id>60fa671e1d2b080797b81cd4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/"/>
+        <updated>2021-07-26T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Pseudocode? How to Use Pseudocode to Solve Coding Problems]]></title>
+        <id>60fe9a5222b0e2078fcd154f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/"/>
+        <updated>2021-07-26T19:23:37.000Z</updated>
+        <summary type="html"><![CDATA[You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
+        <id>https://css-tricks.com/?p=344653</id>
+        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
+        <updated>2021-07-26T14:36:13.000Z</updated>
+        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
+The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Luke Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slinkity]]></title>
+        <id>https://css-tricks.com/?p=345288</id>
+        <link href="https://slinkity.dev/"/>
+        <updated>2021-07-26T14:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
+The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
+        <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
+        <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
+        <updated>2021-07-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
         <id>60faae4d1d2b080797b82046</id>
