@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345169",
+          "author": "Chris Coyier",
+          "description": "I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/",
+          "publishedOn": "2021-07-27T23:18:33.000Z",
+          "wordCount": 1430,
+          "title": "Learnings From a WebPageTest Session on CSS-Tricks"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345400",
+          "author": "Chris Coyier",
+          "description": "Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. \nThere are new things like “arbitrarily chuck underscores …\nThe post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://h3manth.com/ES2021/",
+          "publishedOn": "2021-07-27T23:18:12.000Z",
+          "wordCount": 316,
+          "title": "ES2021 Features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344815",
+          "author": "Ollie Williams",
+          "description": "Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …\nThe post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-logical-properties-and-values/",
+          "publishedOn": "2021-07-27T15:02:43.000Z",
+          "wordCount": 2605,
+          "title": "CSS Logical Properties and Values"
+        },
+        {
           "id": "https://css-tricks.com/?p=345297",
           "author": "Chris Coyier",
           "description": "Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. \nstyled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …\nThe post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -291,6 +318,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+          "author": "hello@smashingmagazine.com (Alexander Dubovoy)",
+          "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
+          "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+          "publishedOn": "2021-07-27T11:00:00.000Z",
+          "wordCount": 3558,
+          "title": "Global vs. Local Styling In Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
@@ -626,20 +667,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2538,
-          "title": "Creating Custom Emmet Snippets In VS Code",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -648,6 +675,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ffec493306a507d1bf98f4",
+          "author": null,
+          "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
+          "link": "https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/",
+          "publishedOn": "2021-07-27T22:36:10.000Z",
+          "wordCount": 1528,
+          "title": "Python For Loop – Example and Tutorial"
+        },
+        {
+          "id": "60ff23533306a507d1bf9345",
+          "author": null,
+          "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
+          "link": "https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/",
+          "publishedOn": "2021-07-27T19:59:00.000Z",
+          "wordCount": 1729,
+          "title": "How to Flatten a Dictionary in Python in 4 Different Ways"
+        },
+        {
+          "id": "60dabcb327f80207bcdbb316",
+          "author": null,
+          "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",
+          "link": "https://www.freecodecamp.org/news/what-is-headless-cms-explained/",
+          "publishedOn": "2021-07-27T17:53:47.000Z",
+          "wordCount": 1363,
+          "title": "Headless CMS Explained – What it is and When You Should Use it"
+        },
+        {
+          "id": "60fa5ec41d2b080797b81bf8",
+          "author": null,
+          "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
+          "link": "https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/",
+          "publishedOn": "2021-07-27T15:49:00.000Z",
+          "wordCount": 1704,
+          "title": "JavaScript Immutability – Frozen Objects in JS Explained with Examples"
+        },
+        {
+          "id": "60fbe07822b0e2078fcd09bc",
+          "author": null,
+          "description": "In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is \"we meet on Friday at 08:00 am\". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as",
+          "link": "https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/",
+          "publishedOn": "2021-07-27T15:24:00.000Z",
+          "wordCount": 974,
+          "title": "Python Substring – How to Slice a String"
+        },
         {
           "id": "60fc070722b0e2078fcd0ae1",
           "author": null,
