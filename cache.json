@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345404",
+          "author": "Chris Coyier",
+          "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/safari-15-opinions/",
+          "publishedOn": "2021-07-28T20:21:55.000Z",
+          "wordCount": 1040,
+          "title": "Safari 15 Opinions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=320544",
+          "author": "Ana Tudor",
+          "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
+          "publishedOn": "2021-07-28T14:37:34.000Z",
+          "wordCount": 6716,
+          "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
+        },
+        {
           "id": "https://css-tricks.com/?p=345169",
           "author": "Chris Coyier",
           "description": "I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -318,6 +336,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
+          "author": "hello@smashingmagazine.com (Kitty Giraudel)",
+          "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
+          "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
+          "publishedOn": "2021-07-28T11:00:00.000Z",
+          "wordCount": 3091,
+          "title": "Creating An Accessible Dialog From Scratch",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "author": "hello@smashingmagazine.com (Alexander Dubovoy)",
@@ -639,34 +671,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
-          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "publishedOn": "2021-06-29T11:00:00.000Z",
-          "wordCount": 2459,
-          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "publishedOn": "2021-06-29T05:30:00.000Z",
-          "wordCount": 6625,
-          "title": "Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -675,6 +679,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f993f51d2b080797b818a7",
+          "author": null,
+          "description": "In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in",
+          "link": "https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/",
+          "publishedOn": "2021-07-28T17:24:21.000Z",
+          "wordCount": 1607,
+          "title": "Functions in Python – Explained with Code Examples"
+        },
+        {
+          "id": "60fec60822b0e2078fcd16f0",
+          "author": null,
+          "description": "A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large",
+          "link": "https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/",
+          "publishedOn": "2021-07-28T16:27:49.000Z",
+          "wordCount": 1675,
+          "title": "JavaScript Modules – Explained with Examples"
+        },
+        {
+          "id": "60e74b9c134ad707be00f284",
+          "author": null,
+          "description": "PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube",
+          "link": "https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/",
+          "publishedOn": "2021-07-28T14:18:37.000Z",
+          "wordCount": 19795,
+          "title": "How to Use PySpark for Data Processing and Machine Learning"
+        },
         {
           "id": "60ffec493306a507d1bf98f4",
           "author": null,
