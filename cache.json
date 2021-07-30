@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345518",
+          "author": "Chris Coyier",
+          "description": "An explanation of those new GitHub social media images:\n[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to \n…\nThe post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://github.blog/2021-06-22-framework-building-open-graph-images/",
+          "publishedOn": "2021-07-29T19:49:32.000Z",
+          "wordCount": 1708,
+          "title": "GitHub Explains the Open Graph Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344993",
+          "author": "Loren Sands-Ramshaw",
+          "description": "John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …\nThe post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/",
+          "publishedOn": "2021-07-29T14:54:00.000Z",
+          "wordCount": 1732,
+          "title": "So you want to self-publish books and courses on programming"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345260",
+          "author": "Chris Coyier",
+          "description": "I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …\nThe post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/developer-friendly-passwordless-auth/",
+          "publishedOn": "2021-07-29T14:47:47.000Z",
+          "wordCount": 1177,
+          "title": "Developer-Friendly Passwordless Auth"
+        },
+        {
           "id": "https://css-tricks.com/?p=345404",
           "author": "Chris Coyier",
           "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -337,6 +364,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/css-absolute-units/",
+          "author": "hello@smashingmagazine.com (Elad Shechter)",
+          "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
+          "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
+          "publishedOn": "2021-07-29T10:30:00.000Z",
+          "wordCount": 2952,
+          "title": "There Is No Such Thing As A CSS Absolute Unit",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "author": "hello@smashingmagazine.com (Kitty Giraudel)",
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
@@ -643,34 +684,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "author": "hello@smashingmagazine.com (Surma)",
-          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
-          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4741,
-          "title": "The State Of Web Workers In 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3719,
-          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -679,6 +692,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f0501b66c61b07d458df00",
+          "author": null,
+          "description": "We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your",
+          "link": "https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/",
+          "publishedOn": "2021-07-29T22:36:44.000Z",
+          "wordCount": 2472,
+          "title": "Android Camera2 – How to Use the Camera2 API to Take Photos and Videos"
+        },
+        {
+          "id": "60f534ec66c61b07d458ecfe",
+          "author": null,
+          "description": "The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a",
+          "link": "https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/",
+          "publishedOn": "2021-07-29T18:27:33.000Z",
+          "wordCount": 781,
+          "title": "Not Equal Sign – How to Type the Does Not Equal Symbol"
+        },
+        {
+          "id": "6102ccd03306a507d1bfb150",
+          "author": null,
+          "description": "Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/",
+          "publishedOn": "2021-07-29T15:52:57.000Z",
+          "wordCount": 4836,
+          "title": "Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud"
+        },
+        {
+          "id": "60fc708a22b0e2078fcd0cdc",
+          "author": null,
+          "description": "I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will",
+          "link": "https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/",
+          "publishedOn": "2021-07-29T15:35:00.000Z",
+          "wordCount": 4719,
+          "title": "Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet"
+        },
+        {
+          "id": "61018d5c3306a507d1bfa74a",
+          "author": null,
+          "description": "There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional",
+          "link": "https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/",
+          "publishedOn": "2021-07-29T15:32:30.000Z",
+          "wordCount": 1406,
+          "title": "Python If Else Statement – Conditional Statements Explained"
+        },
         {
           "id": "60f993f51d2b080797b818a7",
           "author": null,
