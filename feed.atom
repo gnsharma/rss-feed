@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T00:45:06.233Z</updated>
+    <updated>2021-08-03T00:51:23.427Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Modules (The Native Ones)]]></title>
+        <id>https://css-tricks.com/?p=345756</id>
+        <link href="https://css-tricks.com/css-modules-the-native-ones/"/>
+        <updated>2021-08-02T18:28:28.000Z</updated>
+        <summary type="html"><![CDATA[They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. 
+Native CSS Modules are …
+The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does the internet work?]]></title>
+        <id>61082bc93306a507d1bfc7b9</id>
+        <link href="https://www.freecodecamp.org/news/how-does-the-internet-work/"/>
+        <updated>2021-08-02T17:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Playable Synth Keyboard]]></title>
+        <id>https://css-tricks.com/?p=345178</id>
+        <link href="https://css-tricks.com/how-to-code-a-playable-synth-keyboard/"/>
+        <updated>2021-08-02T14:36:09.000Z</updated>
+        <summary type="html"><![CDATA[With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …
+The post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bret Cameron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/</id>
+        <link href="https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/"/>
+        <updated>2021-08-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
