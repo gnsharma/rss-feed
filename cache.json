@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345744",
+          "author": "Chris Coyier",
+          "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-as-proxies/",
+          "publishedOn": "2021-08-03T20:23:32.000Z",
+          "wordCount": 1029,
+          "title": "Serverless Functions as Proxies"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345807",
+          "author": "Rewind",
+          "description": "Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …\nThe post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT",
+          "publishedOn": "2021-08-03T20:22:34.000Z",
+          "wordCount": 231,
+          "title": "Automatic Daily GitHub Backups, Restored in Seconds"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345154",
+          "author": "Paul Ratcliffe",
+          "description": "While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …\nThe post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-deep-dive-on-skipping-to-content/",
+          "publishedOn": "2021-08-03T14:35:48.000Z",
+          "wordCount": 2684,
+          "title": "A Deep Dive on Skipping to Content"
+        },
+        {
           "id": "https://css-tricks.com/?p=345756",
           "author": "Chris Coyier",
           "description": "They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. \nNative CSS Modules are …\nThe post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -400,6 +427,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
+          "author": "hello@smashingmagazine.com (Callum Hart)",
+          "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
+          "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
+          "publishedOn": "2021-08-03T11:00:00.000Z",
+          "wordCount": 2937,
+          "title": "How To Build Resilient JavaScript UIs",
+          "enclosure": {
+            "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
+            "length": "0",
+            "type": "image/com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
@@ -720,20 +761,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
-          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1595,
-          "title": "Using HSL Colors In CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -742,6 +769,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61079f873306a507d1bfc360",
+          "author": null,
+          "description": "There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and",
+          "link": "https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/",
+          "publishedOn": "2021-08-03T19:53:47.000Z",
+          "wordCount": 1113,
+          "title": "JavaScript For Loop – How to Loop Through an Array in JS"
+        },
+        {
+          "id": "6104ec2f3306a507d1bfbc24",
+          "author": null,
+          "description": "Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed",
+          "link": "https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/",
+          "publishedOn": "2021-08-03T19:33:16.000Z",
+          "wordCount": 3176,
+          "title": "Developer Communities to Join to Help You Grow Your Tech Career"
+        },
+        {
+          "id": "610948d93306a507d1bfd0d5",
+          "author": null,
+          "description": "The copy and paste functionality on Android smartphones might seem to be a \"one-time\" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/",
+          "publishedOn": "2021-08-03T19:10:40.000Z",
+          "wordCount": 980,
+          "title": "How to Access Clipboard in Android (and Clear it)"
+        },
+        {
+          "id": "610640c03306a507d1bfbfcf",
+          "author": null,
+          "description": "A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help",
+          "link": "https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/",
+          "publishedOn": "2021-08-03T15:11:05.000Z",
+          "wordCount": 1095,
+          "title": "12 Free Coding Games to Learn Programming for Beginners"
+        },
+        {
+          "id": "61084aac3306a507d1bfc81c",
+          "author": null,
+          "description": "Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get",
+          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/",
+          "publishedOn": "2021-08-03T15:04:13.000Z",
+          "wordCount": 1080,
+          "title": "Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum"
+        },
         {
           "id": "61082bc93306a507d1bfc7b9",
           "author": null,
