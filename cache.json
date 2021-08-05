@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345866",
+          "author": "Chris Coyier",
+          "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
+          "publishedOn": "2021-08-04T23:44:06.000Z",
+          "wordCount": 4742,
+          "title": "The State Of Web Workers In 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345274",
+          "author": "Preethi",
+          "description": "Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …\nThe post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/",
+          "publishedOn": "2021-08-04T14:13:45.000Z",
+          "wordCount": 1444,
+          "title": "Using CSS Shapes for Interesting User Controls and Navigation"
+        },
+        {
           "id": "https://css-tricks.com/?p=345744",
           "author": "Chris Coyier",
           "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -427,6 +445,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
+          "author": "hello@smashingmagazine.com (Arihant Verma)",
+          "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
+          "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
+          "publishedOn": "2021-08-04T10:30:00.000Z",
+          "wordCount": 3282,
+          "title": "React Children And Iteration Methods",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "author": "hello@smashingmagazine.com (Callum Hart)",
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
@@ -747,20 +779,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
-          "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
-          "link": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "publishedOn": "2021-07-06T10:30:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Choose A Headless CMS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa37a67-9079-4b4d-9489-fcd87c7c3807/how-to-choose-a-headless-cms.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -769,6 +787,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "610afe863306a507d1bfdf1e",
+          "author": null,
+          "description": "In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.",
+          "link": "https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/",
+          "publishedOn": "2021-08-04T23:25:30.000Z",
+          "wordCount": 1180,
+          "title": "CSS Border – Style and HTML Code Examples"
+        },
+        {
+          "id": "6106575b3306a507d1bfc104",
+          "author": null,
+          "description": "In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS",
+          "link": "https://www.freecodecamp.org/news/html-padding-css-padding-order/",
+          "publishedOn": "2021-08-04T21:33:13.000Z",
+          "wordCount": 731,
+          "title": "HTML Padding – CSS Padding Order"
+        },
+        {
+          "id": "6106638c3306a507d1bfc15c",
+          "author": null,
+          "description": "Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those",
+          "link": "https://www.freecodecamp.org/news/sql-where-clause-examples/",
+          "publishedOn": "2021-08-04T15:32:26.000Z",
+          "wordCount": 1691,
+          "title": "SQL Where – Clause Examples"
+        },
+        {
+          "id": "610a56153306a507d1bfd5f0",
+          "author": null,
+          "description": "Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work",
+          "link": "https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/",
+          "publishedOn": "2021-08-04T15:02:39.000Z",
+          "wordCount": 1158,
+          "title": "CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]"
+        },
+        {
+          "id": "610641743306a507d1bfbfd4",
+          "author": null,
+          "description": "You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in",
+          "link": "https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/",
+          "publishedOn": "2021-08-04T14:46:14.000Z",
+          "wordCount": 1675,
+          "title": "CSS Background Color – How to Change the Background Color in HTML"
+        },
+        {
+          "id": "6109eca73306a507d1bfd3d2",
+          "author": null,
+          "description": "During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that",
+          "link": "https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/",
+          "publishedOn": "2021-08-04T01:35:10.000Z",
+          "wordCount": 25761,
+          "title": "Graph Algorithms for Technical Interviews"
+        },
+        {
+          "id": "6109e5233306a507d1bfd3ad",
+          "author": null,
+          "description": "React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary",
+          "link": "https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/",
+          "publishedOn": "2021-08-04T01:03:03.000Z",
+          "wordCount": 12944,
+          "title": "Code a Dictionary with React and Material UI"
+        },
         {
           "id": "61079f873306a507d1bfc360",
           "author": null,
@@ -1369,15 +1450,6 @@
           "publishedOn": "2021-07-19T07:46:12.000Z",
           "wordCount": 2847,
           "title": "Temporal - the iPhone of System Design"
-        },
-        {
-          "id": "https://swyx.io/new-mac-setup-2021",
-          "author": null,
-          "description": "I set up a new Mac for work today. Here's everything I use on a Mac for fullstack web development.",
-          "link": "https://swyx.io/new-mac-setup-2021",
-          "publishedOn": "2021-07-05T21:57:11.000Z",
-          "wordCount": 1200,
-          "title": "My 2021 New Mac Setup"
         }
       ]
     },

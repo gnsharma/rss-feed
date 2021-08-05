@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T00:44:57.352Z</updated>
+    <updated>2021-08-05T00:46:01.342Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://css-tricks.com/?p=345866</id>
+        <link href="https://www.smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-08-04T23:44:06.000Z</updated>
+        <summary type="html"><![CDATA[You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:
+[…] regardless 
+…
+The post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
+        <id>610afe863306a507d1bfdf1e</id>
+        <link href="https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/"/>
+        <updated>2021-08-04T23:25:30.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
+        <id>6106575b3306a507d1bfc104</id>
+        <link href="https://www.freecodecamp.org/news/html-padding-css-padding-order/"/>
+        <updated>2021-08-04T21:33:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
+        <id>6106638c3306a507d1bfc15c</id>
+        <link href="https://www.freecodecamp.org/news/sql-where-clause-examples/"/>
+        <updated>2021-08-04T15:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
+        <id>610a56153306a507d1bfd5f0</id>
+        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
+        <updated>2021-08-04T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
+        <id>610641743306a507d1bfbfd4</id>
+        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
+        <updated>2021-08-04T14:46:14.000Z</updated>
+        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
+        <id>https://css-tricks.com/?p=345274</id>
+        <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
+        <updated>2021-08-04T14:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …
+The post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Children And Iteration Methods]]></title>
+        <id>https://smashingmagazine.com/2021/08/react-children-iteration-methods/</id>
+        <link href="https://smashingmagazine.com/2021/08/react-children-iteration-methods/"/>
+        <updated>2021-08-04T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Arihant Verma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Algorithms for Technical Interviews]]></title>
+        <id>6109eca73306a507d1bfd3d2</id>
+        <link href="https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/"/>
+        <updated>2021-08-04T01:35:10.000Z</updated>
+        <summary type="html"><![CDATA[During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Dictionary with React and Material UI]]></title>
+        <id>6109e5233306a507d1bfd3ad</id>
+        <link href="https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/"/>
+        <updated>2021-08-04T01:03:03.000Z</updated>
+        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Functions as Proxies]]></title>
         <id>https://css-tricks.com/?p=345744</id>
@@ -1427,26 +1531,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
-        <updated>2021-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 2021 New Mac Setup]]></title>
-        <id>https://swyx.io/new-mac-setup-2021</id>
-        <link href="https://swyx.io/new-mac-setup-2021"/>
-        <updated>2021-07-05T21:57:11.000Z</updated>
-        <summary type="html"><![CDATA[I set up a new Mac for work today. Here's everything I use on a Mac for fullstack web development.]]></summary>
-        <author>
-            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
 </feed>
