@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T00:46:01.342Z</updated>
+    <updated>2021-08-06T00:49:01.500Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
+        <id>610be0ea3306a507d1bfe4b1</id>
+        <link href="https://www.freecodecamp.org/news/pre-tag-in-html-example-code/"/>
+        <updated>2021-08-05T21:33:51.000Z</updated>
+        <summary type="html"><![CDATA[The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain]]></title>
+        <id>6108233d3306a507d1bfc731</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/"/>
+        <updated>2021-08-05T16:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Buggy React Code Examples and How to Fix Them]]></title>
+        <id>https://css-tricks.com/?p=345418</id>
+        <link href="https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/"/>
+        <updated>2021-08-05T14:24:36.000Z</updated>
+        <summary type="html"><![CDATA[There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …
+The post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hugh Haworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML for Beginners]]></title>
+        <id>60db390127f80207bcdbb455</id>
+        <link href="https://www.freecodecamp.org/news/html-crash-course/"/>
+        <updated>2021-08-05T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Disabled Buttons]]></title>
+        <id>https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/</id>
+        <link href="https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/"/>
+        <updated>2021-08-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL]]></title>
+        <id>https://css-tricks.com/?p=345552</id>
+        <link href="https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/"/>
+        <updated>2021-08-05T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Flutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …
+The post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Fauna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
         <id>https://css-tricks.com/?p=345866</id>
@@ -1521,16 +1584,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Uma Victor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
-        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
-        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
-        <updated>2021-07-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
         </author>
     </entry>
 </feed>

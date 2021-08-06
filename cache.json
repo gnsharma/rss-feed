@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345418",
+          "author": "Hugh Haworth",
+          "description": "There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …\nThe post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/",
+          "publishedOn": "2021-08-05T14:24:36.000Z",
+          "wordCount": 3842,
+          "title": "Three Buggy React Code Examples and How to Fix Them"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345552",
+          "author": "Fauna",
+          "description": "(This is a sponsored post.)\nFlutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …\nThe post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/",
+          "publishedOn": "2021-08-05T09:23:00.000Z",
+          "wordCount": 3141,
+          "title": "How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL"
+        },
+        {
           "id": "https://css-tricks.com/?p=345866",
           "author": "Chris Coyier",
           "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -445,6 +463,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
+          "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
+          "publishedOn": "2021-08-05T13:30:00.000Z",
+          "wordCount": 6565,
+          "title": "Frustrating Design Patterns: Disabled Buttons",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "author": "hello@smashingmagazine.com (Arihant Verma)",
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
@@ -765,20 +797,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
-          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
-          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4076,
-          "title": "An Introduction To Figma Interactive Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -787,6 +805,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "610be0ea3306a507d1bfe4b1",
+          "author": null,
+          "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
+          "link": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
+          "publishedOn": "2021-08-05T21:33:51.000Z",
+          "wordCount": 1047,
+          "title": "&lt;pre&gt; Tag in HTML – Example Code"
+        },
+        {
+          "id": "6108233d3306a507d1bfc731",
+          "author": null,
+          "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",
+          "link": "https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/",
+          "publishedOn": "2021-08-05T16:37:56.000Z",
+          "wordCount": 1409,
+          "title": "Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain"
+        },
+        {
+          "id": "60db390127f80207bcdbb455",
+          "author": null,
+          "description": "HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend",
+          "link": "https://www.freecodecamp.org/news/html-crash-course/",
+          "publishedOn": "2021-08-05T14:19:09.000Z",
+          "wordCount": 1180,
+          "title": "HTML for Beginners"
+        },
         {
           "id": "610afe863306a507d1bfdf1e",
           "author": null,
