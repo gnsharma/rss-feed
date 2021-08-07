@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T00:49:01.500Z</updated>
+    <updated>2021-08-07T00:41:28.243Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
+        <id>61067c973306a507d1bfc1ba</id>
+        <link href="https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/"/>
+        <updated>2021-08-06T21:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Row VS Column in Excel – What is the Difference?]]></title>
+        <id>610cebc13306a507d1bfeca9</id>
+        <link href="https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/"/>
+        <updated>2021-08-06T21:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Gobbler]]></title>
+        <id>https://css-tricks.com/?p=346259</id>
+        <link href="https://css-tricks.com/svg-gobbler/"/>
+        <updated>2021-08-06T19:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Great little project from Ross Moody: 
+SVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.
+…
+The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insert Into SQL – SQL Insert Statement Example]]></title>
+        <id>6107c0593306a507d1bfc565</id>
+        <link href="https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/"/>
+        <updated>2021-08-06T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Switch Case – JS Switch Statement Example]]></title>
+        <id>610658bf3306a507d1bfc110</id>
+        <link href="https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/"/>
+        <updated>2021-08-06T15:18:55.000Z</updated>
+        <summary type="html"><![CDATA[There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()]]></title>
+        <id>https://css-tricks.com/?p=345467</id>
+        <link href="https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/"/>
+        <updated>2021-08-06T14:55:06.000Z</updated>
+        <summary type="html"><![CDATA[I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …
+The post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andy Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gridless.design]]></title>
+        <id>https://css-tricks.com/?p=345878</id>
+        <link href="https://gridless.design/"/>
+        <updated>2021-08-06T14:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Donnie D’Amato built a whole site around the thesis that “digital designers still expect to use the grid while experienced layout engineers have moved beyond it.” The idea isn’t that we should never literally use display: grid; but rather that …
+The post gridless.design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
+        <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
+        <updated>2021-08-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
         <id>610be0ea3306a507d1bfe4b1</id>
@@ -1574,16 +1659,6 @@ The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support
 The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
-        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
-        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Uma Victor)</name>
         </author>
     </entry>
 </feed>
