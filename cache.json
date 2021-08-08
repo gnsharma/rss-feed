@@ -463,24 +463,6 @@
           "publishedOn": "2021-07-09T14:31:57.000Z",
           "wordCount": 2485,
           "title": "SVG Favicons in Action"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344024",
-          "author": "Chris Coyier",
-          "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://wesbos.com/javascript",
-          "publishedOn": "2021-07-08T22:25:22.000Z",
-          "wordCount": 700,
-          "title": "Beginner JavaScript Notes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343623",
-          "author": "Amit Sheen",
-          "description": "The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …\nThe post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/",
-          "publishedOn": "2021-07-08T14:35:38.000Z",
-          "wordCount": 2007,
-          "title": "My Struggle to Use and Animate a Conic Gradient in SVG"
         }
       ]
     },
@@ -807,20 +789,6 @@
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
-          "author": "hello@smashingmagazine.com (Todd Libby)",
-          "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
-          "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
-          "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2972,
-          "title": "Making A Strong Case For Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
             "length": "0",
             "type": "image/jpg"
           }
