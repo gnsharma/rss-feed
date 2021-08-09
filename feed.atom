@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T00:45:51.813Z</updated>
+    <updated>2021-08-09T00:47:26.393Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I'm not a VC (yet)]]></title>
+        <id>https://swyx.io/not-vc-yet</id>
+        <link href="https://swyx.io/not-vc-yet"/>
+        <updated>2021-08-08T06:26:46.000Z</updated>
+        <summary type="html"><![CDATA[There is too much money chasing too few operators.]]></summary>
+        <author>
+            <name>Swyx.io RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
         <id>61067c973306a507d1bfc1ba</id>
@@ -1604,29 +1614,6 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:focus-visible in WebKit]]></title>
-        <id>https://css-tricks.com/?p=344334</id>
-        <link href="https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/"/>
-        <updated>2021-07-09T18:53:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …
-The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Favicons in Action]]></title>
-        <id>https://css-tricks.com/?p=343598</id>
-        <link href="https://css-tricks.com/svg-favicons-in-action/"/>
-        <updated>2021-07-09T14:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?
-The task is more non-trivial than you might think. As we will see in this …
-The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Philippe Bernard</name>
         </author>
     </entry>
 </feed>
