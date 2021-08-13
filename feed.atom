@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T00:44:53.172Z</updated>
+    <updated>2021-08-13T00:46:21.061Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stay alert]]></title>
+        <id>https://css-tricks.com/?p=346608</id>
+        <link href="https://dev.to/richharris/stay-alert-d"/>
+        <updated>2021-08-12T21:10:22.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …
+The post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Online – HTML, CSS, and JS Code Editor List [Browser IDE Tools]]]></title>
+        <id>610655c93306a507d1bfc0e6</id>
+        <link href="https://www.freecodecamp.org/news/javascript-online-html-css-js-code-editor-list-browser-ide-tools/"/>
+        <updated>2021-08-12T19:31:16.000Z</updated>
+        <summary type="html"><![CDATA[There are many benefits to coding in an online IDE or code editor. With these tools you don't need to set anything up locally, you can easily share your work, and they are often free to use. In this article, you'll learn what a code editor and an IDE are.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML and CSS – Inline Style, External Stylesheet, CSS Code Examples]]></title>
+        <id>6115261272231b077cdaebfe</id>
+        <link href="https://www.freecodecamp.org/news/html-and-css-inline-style-external-stylesheet-css-code-examples/"/>
+        <updated>2021-08-12T18:47:27.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning about web development, you probably hear about HTML and CSS pretty quickly. Well, what are these tools and how do you use them?  You can think of HTML as the structure and framing of a house. And when you want to make that structure look good, you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Websites Where You Can Learn How to Code for Free]]></title>
+        <id>6107c0203306a507d1bfc551</id>
+        <link href="https://www.freecodecamp.org/news/coding-websites-where-you-can-learn-how-to-code-for-free/"/>
+        <updated>2021-08-12T18:11:29.000Z</updated>
+        <summary type="html"><![CDATA[In this day and age, it seems like everyone is learning to code. Maybe you want to know how websites work, or you think back fondly on the old blogging platforms where you could hack together some HTML to personalize them. Or maybe you are curious to learn what all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel Authentication Tutorial – How to Set Up Basic Auth in Laravel 8]]></title>
+        <id>610fefc23306a507d1c00896</id>
+        <link href="https://www.freecodecamp.org/news/basic-authentication-in-laravel8-using-laravel-breeze/"/>
+        <updated>2021-08-12T15:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is an important feature and basic requirement in web applications these days. And developers spend lots of time building authentication modules for every application they create.  But this manual approach can get tiring and is a bit unproductive. This is where Laravel really shines. It, along with Laravel Breeze,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install and Set Up Flutter on Ubuntu 16.04+]]></title>
+        <id>610e15c63306a507d1bffb45</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-and-setup-flutter-on-ubuntu/"/>
+        <updated>2021-08-12T15:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is a Dart-based toolkit that helps you build the front end of your apps. It really shines in cross-platform mobile app development and aims to be a viable option for web and desktop as well.  In its mobile app flavor, Flutter provides many UI abstractions to build interfaces. You]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Modern Clean Architecture]]></title>
+        <id>6112e3c972231b077cdad299</id>
+        <link href="https://www.freecodecamp.org/news/modern-clean-architecture/"/>
+        <updated>2021-08-12T15:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Clean Architecture is a term coined by Robert C. Martin. The main idea is that entities and use cases are independent of frameworks, UI, the database, and external services. A Clean Architecture style has a positive effect on maintainability because: We can test domain entities and use cases without a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Form – Input Type and Submit Button Example]]></title>
+        <id>6113ee6272231b077cdadbd3</id>
+        <link href="https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/"/>
+        <updated>2021-08-12T15:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Forms are one of the most important parts of the web. Without them, there wouldn't be an easy way to collect data, search for resources, or sign up to receive valuable information.  You can embed forms on websites with the HTML form element. Inside the form element, several inputs are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Web Components in WordPress is Easier Than You Think]]></title>
+        <id>https://css-tricks.com/?p=345687</id>
+        <link href="https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/"/>
+        <updated>2021-08-12T14:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Now that we’ve seen that web components and interactive web components are both easier than you think, let’s take a look at adding them to a content management system, namely WordPress.
+There are three major ways we can add them. …
+The post Using Web Components in WordPress is Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Figma Plugins And Tools]]></title>
+        <id>https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/</id>
+        <link href="https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/"/>
+        <updated>2021-08-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Janet John)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastAPI Course – Code APIs Quickly]]></title>
+        <id>610aec303306a507d1bfdf07</id>
+        <link href="https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/"/>
+        <updated>2021-08-12T13:07:37.000Z</updated>
+        <summary type="html"><![CDATA[FastAPI makes it quicker and easier to develop APIs with Python. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to use FastAPI.  Tomi Tokko developed this course. Tomi has made many popular courses both on his own channel and the freeCodeCamp]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binary Search Tree Algorithms for JavaScript Beginners]]></title>
         <id>61025c793306a507d1bfad64</id>
@@ -1922,70 +2035,6 @@ The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Server Scanning With Nikto – A Beginner&#x27;s Guide]]></title>
-        <id>60ebb55be8ee9b08300ed731</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/"/>
-        <updated>2021-07-14T07:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Redis? How to Install and Basic Commands]]></title>
-        <id>60eb2a69e8ee9b08300ed5b3</id>
-        <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
-        <updated>2021-07-14T06:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Redis is a type of database that you can add to your production level applicaiton to make it more performant.  In this article, I'll go over some Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on React and JavaScript]]></title>
-        <id>https://css-tricks.com/?p=344316</id>
-        <link href="https://css-tricks.com/links-on-react-and-javascript/"/>
-        <updated>2021-07-13T19:57:10.000Z</updated>
-        <summary type="html"><![CDATA[As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …
-The post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Theme Color and Trickery]]></title>
-        <id>https://css-tricks.com/?p=343850</id>
-        <link href="https://css-tricks.com/meta-theme-color-and-trickery/"/>
-        <updated>2021-07-13T14:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…
-The post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Manuel Matuzovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack Community Survey 2021]]></title>
-        <id>https://css-tricks.com/?p=344542</id>
-        <link href="https://www.surveymonkey.com/r/jamstack-survey-css-tricks"/>
-        <updated>2021-07-13T14:34:48.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-The folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …
-The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Git Branches Work]]></title>
-        <id>60e73db9134ad707be00f206</id>
-        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
-        <updated>2021-07-13T13:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
