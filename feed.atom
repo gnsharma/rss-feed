@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T00:46:21.061Z</updated>
+    <updated>2021-08-14T00:42:07.071Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unicode Arrows]]></title>
+        <id>https://css-tricks.com/?p=346665</id>
+        <link href="https://unicodearrows.com/"/>
+        <updated>2021-08-13T18:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. 
+Reminds …
+The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Cool Front End Thing Generator]]></title>
+        <id>https://css-tricks.com/?p=345944</id>
+        <link href="https://css-tricks.com/building-a-cool-front-end-thing-generator/"/>
+        <updated>2021-08-13T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …
+The post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Polacek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stay alert]]></title>
         <id>https://css-tricks.com/?p=346608</id>
@@ -1983,58 +2006,6 @@ The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tr
         <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
-        <id>60d4e7596e1a1407b6b0bb56</id>
-        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
-        <updated>2021-07-14T17:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
-        <id>5ff5461e7af2371468bb7ece</id>
-        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
-        <updated>2021-07-14T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
-        <id>https://css-tricks.com/?p=344249</id>
-        <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
-        <updated>2021-07-14T14:31:02.000Z</updated>
-        <summary type="html"><![CDATA[I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …
-The post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bashful Button Worth $8 Million]]></title>
-        <id>https://css-tricks.com/?p=344407</id>
-        <link href="https://cloudfour.com/thinks/a-bashful-button-worth-8-million/"/>
-        <updated>2021-07-14T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …
-The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
-        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
-        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
-        <updated>2021-07-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
