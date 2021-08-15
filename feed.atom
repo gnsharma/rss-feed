@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:42:07.071Z</updated>
+    <updated>2021-08-15T00:45:24.472Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
@@ -1954,58 +1954,6 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
-        <id>https://css-tricks.com/?p=344273</id>
-        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
-        <updated>2021-07-15T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
-Most of those examples, though, use …
-The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Georgi Nikoloff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
-        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
-        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
-        <updated>2021-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
-        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
-        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
-        <updated>2021-07-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
-        <id>60e74160134ad707be00f23f</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
-        <updated>2021-07-15T13:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
-        <id>60ead07ee8ee9b08300ed387</id>
-        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
-        <updated>2021-07-15T13:13:02.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

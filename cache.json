@@ -517,15 +517,6 @@
           "publishedOn": "2021-07-16T14:42:40.000Z",
           "wordCount": 727,
           "title": "Some Typography Links"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344273",
-          "author": "Georgi Nikoloff",
-          "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/",
-          "publishedOn": "2021-07-15T14:40:03.000Z",
-          "wordCount": 1984,
-          "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
         }
       ]
     },
@@ -854,34 +845,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
-          "author": "hello@smashingmagazine.com (Cassidy Williams)",
-          "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
-          "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1074,
-          "title": "ISR vs DPR: Big Words, Quick Explanation",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.",
-          "link": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
-          "publishedOn": "2021-07-15T13:45:00.000Z",
-          "wordCount": 3198,
-          "title": "You Can Do That With A JavaScript Data Grid?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a22acbe3-8a80-4f08-95eb-d440e60c5723/kendo-ui-homepage.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -1817,24 +1780,6 @@
           "publishedOn": "2021-07-16T18:41:57.000Z",
           "wordCount": 2999,
           "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
-        },
-        {
-          "id": "60e74160134ad707be00f23f",
-          "author": null,
-          "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
-          "link": "https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/",
-          "publishedOn": "2021-07-15T13:43:01.000Z",
-          "wordCount": 8503,
-          "title": "Learn the FARM Stack! (FastAPI, React, MongoDB)"
-        },
-        {
-          "id": "60ead07ee8ee9b08300ed387",
-          "author": null,
-          "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
-          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
-          "publishedOn": "2021-07-15T13:13:02.000Z",
-          "wordCount": 7095,
-          "title": "The Apache Cassandra Beginner Tutorial"
         }
       ]
     },
