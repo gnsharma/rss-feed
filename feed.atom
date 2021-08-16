@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:45:24.472Z</updated>
+    <updated>2021-08-16T00:44:36.580Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
@@ -1899,61 +1899,6 @@ The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Tim
         <summary type="html"><![CDATA[Temporal ties Orchestration, Event Sourcing, and Workflows-as-Code in one distributed system and it is eating the world.]]></summary>
         <author>
             <name>Swyx.io RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
-        <id>https://css-tricks.com/?p=344217</id>
-        <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
-        <updated>2021-07-16T20:27:46.000Z</updated>
-        <summary type="html"><![CDATA[We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …
-The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
-        <id>60eef23666c61b07d458d43c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/"/>
-        <updated>2021-07-16T18:41:57.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!]]></title>
-        <id>https://css-tricks.com/?p=344147</id>
-        <link href="https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/"/>
-        <updated>2021-07-16T14:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!
-Here’s a quick look at the clocks …
-The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mate Marschalko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Typography Links]]></title>
-        <id>https://css-tricks.com/?p=344411</id>
-        <link href="https://css-tricks.com/some-typography-links-3/"/>
-        <updated>2021-07-16T14:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a 
-…
-The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
-        <updated>2021-07-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>

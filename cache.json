@@ -490,33 +490,6 @@
           "publishedOn": "2021-07-19T14:43:29.000Z",
           "wordCount": 2018,
           "title": "Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344217",
-          "author": "Chris Coyier",
-          "description": "We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …\nThe post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/",
-          "publishedOn": "2021-07-16T20:27:46.000Z",
-          "wordCount": 670,
-          "title": "WordPress Admin Warnings in the Block Editor"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344147",
-          "author": "Mate Marschalko",
-          "description": "Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!\nHere’s a quick look at the clocks …\nThe post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/",
-          "publishedOn": "2021-07-16T14:43:01.000Z",
-          "wordCount": 4450,
-          "title": "Of Course We Can Make a CSS-Only Clock That Tells the Current Time!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344411",
-          "author": "Chris Coyier",
-          "description": "Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a \n…\nThe post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/some-typography-links-3/",
-          "publishedOn": "2021-07-16T14:42:40.000Z",
-          "wordCount": 727,
-          "title": "Some Typography Links"
         }
       ]
     },
@@ -829,20 +802,6 @@
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-          "author": "hello@smashingmagazine.com (Marcus Herrmann)",
-          "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
-          "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-          "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4808,
-          "title": "Three Insights I Gained While Researching Vue.js Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1771,15 +1730,6 @@
           "publishedOn": "2021-07-19T13:56:48.000Z",
           "wordCount": 18791,
           "title": "Understanding Recursion in Programming"
-        },
-        {
-          "id": "60eef23666c61b07d458d43c",
-          "author": null,
-          "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
-          "link": "https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/",
-          "publishedOn": "2021-07-16T18:41:57.000Z",
-          "wordCount": 2999,
-          "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
         }
       ]
     },
