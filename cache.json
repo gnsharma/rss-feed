@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=348288",
+          "author": "Chris Coyier",
+          "description": "Over at the JS Party poundcast:\n[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And \n…\nThe post “We had 90% unused CSS because everybody was afraid to touch the old stuff” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/we-had-90-unused-css-because-everybody-was-afraid-to-touch-the-old-stuff/",
+          "publishedOn": "2021-08-18T22:16:42.000Z",
+          "wordCount": 725,
+          "title": "“We had 90% unused CSS because everybody was afraid to touch the old stuff”"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346147",
+          "author": "Paulina Hetman",
+          "description": "Have you already tried using WordPress headlessly with Gatsby? If you haven’t, you might check this article around the new Gatsby source plugin for WordPress; gatsby-source-wordpress is the official source plugin introduced in March 2021 as a part of the …\nThe post Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/native-search-vs-jetpack-instant-search-in-headless-wordpress-with-gatsby/",
+          "publishedOn": "2021-08-18T14:46:09.000Z",
+          "wordCount": 3678,
+          "title": "Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby"
+        },
+        {
           "id": "https://css-tricks.com/?p=346697",
           "author": "Chris Coyier",
           "description": "Dave points to Sarah’s post on Developer Experience (DX) at Netlify. Part of what Sarah did there is lay out what the role means. It’s a three-part thing:\nIntegrations Engineering (e.g. features)\nDeveloper Experience Engineering (e.g. building integrations \n…\nThe post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -517,24 +535,6 @@
           "publishedOn": "2021-07-20T15:03:40.000Z",
           "wordCount": 3131,
           "title": "Typewriter Animation That Handles Anything You Throw at It"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344404",
-          "author": "Chris Coyier",
-          "description": "Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …\nThe post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/images-are-hard/",
-          "publishedOn": "2021-07-19T20:51:07.000Z",
-          "wordCount": 901,
-          "title": "Images are hard."
-        },
-        {
-          "id": "https://css-tricks.com/?p=343893",
-          "author": "Bramus Van Damme",
-          "description": "The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.\nIn this post, we take a …\nThe post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/",
-          "publishedOn": "2021-07-19T14:43:29.000Z",
-          "wordCount": 2018,
-          "title": "Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines"
         }
       ]
     },
@@ -543,6 +543,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
+          "author": "hello@smashingmagazine.com (Anna Prenzel)",
+          "description": "In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.",
+          "link": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
+          "publishedOn": "2021-08-18T08:00:00.000Z",
+          "wordCount": 3317,
+          "title": "Creating An Interactive Gantt Chart Component With Vanilla JavaScript",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bcf1248-c58e-47f4-a94f-3cbac5c60b45/interactive-gantt-chart-component-vanillajs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/open-source-icons/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -850,20 +864,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/",
-          "author": "hello@smashingmagazine.com (Alba Silvente)",
-          "description": "In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.",
-          "link": "https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/",
-          "publishedOn": "2021-07-20T10:30:00.000Z",
-          "wordCount": 5509,
-          "title": "How To Migrate From WordPress To A Headless CMS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7bddb338-e4de-4f6b-a6ee-1a00c82f42ee/wordpress-headless-cms-storyblok.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -872,6 +872,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61135a3472231b077cdad609",
+          "author": null,
+          "description": "If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/",
+          "publishedOn": "2021-08-18T18:02:02.000Z",
+          "wordCount": 2883,
+          "title": "How to Build a Portfolio Site with Next.js and TailwindCSS"
+        },
+        {
+          "id": "610d63b33306a507d1bff79f",
+          "author": null,
+          "description": "You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend",
+          "link": "https://www.freecodecamp.org/news/writing-tips-software-developers/",
+          "publishedOn": "2021-08-18T16:48:00.000Z",
+          "wordCount": 1812,
+          "title": "Writing Tips for Software Developers – How to Become a Better Tech Writer"
+        },
         {
           "id": "611c1448e884de0752180af9",
           "author": null,
@@ -1879,69 +1897,6 @@
           "publishedOn": "2021-07-20T13:18:33.000Z",
           "wordCount": 15838,
           "title": "Learn to Use the MySQL Database"
-        },
-        {
-          "id": "60f3e5ca66c61b07d458eb2d",
-          "author": null,
-          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
-          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
-          "publishedOn": "2021-07-19T22:25:44.000Z",
-          "wordCount": 1246,
-          "title": "How to Install Xcode Command Line Tools on a Mac"
-        },
-        {
-          "id": "60f53af066c61b07d458ed0a",
-          "author": null,
-          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
-          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
-          "publishedOn": "2021-07-19T19:00:35.000Z",
-          "wordCount": 1566,
-          "title": "RGB Color – HTML and CSS Guide"
-        },
-        {
-          "id": "60f2829d66c61b07d458e58f",
-          "author": null,
-          "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
-          "link": "https://www.freecodecamp.org/news/get-started-with-cloud-native/",
-          "publishedOn": "2021-07-19T18:12:13.000Z",
-          "wordCount": 1358,
-          "title": "What is Cloud Native? The Cloud Computing Delivery Model Explained"
-        },
-        {
-          "id": "60ec528ce8ee9b08300edb9e",
-          "author": null,
-          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
-          "publishedOn": "2021-07-19T16:50:30.000Z",
-          "wordCount": 2311,
-          "title": "How to Scrape Websites with Node.js and Cheerio"
-        },
-        {
-          "id": "60e7d016134ad707be00f47c",
-          "author": null,
-          "description": "Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if",
-          "link": "https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/",
-          "publishedOn": "2021-07-19T15:25:39.000Z",
-          "wordCount": 1079,
-          "title": "How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage"
-        },
-        {
-          "id": "60dbcc7c27f80207bcdbbcff",
-          "author": null,
-          "description": "In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email",
-          "link": "https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/",
-          "publishedOn": "2021-07-19T14:34:59.000Z",
-          "wordCount": 2641,
-          "title": "How Does Kerberos Work? The Authentication Protocol Explained"
-        },
-        {
-          "id": "60f18a9666c61b07d458e2b0",
-          "author": null,
-          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
-          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
-          "publishedOn": "2021-07-19T13:56:48.000Z",
-          "wordCount": 18791,
-          "title": "Understanding Recursion in Programming"
         }
       ]
     },
