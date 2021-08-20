@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350054",
+          "author": "Chris Coyier",
+          "description": "I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.\nLet’s chuck a couple of custom properties into CSS:\nhtml {\n  --color-1: red;\n  --color-2: blue;\n}\nLet’s use them right …\nThe post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-big-gotcha-with-custom-properties/",
+          "publishedOn": "2021-08-19T19:04:48.000Z",
+          "wordCount": 1217,
+          "title": "The Big Gotcha With Custom Properties"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346563",
+          "author": "Nader Dabit",
+          "description": "Nuxt is a JavaScript framework that extends the existing functionality of Vue.js with features like server-side rendering, static page generation, file-based routing, and automatic code splitting among other things.\nI’ve been enjoying using frameworks like Nuxt and Next because they …\nThe post Using Nuxt and Supabase for  a Multi-User Blogging App appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-nuxt-and-supabase-for-a-multi-user-blogging-app/",
+          "publishedOn": "2021-08-19T14:32:57.000Z",
+          "wordCount": 4189,
+          "title": "Using Nuxt and Supabase for  a Multi-User Blogging App"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350035",
+          "author": "Shadid Haque",
+          "description": "(This is a sponsored post.)\nIn this article, we will discuss how we can apply schema stitching across multiple Fauna instances. We will also discuss how to combine other GraphQL services and data sources with Fauna in one graph.…\nThe post Implementing a single GraphQL across multiple data sources appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/implementing-a-single-graphql-across-multiple-data-sources/",
+          "publishedOn": "2021-08-19T14:30:41.000Z",
+          "wordCount": 2398,
+          "title": "Implementing a single GraphQL across multiple data sources"
+        },
+        {
           "id": "https://css-tricks.com/?p=348288",
           "author": "Chris Coyier",
           "description": "Over at the JS Party poundcast:\n[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And \n…\nThe post “We had 90% unused CSS because everybody was afraid to touch the old stuff” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -508,33 +535,6 @@
           "publishedOn": "2021-07-21T14:37:07.000Z",
           "wordCount": 4131,
           "title": "A Step-By-Step Process for Turning Designs Into Code"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345062",
-          "author": "Robin Rendle",
-          "description": "Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:\nModern UI teams are designing components \n…\nThe post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85",
-          "publishedOn": "2021-07-20T23:34:53.000Z",
-          "wordCount": 836,
-          "title": "The Nine States of Design"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344944",
-          "author": "Chris Coyier",
-          "description": "Eric doesn’t mince words, especially in the title, but also in the conclusion:\nIn modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in \n…\nThe post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-07-20T20:02:06.000Z",
-          "wordCount": 1646,
-          "title": "Your Image Is Probably Not Decorative"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344497",
-          "author": "Murtuzaali Surti",
-          "description": "I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …\nThe post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/",
-          "publishedOn": "2021-07-20T15:03:40.000Z",
-          "wordCount": 3131,
-          "title": "Typewriter Animation That Handles Anything You Throw at It"
         }
       ]
     },
@@ -543,6 +543,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
+          "author": "hello@smashingmagazine.com (Devin Harold)",
+          "description": "Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.",
+          "link": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
+          "publishedOn": "2021-08-19T10:00:00.000Z",
+          "wordCount": 5339,
+          "title": "How To Build An Ethical User Research Practice At Any Organization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72fbade7-8284-47ba-93d7-0f8a7aefdb7e/ethical-user-research-practice.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
           "author": "hello@smashingmagazine.com (Anna Prenzel)",
@@ -872,6 +886,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "611e8bac3bccf807612a34df",
+          "author": null,
+          "description": "When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show",
+          "link": "https://www.freecodecamp.org/news/html-font-style-how-to-change-text-color-and-size-with-an-html-tag/",
+          "publishedOn": "2021-08-19T23:23:07.000Z",
+          "wordCount": 651,
+          "title": "HTML Font Style – How to Change Text Color and Size with an HTML Tag"
+        },
+        {
+          "id": "611d436ee884de0752181044",
+          "author": null,
+          "description": "In CSS, the display property determines how an element looks. It is also a crucial part of the presentation of you HTML code as it has a significant impact on layouts.  In fact, to use the modern Flexbox and Grid models, you need to use the display property before you",
+          "link": "https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/",
+          "publishedOn": "2021-08-19T20:47:14.000Z",
+          "wordCount": 1716,
+          "title": "The CSS Display Property – Display None, Display Table, Inline Block and More"
+        },
+        {
+          "id": "611e4447e884de0752181578",
+          "author": null,
+          "description": "The term “lexical scope” may seem tricky to grasp at first glance. But it's helpful to understand what each word means. So this article will explain lexical scope by first examining the meaning of “lexical” and “scope”. So, let’s get it started by understanding the term “scope”. What exactly",
+          "link": "https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/",
+          "publishedOn": "2021-08-19T19:56:48.000Z",
+          "wordCount": 1834,
+          "title": "Lexical Scope in JavaScript – What Exactly Is Scope in JS?"
+        },
+        {
+          "id": "611e3f8ee884de0752181566",
+          "author": null,
+          "description": "In HTML, you can't create an extra blank space after the space ( ) character with the spacebar. If you want 10 blank spaces in your HTML code and you try to add them with the spacebar, you'll only see one space in the browser.  Also, one or more of the words",
+          "link": "https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/",
+          "publishedOn": "2021-08-19T17:29:46.000Z",
+          "wordCount": 1200,
+          "title": "HTML Space – How to Add a Non-breaking Space with the &amp;nbsp; Character Entity"
+        },
+        {
+          "id": "611d2ad1e884de0752180f58",
+          "author": null,
+          "description": "When ES6 (EmcaScript 2015) came out, it ushered in a whole new set of methods for iterating over an array. And one of the most useful is the map() method. Array.prototype.map() is a built-in array method for iterating through the elements inside an array collection in JavaScript. Think",
+          "link": "https://www.freecodecamp.org/news/array-map-tutorial/",
+          "publishedOn": "2021-08-19T16:16:57.000Z",
+          "wordCount": 1546,
+          "title": "JavaScript Array.map() Tutorial – How to Iterate Through Elements in an Array with map()"
+        },
+        {
+          "id": "6116c31e72231b077cdafc89",
+          "author": null,
+          "description": "The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from",
+          "link": "https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/",
+          "publishedOn": "2021-08-19T12:43:56.000Z",
+          "wordCount": 636,
+          "title": "Learn the Java Native Interface - Free 28-Hour Course"
+        },
         {
           "id": "61135a3472231b077cdad609",
           "author": null,
@@ -1852,51 +1920,6 @@
           "publishedOn": "2021-07-21T15:20:18.000Z",
           "wordCount": 1624,
           "title": "CSS Background Image – With HTML Example Code"
-        },
-        {
-          "id": "605301d528094f59be257c67",
-          "author": null,
-          "description": "In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5",
-          "link": "https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/",
-          "publishedOn": "2021-07-20T22:48:13.000Z",
-          "wordCount": 667,
-          "title": "HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code"
-        },
-        {
-          "id": "60f2dbac66c61b07d458e5c9",
-          "author": null,
-          "description": "In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I",
-          "link": "https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/",
-          "publishedOn": "2021-07-20T20:04:12.000Z",
-          "wordCount": 1350,
-          "title": "Programming VS Coding VS Development – What&#x27;s the Difference?"
-        },
-        {
-          "id": "60ed44c866c61b07d458d023",
-          "author": null,
-          "description": "Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be",
-          "link": "https://www.freecodecamp.org/news/scale-system-split-processes/",
-          "publishedOn": "2021-07-20T19:26:45.000Z",
-          "wordCount": 1209,
-          "title": "How to Scale a System With Process Splitting and Redis"
-        },
-        {
-          "id": "60e009e527f80207bcdbd00a",
-          "author": null,
-          "description": "If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media",
-          "link": "https://www.freecodecamp.org/news/css-properties-examples/",
-          "publishedOn": "2021-07-20T17:09:20.000Z",
-          "wordCount": 835,
-          "title": "CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples"
-        },
-        {
-          "id": "60f1d20a66c61b07d458e4a3",
-          "author": null,
-          "description": "MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes",
-          "link": "https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/",
-          "publishedOn": "2021-07-20T13:18:33.000Z",
-          "wordCount": 15838,
-          "title": "Learn to Use the MySQL Database"
         }
       ]
     },

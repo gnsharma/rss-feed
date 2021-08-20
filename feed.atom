@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T00:39:28.132Z</updated>
+    <updated>2021-08-20T00:44:20.459Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Font Style – How to Change Text Color and Size with an HTML Tag]]></title>
+        <id>611e8bac3bccf807612a34df</id>
+        <link href="https://www.freecodecamp.org/news/html-font-style-how-to-change-text-color-and-size-with-an-html-tag/"/>
+        <updated>2021-08-19T23:23:07.000Z</updated>
+        <summary type="html"><![CDATA[When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS Display Property – Display None, Display Table, Inline Block and More]]></title>
+        <id>611d436ee884de0752181044</id>
+        <link href="https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/"/>
+        <updated>2021-08-19T20:47:14.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, the display property determines how an element looks. It is also a crucial part of the presentation of you HTML code as it has a significant impact on layouts.  In fact, to use the modern Flexbox and Grid models, you need to use the display property before you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexical Scope in JavaScript – What Exactly Is Scope in JS?]]></title>
+        <id>611e4447e884de0752181578</id>
+        <link href="https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/"/>
+        <updated>2021-08-19T19:56:48.000Z</updated>
+        <summary type="html"><![CDATA[The term “lexical scope” may seem tricky to grasp at first glance. But it's helpful to understand what each word means. So this article will explain lexical scope by first examining the meaning of “lexical” and “scope”. So, let’s get it started by understanding the term “scope”. What exactly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Gotcha With Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=350054</id>
+        <link href="https://css-tricks.com/the-big-gotcha-with-custom-properties/"/>
+        <updated>2021-08-19T19:04:48.000Z</updated>
+        <summary type="html"><![CDATA[I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.
+Let’s chuck a couple of custom properties into CSS:
+html {
+  --color-1: red;
+  --color-2: blue;
+}
+Let’s use them right …
+The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Space – How to Add a Non-breaking Space with the &amp;nbsp; Character Entity]]></title>
+        <id>611e3f8ee884de0752181566</id>
+        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/"/>
+        <updated>2021-08-19T17:29:46.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, you can't create an extra blank space after the space ( ) character with the spacebar. If you want 10 blank spaces in your HTML code and you try to add them with the spacebar, you'll only see one space in the browser.  Also, one or more of the words]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.map() Tutorial – How to Iterate Through Elements in an Array with map()]]></title>
+        <id>611d2ad1e884de0752180f58</id>
+        <link href="https://www.freecodecamp.org/news/array-map-tutorial/"/>
+        <updated>2021-08-19T16:16:57.000Z</updated>
+        <summary type="html"><![CDATA[When ES6 (EmcaScript 2015) came out, it ushered in a whole new set of methods for iterating over an array. And one of the most useful is the map() method. Array.prototype.map() is a built-in array method for iterating through the elements inside an array collection in JavaScript. Think]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Nuxt and Supabase for  a Multi-User Blogging App]]></title>
+        <id>https://css-tricks.com/?p=346563</id>
+        <link href="https://css-tricks.com/using-nuxt-and-supabase-for-a-multi-user-blogging-app/"/>
+        <updated>2021-08-19T14:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Nuxt is a JavaScript framework that extends the existing functionality of Vue.js with features like server-side rendering, static page generation, file-based routing, and automatic code splitting among other things.
+I’ve been enjoying using frameworks like Nuxt and Next because they …
+The post Using Nuxt and Supabase for  a Multi-User Blogging App appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a single GraphQL across multiple data sources]]></title>
+        <id>https://css-tricks.com/?p=350035</id>
+        <link href="https://css-tricks.com/implementing-a-single-graphql-across-multiple-data-sources/"/>
+        <updated>2021-08-19T14:30:41.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In this article, we will discuss how we can apply schema stitching across multiple Fauna instances. We will also discuss how to combine other GraphQL services and data sources with Fauna in one graph.…
+The post Implementing a single GraphQL across multiple data sources appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shadid Haque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Java Native Interface - Free 28-Hour Course]]></title>
+        <id>6116c31e72231b077cdafc89</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/"/>
+        <updated>2021-08-19T12:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
+        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
+        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
+        <updated>2021-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devin Harold)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“We had 90% unused CSS because everybody was afraid to touch the old stuff”]]></title>
         <id>https://css-tricks.com/?p=348288</id>
@@ -2003,93 +2114,6 @@ The post A Step-By-Step Process for Turning Designs Into Code appeared first on 
         <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nine States of Design]]></title>
-        <id>https://css-tricks.com/?p=345062</id>
-        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
-        <updated>2021-07-20T23:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
-Modern UI teams are designing components 
-…
-The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
-        <id>605301d528094f59be257c67</id>
-        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
-        <updated>2021-07-20T22:48:13.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
-        <id>60f2dbac66c61b07d458e5c9</id>
-        <link href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/"/>
-        <updated>2021-07-20T20:04:12.000Z</updated>
-        <summary type="html"><![CDATA[In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://css-tricks.com/?p=344944</id>
-        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-07-20T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
-In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
-…
-The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale a System With Process Splitting and Redis]]></title>
-        <id>60ed44c866c61b07d458d023</id>
-        <link href="https://www.freecodecamp.org/news/scale-system-split-processes/"/>
-        <updated>2021-07-20T19:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
-        <id>60e009e527f80207bcdbd00a</id>
-        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
-        <updated>2021-07-20T17:09:20.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
-        <id>https://css-tricks.com/?p=344497</id>
-        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
-        <updated>2021-07-20T15:03:40.000Z</updated>
-        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
-The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Murtuzaali Surti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
-        <id>60f1d20a66c61b07d458e4a3</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
-        <updated>2021-07-20T13:18:33.000Z</updated>
-        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
