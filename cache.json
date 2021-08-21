@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350186",
+          "author": "Chris Coyier",
+          "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/disambiguating-tailwind/",
+          "publishedOn": "2021-08-20T19:59:47.000Z",
+          "wordCount": 585,
+          "title": "“Disambiguating Tailwind”"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346702",
+          "author": "Ganesh Dahal",
+          "description": "Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …\nThe post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-headless-wordpress-site-with-frontity/",
+          "publishedOn": "2021-08-20T14:59:30.000Z",
+          "wordCount": 2966,
+          "title": "Creating a Headless WordPress Site With Frontity"
+        },
+        {
           "id": "https://css-tricks.com/?p=350054",
           "author": "Chris Coyier",
           "description": "I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.\nLet’s chuck a couple of custom properties into CSS:\nhtml {\n  --color-1: red;\n  --color-2: blue;\n}\nLet’s use them right …\nThe post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -508,33 +526,6 @@
           "publishedOn": "2021-07-22T14:39:09.000Z",
           "wordCount": 967,
           "title": "Hashnode: A Blogging Platform for Developers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344950",
-          "author": "Chris Coyier",
-          "description": "Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …\nThe post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/",
-          "publishedOn": "2021-07-21T21:08:17.000Z",
-          "wordCount": 513,
-          "title": "Yet Another Mobile Context Menu With No Indication it Can Scroll"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344948",
-          "author": "Chris Coyier",
-          "description": "Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. \nimport configData from './config-data.json' assert {type: \n…\nThe post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://2ality.com/2021/06/json-modules.html",
-          "publishedOn": "2021-07-21T21:08:08.000Z",
-          "wordCount": 634,
-          "title": "ECMAScript proposal: JSON modules"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344337",
-          "author": "Mark Noonan",
-          "description": "Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …\nThe post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/",
-          "publishedOn": "2021-07-21T14:37:07.000Z",
-          "wordCount": 4131,
-          "title": "A Step-By-Step Process for Turning Designs Into Code"
         }
       ]
     },
@@ -543,6 +534,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
+          "author": "hello@smashingmagazine.com (Mike Neumegen)",
+          "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
+          "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
+          "publishedOn": "2021-08-20T08:00:00.000Z",
+          "wordCount": 4596,
+          "title": "Jamstack CMS: The Past, The Present and The Future",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "author": "hello@smashingmagazine.com (Devin Harold)",
@@ -850,34 +855,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
-          "author": "hello@smashingmagazine.com (Matthew Talebi)",
-          "description": "Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.",
-          "link": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
-          "publishedOn": "2021-07-22T12:30:00.000Z",
-          "wordCount": 2582,
-          "title": "Adding Time To Your Schedule As A Professional",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/75bfca56-7f2b-488f-b9eb-7fa00d930444/5-time-scheduling.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/color-tools-resources/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
-          "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
-          "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3060,
-          "title": "Color Tools And Resources",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -886,6 +863,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "611fd94c3bccf807612a4160",
+          "author": null,
+          "description": "As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical",
+          "link": "https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/",
+          "publishedOn": "2021-08-20T18:20:42.000Z",
+          "wordCount": 1713,
+          "title": "React Coding Interview – How to Stand Out and Ace the Challenges"
+        },
+        {
+          "id": "611bf4f8e884de0752180979",
+          "author": null,
+          "description": "In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/",
+          "publishedOn": "2021-08-20T17:54:40.000Z",
+          "wordCount": 1935,
+          "title": "How to Create a Truly Reusable React Component from Scratch"
+        },
+        {
+          "id": "611f9b083bccf807612a3df0",
+          "author": null,
+          "description": "When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to",
+          "link": "https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/",
+          "publishedOn": "2021-08-20T17:21:23.000Z",
+          "wordCount": 960,
+          "title": "HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag"
+        },
+        {
+          "id": "611d56d3e884de07521810f9",
+          "author": null,
+          "description": "At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers",
+          "link": "https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/",
+          "publishedOn": "2021-08-20T03:21:20.000Z",
+          "wordCount": 1620,
+          "title": "Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning"
+        },
         {
           "id": "611e8bac3bccf807612a34df",
           "author": null,
@@ -1857,69 +1870,6 @@
           "publishedOn": "2021-07-22T13:58:50.000Z",
           "wordCount": 4843,
           "title": "Learn CSS Flexbox in This Crash Course"
-        },
-        {
-          "id": "60f55f3e66c61b07d458ee8c",
-          "author": null,
-          "description": "The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’",
-          "link": "https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/",
-          "publishedOn": "2021-07-21T22:39:42.000Z",
-          "wordCount": 1311,
-          "title": "10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)"
-        },
-        {
-          "id": "60f5ecb966c61b07d458f479",
-          "author": null,
-          "description": "You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement",
-          "link": "https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/",
-          "publishedOn": "2021-07-21T21:28:55.000Z",
-          "wordCount": 1654,
-          "title": "Why You Should Use EditorConfig to Standardize Code Styles"
-        },
-        {
-          "id": "60f81c021d2b080797b80d44",
-          "author": null,
-          "description": "You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when",
-          "link": "https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/",
-          "publishedOn": "2021-07-21T21:02:54.000Z",
-          "wordCount": 1132,
-          "title": "What is about:blank? Chrome Blank Homepage Guide"
-        },
-        {
-          "id": "60f83b421d2b080797b80f10",
-          "author": null,
-          "description": "Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.",
-          "link": "https://www.freecodecamp.org/news/low-code-tutorial/",
-          "publishedOn": "2021-07-21T15:40:35.000Z",
-          "wordCount": 441,
-          "title": "Low-Code Tutorial – Build 3 Financial Apps"
-        },
-        {
-          "id": "60f7eeda1d2b080797b80b31",
-          "author": null,
-          "description": "React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never",
-          "link": "https://www.freecodecamp.org/news/react-context-for-beginners/",
-          "publishedOn": "2021-07-21T15:39:28.000Z",
-          "wordCount": 1684,
-          "title": "React Context for Beginners – The Complete Guide (2021)"
-        },
-        {
-          "id": "60f5c9b866c61b07d458f2af",
-          "author": null,
-          "description": "Article by @study_web_dev",
-          "link": "https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/",
-          "publishedOn": "2021-07-21T15:24:57.000Z",
-          "wordCount": 2572,
-          "title": "13 Freelance Developer Portfolios to Inspire You"
-        },
-        {
-          "id": "60f66b6f66c61b07d458f93c",
-          "author": null,
-          "description": "What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing",
-          "link": "https://www.freecodecamp.org/news/css-background-image-with-html-example-code/",
-          "publishedOn": "2021-07-21T15:20:18.000Z",
-          "wordCount": 1624,
-          "title": "CSS Background Image – With HTML Example Code"
         }
       ]
     },
@@ -1945,15 +1895,6 @@
           "publishedOn": "2021-08-08T06:26:46.000Z",
           "wordCount": 1090,
           "title": "Why I'm not a VC (yet)"
-        },
-        {
-          "id": "https://swyx.io/apples-name",
-          "author": null,
-          "description": "An excerpt from Becoming Steve Jobs that made me stop in my tracks.",
-          "link": "https://swyx.io/apples-name",
-          "publishedOn": "2021-07-22T02:11:17.000Z",
-          "wordCount": 755,
-          "title": "The Genius of Apple's Name"
         }
       ]
     },
