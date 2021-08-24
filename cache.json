@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350264",
+          "author": "Chris Coyier",
+          "description": "You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:\n[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the \n…\nThe post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
+          "publishedOn": "2021-08-23T17:16:38.000Z",
+          "wordCount": 1292,
+          "title": "Detecting Media Query Support in CSS and JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350160",
+          "author": "Chris Coyier",
+          "description": "We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: \n// Adds to browser history\nhistory.pushState({}, \"About Page\", \"/about\");\n\n// Doesn't\nhistory.replaceState({}, \"About Page\", \"/about\");\nJavaScript is also capable of replacing any content in the …\nThe post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/native-javascript-routing/",
+          "publishedOn": "2021-08-23T14:28:14.000Z",
+          "wordCount": 832,
+          "title": "Native JavaScript Routing?"
+        },
+        {
           "id": "https://css-tricks.com/?p=350186",
           "author": "Chris Coyier",
           "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -490,6 +508,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/",
+          "author": "hello@smashingmagazine.com (Robin Marx)",
+          "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.",
+          "link": "https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/",
+          "publishedOn": "2021-08-23T06:20:00.000Z",
+          "wordCount": 10549,
+          "title": "HTTP/3: Performance Improvements (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d5e5ddd-7a90-48c6-84c5-dc5c335e2305/congestion-control.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
           "author": "hello@smashingmagazine.com (Mike Neumegen)",
           "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
@@ -804,6 +836,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6107c03b3306a507d1bfc55b",
+          "author": null,
+          "description": "In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data",
+          "link": "https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/",
+          "publishedOn": "2021-08-24T00:08:46.000Z",
+          "wordCount": 1459,
+          "title": "SQL Join Types – Inner Join VS Outer Join Example"
+        },
+        {
+          "id": "6053033528094f59be257c91",
+          "author": null,
+          "description": "In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/",
+          "publishedOn": "2021-08-23T21:22:42.000Z",
+          "wordCount": 1504,
+          "title": "freeCodeCamp Tribute Page Project – Tips for Getting Started"
+        },
+        {
+          "id": "6120eac83bccf807612a4bd6",
+          "author": null,
+          "description": "We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using",
+          "link": "https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/",
+          "publishedOn": "2021-08-23T18:23:27.000Z",
+          "wordCount": 2974,
+          "title": "How to Build an Android News App with React Native and Native Base"
+        },
+        {
+          "id": "611a940ae884de075217f649",
+          "author": null,
+          "description": "As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.",
+          "link": "https://www.freecodecamp.org/news/announcing-rust-course-replit-web/",
+          "publishedOn": "2021-08-23T17:03:24.000Z",
+          "wordCount": 749,
+          "title": "We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework"
+        },
+        {
+          "id": "6107c04a3306a507d1bfc561",
+          "author": null,
+          "description": "Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more",
+          "link": "https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/",
+          "publishedOn": "2021-08-23T15:30:47.000Z",
+          "wordCount": 2778,
+          "title": "SQL Contains String – SQL RegEx Example Query"
+        },
+        {
+          "id": "61064ad03306a507d1bfc001",
+          "author": null,
+          "description": "If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is",
+          "link": "https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/",
+          "publishedOn": "2021-08-23T15:30:27.000Z",
+          "wordCount": 1362,
+          "title": "Front End Developer – What is Front End Development, Explained in Plain English"
+        },
+        {
+          "id": "6116e52a72231b077cdafcf6",
+          "author": null,
+          "description": "When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best",
+          "link": "https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/",
+          "publishedOn": "2021-08-23T13:24:09.000Z",
+          "wordCount": 50738,
+          "title": "Programming for Beginners - How to Code with Python and C#"
+        },
         {
           "id": "611fd94c3bccf807612a4160",
           "author": null,
@@ -1756,6 +1851,15 @@
       "feedUrl": "https://www.swyx.io/rss.xml",
       "siteUrl": "https://swyx.io/",
       "articles": [
+        {
+          "id": "https://swyx.io/why-usage-billing",
+          "author": null,
+          "description": "Usage billing is the new hotness for SaaS, and I have personally seen the pain it caused, but I was ultimately scared off from investing in it.",
+          "link": "https://swyx.io/why-usage-billing",
+          "publishedOn": "2021-08-23T08:28:32.000Z",
+          "wordCount": 1076,
+          "title": "Why Isn't Usage Based Billing A Bigger Category?"
+        },
         {
           "id": "https://swyx.io/measuring-devrel",
           "author": null,
