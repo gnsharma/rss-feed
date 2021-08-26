@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350311",
+          "author": "Chris Coyier",
+          "description": "A question:\nIf you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?\nMatt Stauffer, Twitter\n\nI wrote about doing this in Sublime Text a …\nThe post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/one-way-to-convert-code-indentation/",
+          "publishedOn": "2021-08-25T22:34:04.000Z",
+          "wordCount": 754,
+          "title": "One Way to Convert Code Indentation"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346612",
+          "author": "Eli Penner",
+          "description": "Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …\nThe post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/",
+          "publishedOn": "2021-08-25T14:55:17.000Z",
+          "wordCount": 2905,
+          "title": "Stealing Game Animation Techniques to Engage Users"
+        },
+        {
           "id": "https://css-tricks.com/?p=350486",
           "author": "Chris Coyier",
           "description": "This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …\nThe post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -499,33 +517,6 @@
           "publishedOn": "2021-07-27T15:02:43.000Z",
           "wordCount": 2605,
           "title": "CSS Logical Properties and Values"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345297",
-          "author": "Chris Coyier",
-          "description": "Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. \nstyled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …\nThe post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "publishedOn": "2021-07-27T00:17:01.000Z",
-          "wordCount": 2758,
-          "title": "Demystifying styled-components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344653",
-          "author": "Luke Edwards",
-          "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-          "publishedOn": "2021-07-26T14:36:13.000Z",
-          "wordCount": 4189,
-          "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345288",
-          "author": "Chris Coyier",
-          "description": "Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …\nThe post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://slinkity.dev/",
-          "publishedOn": "2021-07-26T14:36:04.000Z",
-          "wordCount": 550,
-          "title": "Slinkity"
         }
       ]
     },
@@ -534,6 +525,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "In this article, Leonardo explains how to use a \"multi-monorepo\" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.",
+          "link": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
+          "publishedOn": "2021-08-25T07:10:00.000Z",
+          "wordCount": 3496,
+          "title": "Creating A Public/Private Multi-Monorepo For PHP Projects",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a223ab2b-d926-4fec-a422-bed6e7b02178/01-architecture.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
           "author": "hello@smashingmagazine.com (Portia Burton)",
@@ -841,20 +846,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-          "author": "hello@smashingmagazine.com (Alexander Dubovoy)",
-          "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
-          "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-          "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3558,
-          "title": "Global vs. Local Styling In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -863,6 +854,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "612114773bccf807612a5084",
+          "author": null,
+          "description": "In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data",
+          "link": "https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/",
+          "publishedOn": "2021-08-25T21:39:37.000Z",
+          "wordCount": 2157,
+          "title": "Data Science Interview Questions for Beginners"
+        },
+        {
+          "id": "612633433bccf807612a7bf4",
+          "author": null,
+          "description": "JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be",
+          "link": "https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/",
+          "publishedOn": "2021-08-25T20:04:19.000Z",
+          "wordCount": 1085,
+          "title": "What is a JSON File? Example JavaScript Code"
+        },
+        {
+          "id": "611e7d553bccf807612a33ec",
+          "author": null,
+          "description": "IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these",
+          "link": "https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/",
+          "publishedOn": "2021-08-25T16:17:20.000Z",
+          "wordCount": 1210,
+          "title": "What is Raspberry Pi? Specs and Models (2021 Guide)"
+        },
+        {
+          "id": "61064a8d3306a507d1bfbff9",
+          "author": null,
+          "description": "JavaScript was created over 26 years ago and is currently one of the most popular programming languages. But what is JavaScript?  JavaScript is used with HTML and CSS to create dynamic and interactive web pages and mobile applications. We often call it one of the building blocks of web development.",
+          "link": "https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/",
+          "publishedOn": "2021-08-25T15:44:41.000Z",
+          "wordCount": 1396,
+          "title": "What is JavaScript? JavaScript Code Explained in Plain English"
+        },
+        {
+          "id": "6063b8f89618b008528a9d7d",
+          "author": null,
+          "description": "Today we're gonna learn how to use the CSS units EM, REM, VW and VH by working through some practical examples. We'll also see how to make responsive websites with these units.  Let's start. 💖 Table of ContentsWhy learn relative units?What are REM Units?How to make responsive websites with",
+          "link": "https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/",
+          "publishedOn": "2021-08-25T15:34:28.000Z",
+          "wordCount": 1563,
+          "title": "Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨"
+        },
         {
           "id": "611f54d33bccf807612a38c4",
           "author": null,
@@ -1924,42 +1960,6 @@
           "publishedOn": "2021-07-27T15:24:00.000Z",
           "wordCount": 974,
           "title": "Python Substring – How to Slice a String"
-        },
-        {
-          "id": "60fc070722b0e2078fcd0ae1",
-          "author": null,
-          "description": "The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called",
-          "link": "https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/",
-          "publishedOn": "2021-07-26T23:01:30.000Z",
-          "wordCount": 2250,
-          "title": "Google Doodle Games – Baseball, PacMan, and More"
-        },
-        {
-          "id": "60f746ee1d2b080797b807f6",
-          "author": null,
-          "description": "Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are",
-          "link": "https://www.freecodecamp.org/news/how-to-find-remote-jobs/",
-          "publishedOn": "2021-07-26T21:46:24.000Z",
-          "wordCount": 1095,
-          "title": "How to Find Remote Jobs – 25 Websites To Help You Work from Home Online"
-        },
-        {
-          "id": "60fa671e1d2b080797b81cd4",
-          "author": null,
-          "description": "If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/",
-          "publishedOn": "2021-07-26T21:41:00.000Z",
-          "wordCount": 3761,
-          "title": "How to Perform CRUD Operations using React, React Hooks, and Axios"
-        },
-        {
-          "id": "60fe9a5222b0e2078fcd154f",
-          "author": null,
-          "description": "You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that",
-          "link": "https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/",
-          "publishedOn": "2021-07-26T19:23:37.000Z",
-          "wordCount": 1468,
-          "title": "What is Pseudocode? How to Use Pseudocode to Solve Coding Problems"
         }
       ]
     },
