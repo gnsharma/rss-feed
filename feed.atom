@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T00:42:54.263Z</updated>
+    <updated>2021-08-27T00:49:17.516Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
+        <id>612203fb3bccf807612a5756</id>
+        <link href="https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/"/>
+        <updated>2021-08-26T23:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered if there is a method to delay your JavaScript code by a few seconds?  In this article, I will explain what the setTimeout() method is with code examples and how it differs from setInterval().  What is setTimeout() in JavaScript?setTimeout() is a method that will execute]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing for the Unexpected]]></title>
+        <id>https://css-tricks.com/?p=350573</id>
+        <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
+        <updated>2021-08-26T23:07:31.000Z</updated>
+        <summary type="html"><![CDATA[When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …
+The post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Font – CSS Font Family Example (Serif and Sans Serif Characters)]]></title>
+        <id>6117b37a72231b077cdafea8</id>
+        <link href="https://www.freecodecamp.org/news/html-font-css-font-family-example-serif-and-sans-serif-characters/"/>
+        <updated>2021-08-26T22:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right font is an important first step in making your website usable and accessible.  How text is formatted affects how readable your designs and webpages are.  You can modify how your HTML text appears in many ways using CSS. You can select the type of font you want]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Left Join – Example Join Statement Syntax]]></title>
+        <id>6107c0083306a507d1bfc549</id>
+        <link href="https://www.freecodecamp.org/news/sql-left-join-example-join-statement-syntax/"/>
+        <updated>2021-08-26T20:29:12.000Z</updated>
+        <summary type="html"><![CDATA[In a Relational Database, tables are often related to each other in a way that allows their information to only be written once in the whole database. Then, when you need to analyze the data, you'll need to combine the info from those related tables. To do this in SQL,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently III]]></title>
+        <id>https://css-tricks.com/?p=350298</id>
+        <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iii/"/>
+        <updated>2021-08-26T19:35:21.000Z</updated>
+        <summary type="html"><![CDATA[The perfect link — Rian Rietveld defines them: “When you click on them, they take you somewhere else.” Not much code in here (we’ve got that), just a lot of practical accessibility advice. For example, the alt text 
+…
+The post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-08-26T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Would you like to talk to a chatbot that speaks like your favorite character, fictional or non-fictional? Let's build one!  In case you've seen my previous tutorial on this topic, stick with me as this version features lots of updates. You can follow along with this tutorial using the code]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Delete Branch – How to Remove a Local or Remote Branch]]></title>
+        <id>6125f93b3bccf807612a7b84</id>
+        <link href="https://www.freecodecamp.org/news/git-delete-branch-how-to-remove-a-local-or-remote-branch/"/>
+        <updated>2021-08-26T17:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Git is a popular version control system and an essential tool in a web developer's toolkit.  Branches are a powerful and integral part of working with Git.  In this article, you will learn the basics about how to remove local and remote branches in Git.  What are Branches in Git?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript in Spanish – Full Course for Beginners]]></title>
+        <id>612439163bccf807612a6e69</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-in-spanish-full-course-for-beginners/"/>
+        <updated>2021-08-26T16:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Welcome! If you speak Spanish and you want you learn JavaScript, you're in the right place. freeCodeCamp just published a free 9-hour JavaScript course for beginners. You will learn everything you need to know to get started with JavaScript, a key programming language for web development and many other applications.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Splash Screen to Your Flutter App]]></title>
+        <id>611f3dde3bccf807612a37c3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-a-splash-screen-in-flutter-app/"/>
+        <updated>2021-08-26T16:30:17.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we're going to learn how to integrate a splash screen in a Flutter app. But first, why is having a splash screen in your app essential? What is a Splash Screen?A splash screen is an initial screen that gets displayed right when the user launches the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.filter() Tutorial – How to Iterate Through Elements in an Array]]></title>
+        <id>6123a7673bccf807612a64bf</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/"/>
+        <updated>2021-08-26T16:07:48.000Z</updated>
+        <summary type="html"><![CDATA[The Array.filter() method is arguably the most important and widely used method for iterating over an array in JavaScript. The way the filter() method works is very simple. It entails filtering out one or more items (a subset) from a larger collection of items (a superset) based on some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made a Generator for SVG Loaders With Sass and SMIL Options]]></title>
+        <id>https://css-tricks.com/?p=350223</id>
+        <link href="https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/"/>
+        <updated>2021-08-26T14:35:03.000Z</updated>
+        <summary type="html"><![CDATA[While learning Vue.js, I started building free web tools that involved the exploration of SVG, with the goal of learning something about both! Let’s take a look at one of those tools: a generator that makes SVG loaders and …
+The post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make a Discord Chat Bot That Talks Like Rick Sanchez]]></title>
+        <id>61279c123bccf807612a8bda</id>
+        <link href="https://www.freecodecamp.org/news/make-a-discord-bot-that-talks-like-rick-sanchez/"/>
+        <updated>2021-08-26T13:59:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use artificial intelligence to make a Discord chat bot talk like your favorite character. It could be a Rick and Morty character, Harry Potter, Peppa Pig, or someone else. We just released a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pushing Back Against Privacy Infringement On The Web]]></title>
+        <id>https://smashingmagazine.com/2021/08/against-privacy-infringement-web/</id>
+        <link href="https://smashingmagazine.com/2021/08/against-privacy-infringement-web/"/>
+        <updated>2021-08-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Berjon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
         <id>https://css-tricks.com/?p=350311</id>
@@ -2080,100 +2214,6 @@ The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared f
         <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
-        <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
-        <updated>2021-07-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
-        <id>https://css-tricks.com/?p=345169</id>
-        <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
-        <updated>2021-07-27T23:18:33.000Z</updated>
-        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
-The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES2021 Features]]></title>
-        <id>https://css-tricks.com/?p=345400</id>
-        <link href="https://h3manth.com/ES2021/"/>
-        <updated>2021-07-27T23:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
-There are new things like “arbitrarily chuck underscores …
-The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
-        <id>60ffec493306a507d1bf98f4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/"/>
-        <updated>2021-07-27T22:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
-        <id>60ff23533306a507d1bf9345</id>
-        <link href="https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/"/>
-        <updated>2021-07-27T19:59:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
-        <id>60dabcb327f80207bcdbb316</id>
-        <link href="https://www.freecodecamp.org/news/what-is-headless-cms-explained/"/>
-        <updated>2021-07-27T17:53:47.000Z</updated>
-        <summary type="html"><![CDATA[CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Immutability – Frozen Objects in JS Explained with Examples]]></title>
-        <id>60fa5ec41d2b080797b81bf8</id>
-        <link href="https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/"/>
-        <updated>2021-07-27T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Substring – How to Slice a String]]></title>
-        <id>60fbe07822b0e2078fcd09bc</id>
-        <link href="https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/"/>
-        <updated>2021-07-27T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is "we meet on Friday at 08:00 am". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
-        <id>https://css-tricks.com/?p=344815</id>
-        <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
-        <updated>2021-07-27T15:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …
-The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
         </author>
     </entry>
 </feed>
