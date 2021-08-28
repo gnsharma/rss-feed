@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T00:49:17.516Z</updated>
+    <updated>2021-08-28T00:42:21.169Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My tiny side project has had more impact than my decade in the software industry]]></title>
+        <id>https://css-tricks.com/?p=350782</id>
+        <link href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/"/>
+        <updated>2021-08-27T19:14:10.000Z</updated>
+        <summary type="html"><![CDATA[That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …
+The post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
+        <id>600dc4230a2838549dcb6e8e</id>
+        <link href="https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/"/>
+        <updated>2021-08-27T19:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics]]></title>
+        <id>612796f53bccf807612a8b55</id>
+        <link href="https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/"/>
+        <updated>2021-08-27T17:02:29.000Z</updated>
+        <summary type="html"><![CDATA[I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Web Design – Modern Website Code for Beginners]]></title>
+        <id>6127e0efb5177808226d29cb</id>
+        <link href="https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/"/>
+        <updated>2021-08-27T16:33:18.000Z</updated>
+        <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fixed Background Attachment Hack]]></title>
+        <id>https://css-tricks.com/?p=350201</id>
+        <link href="https://css-tricks.com/the-fixed-background-attachment-hack/"/>
+        <updated>2021-08-27T14:42:16.000Z</updated>
+        <summary type="html"><![CDATA[What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …
+The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound Components In React]]></title>
+        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
+        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
+        <updated>2021-08-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
         <id>612203fb3bccf807612a5756</id>
@@ -2152,68 +2214,6 @@ The post So you want to self-publish books and courses on programming appeared f
 The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
-        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
-        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
-        <updated>2021-07-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Elad Shechter)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
-        <id>https://css-tricks.com/?p=345404</id>
-        <link href="https://css-tricks.com/safari-15-opinions/"/>
-        <updated>2021-07-28T20:21:55.000Z</updated>
-        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
-The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
-        <id>60f993f51d2b080797b818a7</id>
-        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
-        <updated>2021-07-28T17:24:21.000Z</updated>
-        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
-        <id>60fec60822b0e2078fcd16f0</id>
-        <link href="https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/"/>
-        <updated>2021-07-28T16:27:49.000Z</updated>
-        <summary type="html"><![CDATA[A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
-        <id>https://css-tricks.com/?p=320544</id>
-        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
-        <updated>2021-07-28T14:37:34.000Z</updated>
-        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
-The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
-        <id>60e74b9c134ad707be00f284</id>
-        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
-        <updated>2021-07-28T14:18:37.000Z</updated>
-        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
