@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T00:42:21.169Z</updated>
+    <updated>2021-08-29T00:47:58.088Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
@@ -2119,101 +2119,6 @@ The post A Shared ESLint Configuration appeared first on CSS-Tricks. You can sup
 The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>George Francis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
-        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
-        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
-        <updated>2021-07-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
-        <id>60f0501b66c61b07d458df00</id>
-        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
-        <updated>2021-07-29T22:36:44.000Z</updated>
-        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
-        <id>https://css-tricks.com/?p=345518</id>
-        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
-        <updated>2021-07-29T19:49:32.000Z</updated>
-        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
-[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
-…
-The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
-        <id>60f534ec66c61b07d458ecfe</id>
-        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
-        <updated>2021-07-29T18:27:33.000Z</updated>
-        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
-        <id>6102ccd03306a507d1bfb150</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
-        <updated>2021-07-29T15:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
-        <id>60fc708a22b0e2078fcd0cdc</id>
-        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
-        <updated>2021-07-29T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
-        <id>61018d5c3306a507d1bfa74a</id>
-        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
-        <updated>2021-07-29T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
-        <id>https://css-tricks.com/?p=344993</id>
-        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
-        <updated>2021-07-29T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
-The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Loren Sands-Ramshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
-        <id>https://css-tricks.com/?p=345260</id>
-        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
-        <updated>2021-07-29T14:47:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
-The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
