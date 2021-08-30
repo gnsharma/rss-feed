@@ -472,24 +472,6 @@
           "publishedOn": "2021-08-02T14:36:09.000Z",
           "wordCount": 2817,
           "title": "How to Code a Playable Synth Keyboard"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345628",
-          "author": "Chris Coyier",
-          "description": "Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …\nThe post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://katydecorah.com/code/eslint-config/",
-          "publishedOn": "2021-07-30T20:07:06.000Z",
-          "wordCount": 237,
-          "title": "A Shared ESLint Configuration"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345256",
-          "author": "George Francis",
-          "description": "The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …\nThe post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/",
-          "publishedOn": "2021-07-30T14:54:36.000Z",
-          "wordCount": 5641,
-          "title": "Conjuring Generative Blobs With The CSS Paint API"
         }
       ]
     },
@@ -790,20 +772,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
-          "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
-          "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2507,
-          "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -1865,51 +1833,6 @@
           "publishedOn": "2021-08-02T17:39:24.000Z",
           "wordCount": 362,
           "title": "How does the internet work?"
-        },
-        {
-          "id": "6053023028094f59be257c79",
-          "author": null,
-          "description": "When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.  What is an HTML 5 boilerplate?According to Wikipedia,  boilerplate",
-          "link": "https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/",
-          "publishedOn": "2021-07-30T22:41:08.000Z",
-          "wordCount": 797,
-          "title": "Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project"
-        },
-        {
-          "id": "60f534d266c61b07d458ecf8",
-          "author": null,
-          "description": "If you want to add a number to a text string, you can't do so directly since the format isn't maintained. Also, a number added to a text string doesn't have any formatting or all its decimal places.  The TEXT function comes in handy here, as it allows you to",
-          "link": "https://www.freecodecamp.org/news/excel-text-function-how-to-convert-a-number-to-text-format/",
-          "publishedOn": "2021-07-30T22:22:23.000Z",
-          "wordCount": 1003,
-          "title": "Excel Text Function – How to Convert a Number to Text Format"
-        },
-        {
-          "id": "610478b63306a507d1bfbb23",
-          "author": null,
-          "description": "Actor-Critic Methods are very useful reinforcement learning techniques. Actor-critic methods are most useful for applications in robotics as they allow software to output continuous, rather than discrete actions. This enables control of electric motors to actuate movement in robotic systems, at the expense of increased computational complexity. We just released",
-          "link": "https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/",
-          "publishedOn": "2021-07-30T22:20:15.000Z",
-          "wordCount": 480,
-          "title": "Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course"
-        },
-        {
-          "id": "6102c9803306a507d1bfb0f4",
-          "author": null,
-          "description": "Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that",
-          "link": "https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/",
-          "publishedOn": "2021-07-30T22:07:57.000Z",
-          "wordCount": 1528,
-          "title": "What is a Hyperlink? Definition for HTML Link Beginners"
-        },
-        {
-          "id": "60f5350266c61b07d458ed04",
-          "author": null,
-          "description": "Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature",
-          "link": "https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/",
-          "publishedOn": "2021-07-30T20:09:13.000Z",
-          "wordCount": 740,
-          "title": "Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc"
         }
       ]
     },
