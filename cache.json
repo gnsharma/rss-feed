@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350934",
+          "author": "Chris Coyier",
+          "description": "HTTP Caching is a Superpower — Hugh Haworth covers how the Cache-Control header is an awfully potent ingredient in web performance. I mis-read the title at first and was waiting to read about HTML caching. Hugh covers it a bit \n…\nThe post Links on Performance IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-performance-iv/",
+          "publishedOn": "2021-09-02T22:28:51.000Z",
+          "wordCount": 844,
+          "title": "Links on Performance IV"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350723",
+          "author": "Chris Coyier",
+          "description": "Have you ever fretted that front-end web development moves so fast that if you stepped away for a while, you’d be lost coming back? Rachel Smith has:\nThe hectic pace of needing to learn one thing after the next \n…\nThe post I completely ignored the front-end development scene for 6 months. It was fine. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months-it-was-fine/",
+          "publishedOn": "2021-09-02T22:26:36.000Z",
+          "wordCount": 599,
+          "title": "I completely ignored the front-end development scene for 6 months. It was fine."
+        },
+        {
+          "id": "https://css-tricks.com/?p=350830",
+          "author": "Chris Coyier",
+          "description": "Zach did that thing where each of his blog posts has a special URL with the design of social image card that is screenshat by a headless browser (like Puppeteer) and used as a true meta Open Graph image, meaning …\nThe post If I work really hard on my Open Graph images, people will share my blog posts. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.zachleat.com/web/automatic-opengraph/",
+          "publishedOn": "2021-09-02T14:30:55.000Z",
+          "wordCount": 1607,
+          "title": "If I work really hard on my Open Graph images, people will share my blog posts."
+        },
+        {
+          "id": "https://css-tricks.com/?p=351172",
+          "author": "Tharaka Romesh",
+          "description": "(This is a sponsored post.)\nStatic site generators are popular for their speed, security, and user experience. However, sometimes your application needs data that is not available when the site is built. React is a library for building user …\nThe post Accessing Your Data With Netlify Functions and React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/accessing-data-netlify-functions-react/",
+          "publishedOn": "2021-09-02T00:28:22.000Z",
+          "wordCount": 3095,
+          "title": "Accessing Your Data With Netlify Functions and React"
+        },
+        {
           "id": "https://css-tricks.com/?p=350752",
           "author": "Chris Coyier",
           "description": "Nathan Hardy shares when things “clicked”:\nReflecting back on this time, I think there are a few key concepts that were vital to things finally all making sense and fitting together. These were:\n• The Box Model (e.g. box-sizing, height, width, margin, padding)\n• Layout \n…\nThe post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -481,33 +517,6 @@
           "publishedOn": "2021-08-04T14:13:45.000Z",
           "wordCount": 1444,
           "title": "Using CSS Shapes for Interesting User Controls and Navigation"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345744",
-          "author": "Chris Coyier",
-          "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/serverless-functions-as-proxies/",
-          "publishedOn": "2021-08-03T20:23:32.000Z",
-          "wordCount": 1029,
-          "title": "Serverless Functions as Proxies"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345807",
-          "author": "Rewind",
-          "description": "Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …\nThe post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT",
-          "publishedOn": "2021-08-03T20:22:34.000Z",
-          "wordCount": 231,
-          "title": "Automatic Daily GitHub Backups, Restored in Seconds"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345154",
-          "author": "Paul Ratcliffe",
-          "description": "While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …\nThe post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-deep-dive-on-skipping-to-content/",
-          "publishedOn": "2021-08-03T14:35:48.000Z",
-          "wordCount": 2684,
-          "title": "A Deep Dive on Skipping to Content"
         }
       ]
     },
@@ -516,6 +525,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
+          "author": "hello@smashingmagazine.com (Louis Lazaris)",
+          "description": "Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.",
+          "link": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
+          "publishedOn": "2021-09-02T12:00:00.000Z",
+          "wordCount": 2437,
+          "title": "Interactive Learning Tools For Front-End Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f13aec3-8dd5-4085-afce-c752db3abfb6/interactive-learning-tools-front-end-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
           "author": "hello@smashingmagazine.com (Dirk Weber)",
@@ -823,20 +846,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
-          "author": "hello@smashingmagazine.com (Arihant Verma)",
-          "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
-          "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
-          "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3282,
-          "title": "React Children And Iteration Methods",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -845,6 +854,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "612f86fcd6679a07b7d401b3",
+          "author": null,
+          "description": "In  this tutorial, we are going to build a simple landing page for an online education platform called Skilllz. This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts as well. The tutorial is divided into three",
+          "link": "https://www.freecodecamp.org/news/css-flexbox-and-grid-tutorial/",
+          "publishedOn": "2021-09-02T17:16:52.000Z",
+          "wordCount": 2815,
+          "title": "CSS Flexbox and Grid Tutorial – How to Build a Landing Page with Just HTML and CSS"
+        },
+        {
+          "id": "6130cfc9d6679a07b7d40bfb",
+          "author": null,
+          "description": "Windows Task Manager is an advanced utility tool that helps you manage your apps that are running.  Task Manager lets you see which apps are open and which you're using. You can also see which apps are running in the background that you didn't open yourself.  One important reason that",
+          "link": "https://www.freecodecamp.org/news/how-to-open-task-manager-in-windows-10/",
+          "publishedOn": "2021-09-02T16:17:55.000Z",
+          "wordCount": 822,
+          "title": "How to Open Task Manager in Windows 10"
+        },
+        {
+          "id": "5fccd593e6787e098393ae5b",
+          "author": null,
+          "description": "A botnet is a collection of internet connected devices (anything from PCs to IoT devices) which are infected by the same malware.  A hacker uses the malware the botnet is infected with to control it and launch botnet attacks. The attacks are more effective when launched using hundreds, or thousands,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-botnet/",
+          "publishedOn": "2021-09-02T14:52:50.000Z",
+          "wordCount": 1956,
+          "title": "What is a Botnet – Botnet Definition and How to Defend Against Attacks"
+        },
         {
           "id": "612a2408b5177808226d33cb",
           "author": null,
@@ -2050,69 +2086,6 @@
           "publishedOn": "2021-08-04T14:46:14.000Z",
           "wordCount": 1675,
           "title": "CSS Background Color – How to Change the Background Color in HTML"
-        },
-        {
-          "id": "6109eca73306a507d1bfd3d2",
-          "author": null,
-          "description": "During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that",
-          "link": "https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/",
-          "publishedOn": "2021-08-04T01:35:10.000Z",
-          "wordCount": 25761,
-          "title": "Graph Algorithms for Technical Interviews"
-        },
-        {
-          "id": "6109e5233306a507d1bfd3ad",
-          "author": null,
-          "description": "React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary",
-          "link": "https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/",
-          "publishedOn": "2021-08-04T01:03:03.000Z",
-          "wordCount": 12944,
-          "title": "Code a Dictionary with React and Material UI"
-        },
-        {
-          "id": "61079f873306a507d1bfc360",
-          "author": null,
-          "description": "There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and",
-          "link": "https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/",
-          "publishedOn": "2021-08-03T19:53:47.000Z",
-          "wordCount": 1113,
-          "title": "JavaScript For Loop – How to Loop Through an Array in JS"
-        },
-        {
-          "id": "6104ec2f3306a507d1bfbc24",
-          "author": null,
-          "description": "Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed",
-          "link": "https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/",
-          "publishedOn": "2021-08-03T19:33:16.000Z",
-          "wordCount": 3176,
-          "title": "Developer Communities to Join to Help You Grow Your Tech Career"
-        },
-        {
-          "id": "610948d93306a507d1bfd0d5",
-          "author": null,
-          "description": "The copy and paste functionality on Android smartphones might seem to be a \"one-time\" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and",
-          "link": "https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/",
-          "publishedOn": "2021-08-03T19:10:40.000Z",
-          "wordCount": 980,
-          "title": "How to Access Clipboard in Android (and Clear it)"
-        },
-        {
-          "id": "610640c03306a507d1bfbfcf",
-          "author": null,
-          "description": "A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help",
-          "link": "https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/",
-          "publishedOn": "2021-08-03T15:11:05.000Z",
-          "wordCount": 1095,
-          "title": "12 Free Coding Games to Learn Programming for Beginners"
-        },
-        {
-          "id": "61084aac3306a507d1bfc81c",
-          "author": null,
-          "description": "Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get",
-          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/",
-          "publishedOn": "2021-08-03T15:04:13.000Z",
-          "wordCount": 1080,
-          "title": "Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum"
         }
       ]
     },
