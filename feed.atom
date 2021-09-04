@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T00:45:53.385Z</updated>
+    <updated>2021-09-04T00:46:37.832Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambdas: Easy, Easier, Easiest]]></title>
+        <id>https://css-tricks.com/?p=350649</id>
+        <link href="https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"/>
+        <updated>2021-09-03T22:16:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherit isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
+The post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Swipe Files Strategy for Part Time Creators]]></title>
+        <id>https://swyx.io/swipe-files-strategy</id>
+        <link href="https://swyx.io/swipe-files-strategy"/>
+        <updated>2021-09-03T20:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Swipe Files are underrated, passively compounding sources of personal leverage for your creator journey.]]></summary>
+        <author>
+            <name>Swyx.io RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Select Tag – How to Make a Dropdown Menu or Combo List]]></title>
+        <id>61320541d6679a07b7d416a2</id>
+        <link href="https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/"/>
+        <updated>2021-09-03T15:03:03.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sort List – How to Order By Descending or Ascending]]></title>
+        <id>6106588a3306a507d1bfc10c</id>
+        <link href="https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/"/>
+        <updated>2021-09-03T14:49:55.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supercharging Built-In Elements With Web Components “is” Easier Than You Think]]></title>
+        <id>https://css-tricks.com/?p=350889</id>
+        <link href="https://css-tricks.com/supercharging-built-in-elements-with-web-components-is-easier-than-you-think/"/>
+        <updated>2021-09-03T14:21:38.000Z</updated>
+        <summary type="html"><![CDATA[We’ve already discussed how creating web components is easier than you think, but there’s another aspect of the specification that we haven’t discussed yet and it’s a way to customize (nay, supercharge) a built-in element. It’s similar to …
+The post Supercharging Built-In Elements With Web Components “is” Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing Carbon Emissions On The Web]]></title>
+        <id>https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/</id>
+        <link href="https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/"/>
+        <updated>2021-09-03T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Berwyn Powell)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on Performance IV]]></title>
         <id>https://css-tricks.com/?p=350934</id>
@@ -2256,92 +2318,6 @@ The post Three Buggy React Code Examples and How to Fix Them appeared first on C
         <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL]]></title>
-        <id>https://css-tricks.com/?p=345552</id>
-        <link href="https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/"/>
-        <updated>2021-08-05T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Flutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …
-The post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Fauna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://css-tricks.com/?p=345866</id>
-        <link href="https://www.smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-08-04T23:44:06.000Z</updated>
-        <summary type="html"><![CDATA[You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:
-[…] regardless 
-…
-The post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
-        <id>610afe863306a507d1bfdf1e</id>
-        <link href="https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/"/>
-        <updated>2021-08-04T23:25:30.000Z</updated>
-        <summary type="html"><![CDATA[In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
-        <id>6106575b3306a507d1bfc104</id>
-        <link href="https://www.freecodecamp.org/news/html-padding-css-padding-order/"/>
-        <updated>2021-08-04T21:33:13.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
-        <id>6106638c3306a507d1bfc15c</id>
-        <link href="https://www.freecodecamp.org/news/sql-where-clause-examples/"/>
-        <updated>2021-08-04T15:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
-        <id>610a56153306a507d1bfd5f0</id>
-        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
-        <updated>2021-08-04T15:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
-        <id>610641743306a507d1bfbfd4</id>
-        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
-        <updated>2021-08-04T14:46:14.000Z</updated>
-        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
-        <id>https://css-tricks.com/?p=345274</id>
-        <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
-        <updated>2021-08-04T14:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …
-The post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
