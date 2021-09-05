@@ -499,15 +499,6 @@
           "publishedOn": "2021-08-06T14:48:14.000Z",
           "wordCount": 65,
           "title": "gridless.design"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345418",
-          "author": "Hugh Haworth",
-          "description": "There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …\nThe post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/",
-          "publishedOn": "2021-08-05T14:24:36.000Z",
-          "wordCount": 3842,
-          "title": "Three Buggy React Code Examples and How to Fix Them"
         }
       ]
     },
@@ -820,34 +811,6 @@
           "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
-          "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
-          "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 571,
-          "title": "Four Useful VSCode Extensions For Web Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
-          "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
-          "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6565,
-          "title": "Frustrating Design Patterns: Disabled Buttons",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -2037,33 +2000,6 @@
           "publishedOn": "2021-08-06T15:18:55.000Z",
           "wordCount": 1278,
           "title": "JavaScript Switch Case – JS Switch Statement Example"
-        },
-        {
-          "id": "610be0ea3306a507d1bfe4b1",
-          "author": null,
-          "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
-          "link": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
-          "publishedOn": "2021-08-05T21:33:51.000Z",
-          "wordCount": 1047,
-          "title": "&lt;pre&gt; Tag in HTML – Example Code"
-        },
-        {
-          "id": "6108233d3306a507d1bfc731",
-          "author": null,
-          "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",
-          "link": "https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/",
-          "publishedOn": "2021-08-05T16:37:56.000Z",
-          "wordCount": 1409,
-          "title": "Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain"
-        },
-        {
-          "id": "60db390127f80207bcdbb455",
-          "author": null,
-          "description": "HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend",
-          "link": "https://www.freecodecamp.org/news/html-crash-course/",
-          "publishedOn": "2021-08-05T14:19:09.000Z",
-          "wordCount": 1180,
-          "title": "HTML for Beginners"
         }
       ]
     },
