@@ -463,42 +463,6 @@
           "publishedOn": "2021-08-09T14:27:18.000Z",
           "wordCount": 2534,
           "title": "Exploring the CSS Paint API: Image Fragmentation Effect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346259",
-          "author": "Chris Coyier",
-          "description": "Great little project from Ross Moody: \nSVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.\n…\nThe post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-gobbler/",
-          "publishedOn": "2021-08-06T19:32:54.000Z",
-          "wordCount": 757,
-          "title": "SVG Gobbler"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346290",
-          "author": "Sarah Drasner",
-          "description": "Nuxt offers an incredible developer experience, with a lot of performance and application setup best practices baked in. In recent releases, they’ve been working on taking this developer experience to the next level, with some newer features that speed up …\nThe post New Nuxt Features past v2.10 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/new-nuxt-features-past-v2-10/",
-          "publishedOn": "2021-08-06T15:43:44.000Z",
-          "wordCount": 1089,
-          "title": "New Nuxt Features past v2.10"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345467",
-          "author": "Andy Ford",
-          "description": "I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …\nThe post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/",
-          "publishedOn": "2021-08-06T14:55:06.000Z",
-          "wordCount": 1799,
-          "title": "Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345878",
-          "author": "Chris Coyier",
-          "description": "Donnie D’Amato built a whole site around the thesis that “digital designers still expect to use the grid while experienced layout engineers have moved beyond it.” The idea isn’t that we should never literally use display: grid; but rather that …\nThe post gridless.design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://gridless.design/",
-          "publishedOn": "2021-08-06T14:48:14.000Z",
-          "wordCount": 65,
-          "title": "gridless.design"
         }
       ]
     },
@@ -1964,42 +1928,6 @@
           "publishedOn": "2021-08-09T13:02:15.000Z",
           "wordCount": 561,
           "title": "Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course"
-        },
-        {
-          "id": "61067c973306a507d1bfc1ba",
-          "author": null,
-          "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
-          "link": "https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/",
-          "publishedOn": "2021-08-06T21:25:14.000Z",
-          "wordCount": 827,
-          "title": "SQL Update Statement – Update Query in SQL"
-        },
-        {
-          "id": "610cebc13306a507d1bfeca9",
-          "author": null,
-          "description": "Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their",
-          "link": "https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/",
-          "publishedOn": "2021-08-06T21:17:04.000Z",
-          "wordCount": 754,
-          "title": "Row VS Column in Excel – What is the Difference?"
-        },
-        {
-          "id": "6107c0593306a507d1bfc565",
-          "author": null,
-          "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
-          "link": "https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/",
-          "publishedOn": "2021-08-06T16:10:39.000Z",
-          "wordCount": 837,
-          "title": "Insert Into SQL – SQL Insert Statement Example"
-        },
-        {
-          "id": "610658bf3306a507d1bfc110",
-          "author": null,
-          "description": "There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to",
-          "link": "https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/",
-          "publishedOn": "2021-08-06T15:18:55.000Z",
-          "wordCount": 1278,
-          "title": "JavaScript Switch Case – JS Switch Statement Example"
         }
       ]
     },
