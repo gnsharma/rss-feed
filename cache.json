@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351402",
+          "author": "Chris Coyier",
+          "description": "There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …\nThe post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/early-days-for-css-scoping/",
+          "publishedOn": "2021-09-06T18:47:19.000Z",
+          "wordCount": 724,
+          "title": "Early Days for CSS Scoping"
+        },
+        {
           "id": "https://css-tricks.com/?p=350649",
           "author": "Chris Coyier",
           "description": "I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherit isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …\nThe post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -472,6 +481,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
+          "author": "hello@smashingmagazine.com (Robin Marx)",
+          "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
+          "link": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
+          "publishedOn": "2021-09-06T11:00:00.000Z",
+          "wordCount": 9729,
+          "title": "HTTP/3: Practical Deployment Options (Part 3)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a19cca97-b411-44a6-a8be-e1468a0df78a/http3-practical-deployment-options-part3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
           "author": "hello@smashingmagazine.com (Berwyn Powell)",
           "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
@@ -786,6 +809,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5f9c986d740569d1a4ca1a04",
+          "author": null,
+          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2021-09-06T07:04:00.000Z",
+          "wordCount": 6433,
+          "title": "700 Free Online Programming &amp; Computer Science Courses You Can Start This September"
+        },
         {
           "id": "61320541d6679a07b7d416a2",
           "author": null,
@@ -1980,15 +2012,6 @@
           "publishedOn": "2021-08-16T01:06:41.000Z",
           "wordCount": 3672,
           "title": "Measuring Developer Relations"
-        },
-        {
-          "id": "https://swyx.io/not-vc-yet",
-          "author": null,
-          "description": "There is too much money chasing too few operators.",
-          "link": "https://swyx.io/not-vc-yet",
-          "publishedOn": "2021-08-08T06:26:46.000Z",
-          "wordCount": 1090,
-          "title": "Why I'm not a VC (yet)"
         }
       ]
     },

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-06T00:51:09.704Z</updated>
+    <updated>2021-09-07T00:44:29.331Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Early Days for CSS Scoping]]></title>
+        <id>https://css-tricks.com/?p=351402</id>
+        <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
+        <updated>2021-09-06T18:47:19.000Z</updated>
+        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
+The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP/3: Practical Deployment Options (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/</id>
+        <link href="https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/"/>
+        <updated>2021-09-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Marx)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[700 Free Online Programming &amp; Computer Science Courses You Can Start This September]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-09-06T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambdas: Easy, Easier, Easiest]]></title>
         <id>https://css-tricks.com/?p=350649</id>
@@ -2161,16 +2192,6 @@ The post Exploring the CSS Paint API: Image Fragmentation Effect appeared first 
         <summary type="html"><![CDATA[What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I'm not a VC (yet)]]></title>
-        <id>https://swyx.io/not-vc-yet</id>
-        <link href="https://swyx.io/not-vc-yet"/>
-        <updated>2021-08-08T06:26:46.000Z</updated>
-        <summary type="html"><![CDATA[There is too much money chasing too few operators.]]></summary>
-        <author>
-            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
 </feed>
