@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-07T00:44:29.331Z</updated>
+    <updated>2021-09-08T00:45:10.254Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Function? JavaScript Function Examples]]></title>
+        <id>6132237ad6679a07b7d418ca</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/"/>
+        <updated>2021-09-07T23:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Functions are one of the main parts of computer programs.  They are widely used and are one of JavaScript's fundamental building blocks.  In this article, we'll go over the definition of functions and why they are so important. I'll also show you how to get started writing functions in JavaScript.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String Format – Python S Print Format Example]]></title>
+        <id>612204093bccf807612a575a</id>
+        <link href="https://www.freecodecamp.org/news/python-string-format-python-s-print-format-example/"/>
+        <updated>2021-09-07T23:20:34.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you have a few options to format your strings. In this article, I will go over str.format(), formatted string literals, and template strings.  But first, let's take a look at what is considered to be the "old way" of formatting strings.  What is % string formatting in Python?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can we have custom media queries, please?]]></title>
+        <id>https://css-tricks.com/?p=351276</id>
+        <link href="https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/"/>
+        <updated>2021-09-07T22:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Stefan Judis notes that there is a spec for custom media queries, but seemingly no momentum on it at the moment. That lack of movement is unfortunate, as it’s almost guaranteed front-end developers all over would start using it as …
+The post Can we have custom media queries, please? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.some() Tutorial – How to Iterate Through Elements in an Array]]></title>
+        <id>61320c11d6679a07b7d41704</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-some-tutorial-how-to-iterate-through-elements-in-an-array/"/>
+        <updated>2021-09-07T22:14:16.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with an array in JavaScript, sometimes you might just want to check if at least one element inside that array passes a test. And you might not care about any other subsequent matches.  In such a case, you should use the some() JavaScript method. So let's see]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Tables – Table Tutorial with Example Code]]></title>
+        <id>6114c91072231b077cdae3f6</id>
+        <link href="https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/"/>
+        <updated>2021-09-07T21:17:18.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a project that needs to represent data visually, you will need a good way to display the information so it's easy to read and understand.  Now, depending on the type of data, you can select between different representation methods using HTML elements.  In most cases, tables are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular *ngFor and *ngIf Directives Explained for Beginners]]></title>
+        <id>61330342d6679a07b7d41de1</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/"/>
+        <updated>2021-09-07T20:45:34.000Z</updated>
+        <summary type="html"><![CDATA[*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about. What is *ngFor?Let's talk about *ngFor first. You use the *ngFor directive to traverse over an array object and display the data in the UI.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Serverless Applications in AWS]]></title>
+        <id>61327c7fd6679a07b7d41b17</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/"/>
+        <updated>2021-09-07T18:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, serverless architecture has become very popular. This is largely because it has removed the burden of managing infrastructure, such as servers, storage, databases, scalability, and so on.  When people first started using the term "serverless," it created some confusion in the industry. Some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire SVG animations (SMIL) when the SVG is visible]]></title>
+        <id>https://css-tricks.com/?p=351146</id>
+        <link href="https://www.zachleat.com/web/svg-animate/"/>
+        <updated>2021-09-07T17:54:12.000Z</updated>
+        <summary type="html"><![CDATA[When requirements read “when visible” your brain should go straight to IntersectionObserver. That’s exactly what Zach is doing here to kick off an animation when it scrolls into view.
+Except this animation is an SVG SMIL animation: an <animate>…
+The post Fire SVG animations (SMIL) when the SVG is visible appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Your Own Subscription Newsletter]]></title>
+        <id>https://css-tricks.com/?p=351346</id>
+        <link href="https://css-tricks.com/building-your-own-subscription-newsletter/"/>
+        <updated>2021-09-07T17:52:19.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I did a sponsored video the other week explaining how to build a paid subscription newsletter using WordPress (we did it on WordPress.com but it could be hosted anywhere), MailPoet (a plugin to visually …
+The post Building Your Own Subscription Newsletter appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Translation Month – Help Us Translate freeCodeCamp into Your Native Language]]></title>
+        <id>61350ccad6679a07b7d4314c</id>
+        <link href="https://www.freecodecamp.org/news/world-translation-month-event/"/>
+        <updated>2021-09-07T17:37:37.000Z</updated>
+        <summary type="html"><![CDATA[We believe that everyone deserves to have free programming education in their own native language. So we are expanding International Translation Day (September 30th) into a full month-long effort. Over the past few years, hundreds of volunteer contributors have worked to translate freeCodeCamp into major world languages. In February, Quincy]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Create File – How to Append and Write to a Text File]]></title>
+        <id>61307fb1d6679a07b7d4061e</id>
+        <link href="https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/"/>
+        <updated>2021-09-07T16:44:25.000Z</updated>
+        <summary type="html"><![CDATA[In coding, files are used to store data. Then you can easily access that data at any point.  Reading, writing, and editing files in Python is a common task, since the language provides us with built-in functions that allow us to do so.  In this article, I'll create a simple]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vue 3, a Front-End JavaScript Framework]]></title>
+        <id>613784fa581b610782a917ce</id>
+        <link href="https://www.freecodecamp.org/news/vue-3-full-course/"/>
+        <updated>2021-09-07T15:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Vue is one of the more popular front-end JavaScirpt frameworks. It makes it simpler to create powerful websites. We just released a Vue course on the freeCodeCamp.org YouTube channel that will teach you the latest version of this progressive JavaScript framework. Gwendolyn Faraday developed this course. She previously created]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Graphic Design? The Graphic Designer Job Explained in Plain English]]></title>
+        <id>610655073306a507d1bfc0d2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-graphic-design-the-graphic-designer-job-explained-in-plain-english/"/>
+        <updated>2021-09-07T15:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Magazine covers, business logos, and book covers are all common examples of graphic design. But what is graphic design? In this article, I'll explain what graphic design is, discuss different areas of graphic design, provide helpful learning resources, and talk about salaries for designers.  What is Graphic Design?Graphic Design]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox’s `bolder` Default is a Problem for Variable Fonts]]></title>
+        <id>https://css-tricks.com/?p=351017</id>
+        <link href="https://css-tricks.com/firefoxs-bolder-default-is-a-problem-for-variable-fonts/"/>
+        <updated>2021-09-07T14:41:57.000Z</updated>
+        <summary type="html"><![CDATA[Variable fonts make it easy to create a large set of font styles from a single font file. Unfortunately, the default rendering of the <b> and <strong> elements in browsers today is not very compatible with the wide range of …
+The post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New With DevTools: Cross-Browser Edition]]></title>
+        <id>https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/</id>
+        <link href="https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/"/>
+        <updated>2021-09-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Early Days for CSS Scoping]]></title>
         <id>https://css-tricks.com/?p=351402</id>
@@ -2182,16 +2338,6 @@ The post Exploring the CSS Paint API: Image Fragmentation Effect appeared first 
         <summary type="html"><![CDATA[Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP/3 From A To Z: Core Concepts (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/08/http3-core-concepts-part1/</id>
-        <link href="https://smashingmagazine.com/2021/08/http3-core-concepts-part1/"/>
-        <updated>2021-08-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Robin Marx)</name>
         </author>
     </entry>
 </feed>

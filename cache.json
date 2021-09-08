@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351276",
+          "author": "Chris Coyier",
+          "description": "Stefan Judis notes that there is a spec for custom media queries, but seemingly no momentum on it at the moment. That lack of movement is unfortunate, as it’s almost guaranteed front-end developers all over would start using it as …\nThe post Can we have custom media queries, please? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/",
+          "publishedOn": "2021-09-07T22:17:55.000Z",
+          "wordCount": 466,
+          "title": "Can we have custom media queries, please?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351146",
+          "author": "Chris Coyier",
+          "description": "When requirements read “when visible” your brain should go straight to IntersectionObserver. That’s exactly what Zach is doing here to kick off an animation when it scrolls into view.\nExcept this animation is an SVG SMIL animation: an <animate>…\nThe post Fire SVG animations (SMIL) when the SVG is visible appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.zachleat.com/web/svg-animate/",
+          "publishedOn": "2021-09-07T17:54:12.000Z",
+          "wordCount": 1087,
+          "title": "Fire SVG animations (SMIL) when the SVG is visible"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351346",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nI did a sponsored video the other week explaining how to build a paid subscription newsletter using WordPress (we did it on WordPress.com but it could be hosted anywhere), MailPoet (a plugin to visually …\nThe post Building Your Own Subscription Newsletter appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-your-own-subscription-newsletter/",
+          "publishedOn": "2021-09-07T17:52:19.000Z",
+          "wordCount": 776,
+          "title": "Building Your Own Subscription Newsletter"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351017",
+          "author": "Šime Vidas",
+          "description": "Variable fonts make it easy to create a large set of font styles from a single font file. Unfortunately, the default rendering of the <b> and <strong> elements in browsers today is not very compatible with the wide range of …\nThe post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/firefoxs-bolder-default-is-a-problem-for-variable-fonts/",
+          "publishedOn": "2021-09-07T14:41:57.000Z",
+          "wordCount": 1381,
+          "title": "Firefox’s `bolder` Default is a Problem for Variable Fonts"
+        },
+        {
           "id": "https://css-tricks.com/?p=351402",
           "author": "Chris Coyier",
           "description": "There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …\nThe post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -481,6 +517,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.",
+          "link": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
+          "publishedOn": "2021-09-07T10:00:00.000Z",
+          "wordCount": 4050,
+          "title": "What’s New With DevTools: Cross-Browser Edition",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e0eef0e-e4b0-45b6-8afd-1d1a60b7c53b/devtools-cross-browsers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
           "author": "hello@smashingmagazine.com (Robin Marx)",
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
@@ -787,20 +837,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
-          "author": "hello@smashingmagazine.com (Robin Marx)",
-          "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
-          "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
-          "publishedOn": "2021-08-09T11:00:00.000Z",
-          "wordCount": 6866,
-          "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -809,6 +845,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6132237ad6679a07b7d418ca",
+          "author": null,
+          "description": "Functions are one of the main parts of computer programs.  They are widely used and are one of JavaScript's fundamental building blocks.  In this article, we'll go over the definition of functions and why they are so important. I'll also show you how to get started writing functions in JavaScript.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/",
+          "publishedOn": "2021-09-07T23:46:55.000Z",
+          "wordCount": 1473,
+          "title": "What is a Function? JavaScript Function Examples"
+        },
+        {
+          "id": "612204093bccf807612a575a",
+          "author": null,
+          "description": "In Python, you have a few options to format your strings. In this article, I will go over str.format(), formatted string literals, and template strings.  But first, let's take a look at what is considered to be the \"old way\" of formatting strings.  What is % string formatting in Python?",
+          "link": "https://www.freecodecamp.org/news/python-string-format-python-s-print-format-example/",
+          "publishedOn": "2021-09-07T23:20:34.000Z",
+          "wordCount": 1421,
+          "title": "Python String Format – Python S Print Format Example"
+        },
+        {
+          "id": "61320c11d6679a07b7d41704",
+          "author": null,
+          "description": "When you're working with an array in JavaScript, sometimes you might just want to check if at least one element inside that array passes a test. And you might not care about any other subsequent matches.  In such a case, you should use the some() JavaScript method. So let's see",
+          "link": "https://www.freecodecamp.org/news/javascript-array-some-tutorial-how-to-iterate-through-elements-in-an-array/",
+          "publishedOn": "2021-09-07T22:14:16.000Z",
+          "wordCount": 1207,
+          "title": "JavaScript Array.some() Tutorial – How to Iterate Through Elements in an Array"
+        },
+        {
+          "id": "6114c91072231b077cdae3f6",
+          "author": null,
+          "description": "When you're building a project that needs to represent data visually, you will need a good way to display the information so it's easy to read and understand.  Now, depending on the type of data, you can select between different representation methods using HTML elements.  In most cases, tables are",
+          "link": "https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/",
+          "publishedOn": "2021-09-07T21:17:18.000Z",
+          "wordCount": 1539,
+          "title": "HTML Tables – Table Tutorial with Example Code"
+        },
+        {
+          "id": "61330342d6679a07b7d41de1",
+          "author": null,
+          "description": "*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about. What is *ngFor?Let's talk about *ngFor first. You use the *ngFor directive to traverse over an array object and display the data in the UI.",
+          "link": "https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/",
+          "publishedOn": "2021-09-07T20:45:34.000Z",
+          "wordCount": 979,
+          "title": "Angular *ngFor and *ngIf Directives Explained for Beginners"
+        },
+        {
+          "id": "61327c7fd6679a07b7d41b17",
+          "author": null,
+          "description": "Over the past few years, serverless architecture has become very popular. This is largely because it has removed the burden of managing infrastructure, such as servers, storage, databases, scalability, and so on.  When people first started using the term \"serverless,\" it created some confusion in the industry. Some",
+          "link": "https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/",
+          "publishedOn": "2021-09-07T18:33:36.000Z",
+          "wordCount": 3368,
+          "title": "How to Test Serverless Applications in AWS"
+        },
+        {
+          "id": "61350ccad6679a07b7d4314c",
+          "author": null,
+          "description": "We believe that everyone deserves to have free programming education in their own native language. So we are expanding International Translation Day (September 30th) into a full month-long effort. Over the past few years, hundreds of volunteer contributors have worked to translate freeCodeCamp into major world languages. In February, Quincy",
+          "link": "https://www.freecodecamp.org/news/world-translation-month-event/",
+          "publishedOn": "2021-09-07T17:37:37.000Z",
+          "wordCount": 1011,
+          "title": "World Translation Month – Help Us Translate freeCodeCamp into Your Native Language"
+        },
+        {
+          "id": "61307fb1d6679a07b7d4061e",
+          "author": null,
+          "description": "In coding, files are used to store data. Then you can easily access that data at any point.  Reading, writing, and editing files in Python is a common task, since the language provides us with built-in functions that allow us to do so.  In this article, I'll create a simple",
+          "link": "https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/",
+          "publishedOn": "2021-09-07T16:44:25.000Z",
+          "wordCount": 1116,
+          "title": "Python Create File – How to Append and Write to a Text File"
+        },
+        {
+          "id": "613784fa581b610782a917ce",
+          "author": null,
+          "description": "Vue is one of the more popular front-end JavaScirpt frameworks. It makes it simpler to create powerful websites. We just released a Vue course on the freeCodeCamp.org YouTube channel that will teach you the latest version of this progressive JavaScript framework. Gwendolyn Faraday developed this course. She previously created",
+          "link": "https://www.freecodecamp.org/news/vue-3-full-course/",
+          "publishedOn": "2021-09-07T15:37:36.000Z",
+          "wordCount": 28804,
+          "title": "Learn Vue 3, a Front-End JavaScript Framework"
+        },
+        {
+          "id": "610655073306a507d1bfc0d2",
+          "author": null,
+          "description": "Magazine covers, business logos, and book covers are all common examples of graphic design. But what is graphic design? In this article, I'll explain what graphic design is, discuss different areas of graphic design, provide helpful learning resources, and talk about salaries for designers.  What is Graphic Design?Graphic Design",
+          "link": "https://www.freecodecamp.org/news/what-is-graphic-design-the-graphic-designer-job-explained-in-plain-english/",
+          "publishedOn": "2021-09-07T15:08:49.000Z",
+          "wordCount": 1003,
+          "title": "What is Graphic Design? The Graphic Designer Job Explained in Plain English"
+        },
         {
           "id": "5f9c986d740569d1a4ca1a04",
           "author": null,
