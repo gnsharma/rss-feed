@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351389",
+          "author": "Chris Coyier",
+          "description": "Here’s Atif Afzal on using a <div> that is permanently on the page where tooltips are added/removed and how they perform vastly better than plopping those same tooltips right into the <body>. It’s not really discussed, but the reason …\nThe post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dont-attach-tooltips-to-document-body/",
+          "publishedOn": "2021-09-08T19:08:55.000Z",
+          "wordCount": 537,
+          "title": "Don’t attach tooltips to document.body"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351043",
+          "author": "Tapas Adhikary",
+          "description": "I love shapes, especially colorful ones! Shapes on websites are in the same category of helpfulness as background colors, images, banners, section separators, artwork, and many more: they can help us understand context and inform our actions through affordances.\nA …\nThe post The Story Behind TryShape, a Showcase for the CSS clip-path property appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-story-behind-tryshape-a-showcase-for-the-css-clip-path-property/",
+          "publishedOn": "2021-09-08T14:30:18.000Z",
+          "wordCount": 2565,
+          "title": "The Story Behind TryShape, a Showcase for the CSS clip-path property"
+        },
+        {
           "id": "https://css-tricks.com/?p=351276",
           "author": "Chris Coyier",
           "description": "Stefan Judis notes that there is a spec for custom media queries, but seemingly no momentum on it at the moment. That lack of movement is unfortunate, as it’s almost guaranteed front-end developers all over would start using it as …\nThe post Can we have custom media queries, please? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -94,6 +112,15 @@
           "publishedOn": "2021-09-02T14:30:55.000Z",
           "wordCount": 1607,
           "title": "If I work really hard on my Open Graph images, people will share my blog posts."
+        },
+        {
+          "id": "https://css-tricks.com/?p=351143",
+          "author": "Chris Coyier",
+          "description": "A fun exercise from Terence Eden. You can send an HTML file over the wire including anything a website might need without requesting any other files. CSS and JavaScript are easy, because there are <script and <style tags. Images and …\nThe post You don’t need external assets in an HTML file appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/",
+          "publishedOn": "2021-09-02T00:29:23.000Z",
+          "wordCount": 1413,
+          "title": "You don’t need external assets in an HTML file"
         },
         {
           "id": "https://css-tricks.com/?p=351172",
@@ -481,33 +508,6 @@
           "publishedOn": "2021-08-10T14:51:39.000Z",
           "wordCount": 2378,
           "title": "CSS Nesting, specificity, and you"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346368",
-          "author": "Chris Coyier",
-          "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/",
-          "publishedOn": "2021-08-09T21:23:44.000Z",
-          "wordCount": 1627,
-          "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346316",
-          "author": "Chris Coyier",
-          "description": "We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …\nThe post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
-          "publishedOn": "2021-08-09T20:37:39.000Z",
-          "wordCount": 1999,
-          "title": "The Large, Small, and Dynamic Viewports"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345642",
-          "author": "Temani Afif",
-          "description": "In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …\nThe post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/",
-          "publishedOn": "2021-08-09T14:27:18.000Z",
-          "wordCount": 2534,
-          "title": "Exploring the CSS Paint API: Image Fragmentation Effect"
         }
       ]
     },
@@ -516,6 +516,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.",
+          "link": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
+          "publishedOn": "2021-09-08T10:30:00.000Z",
+          "wordCount": 2867,
+          "title": "Developer Decisions For Building Flexible Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76d3eef0-2a0a-45e0-b0bb-399da37c3834/developer-decisions-building-flexible-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.",
+          "link": "https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/",
+          "publishedOn": "2021-09-08T08:00:00.000Z",
+          "wordCount": 921,
+          "title": "New Smashing Online Workshops on Front-End & UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
@@ -809,34 +837,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/",
-          "author": "hello@smashingmagazine.com (Henrik Fricke)",
-          "description": "Embedding code examples with third-party scripts often leads to tracking or cookies. We always wanted to have a simple website with a good UX, so setting cookies for no reason wasn’t an option for us. Now, with Indiepen, we are proud to introduce a privacy-friendly alternative.",
-          "link": "https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/",
-          "publishedOn": "2021-08-10T11:45:00.000Z",
-          "wordCount": 847,
-          "title": "Cookieless Alternative To Embed HTML, CSS And JS Code Snippets",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa2ab15-b98d-48b5-ab26-8a1fde75c13f/cookieless-alternative-embed-html-css-js-code-examples.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about designing for safety. What does it mean to consider vulnerable users in our designs? Drew McLellan talks to expert Eva PenzeyMoog to find out.",
-          "link": "https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/",
-          "publishedOn": "2021-08-10T05:00:00.000Z",
-          "wordCount": 6902,
-          "title": "Smashing Podcast Episode 41 With Eva PenzeyMoog: Designing For Safety",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7449af49-11de-4b63-b8fd-ff823d54b095/smashing-podcast-episode-41.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -845,6 +845,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6138f291852f4307d3729b64",
+          "author": null,
+          "description": "If you inspect a web page with your browser's developer tools, you'll likely see a bunch of nested div tags, and possibly some content wrapped in a span tag.  Similar content is usually grouped together by these two container elements – span and div. You can use them both as containers,",
+          "link": "https://www.freecodecamp.org/news/span-vs-div-html-tags-what-is-the-difference/",
+          "publishedOn": "2021-09-08T21:08:38.000Z",
+          "wordCount": 868,
+          "title": "Span VS Div HTML Tags – What is the Difference?"
+        },
+        {
+          "id": "6138218b581b610782a91de7",
+          "author": null,
+          "description": "Over 40% of all websites on the internet are powered by WordPress, making it the world’s top choice when it comes to creating a website. Many people and businesses choose to create their websites with WordPress because of its versatility, speed, and ease of use. WordPress is also Open",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-wordpress/",
+          "publishedOn": "2021-09-08T18:00:12.000Z",
+          "wordCount": 1858,
+          "title": "WordPress Installation Guide – How to Get Started with WordPress + the Best Plugins"
+        },
+        {
+          "id": "61345caed6679a07b7d42d3e",
+          "author": null,
+          "description": "In programming, you'll often have to deal with the scope of a variable. The scope of a variable determines whether or not you can access and modify it inside a specific block of code. In this tutorial, you'll learn about variable scope in the C programming language. You'll see some",
+          "link": "https://www.freecodecamp.org/news/scope-of-variables-in-c-local-and-global-scope-explained/",
+          "publishedOn": "2021-09-08T16:40:21.000Z",
+          "wordCount": 1223,
+          "title": "Variable Scope in C – Local and Global Scope Explained"
+        },
+        {
+          "id": "6136666dd6679a07b7d437d0",
+          "author": null,
+          "description": "In this article, I'll help you understand event bubbling and event catching like a pro. I created this resource to help you understand event propagation and how it works in JavaScript and React in a clear and comprehensible way. ❤ Once you've gone through this thorough introduction to event bubbling and",
+          "link": "https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/",
+          "publishedOn": "2021-09-08T15:37:42.000Z",
+          "wordCount": 4117,
+          "title": "Event Bubbling and Event Catching in JavaScript and React – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "61366f23d6679a07b7d4380a",
+          "author": null,
+          "description": "I recently learned about a logic puzzle online that apparently only 2% of people can solve. There are a few different incarnations of it – some have slightly different wording, different names, or change the items in the riddle slightly. But they are all the exact same core problem. The riddle",
+          "link": "https://www.freecodecamp.org/news/einsteins-riddle/",
+          "publishedOn": "2021-09-08T15:36:22.000Z",
+          "wordCount": 1115,
+          "title": "How to Solve Einstein&#x27;s Five House Riddle"
+        },
+        {
+          "id": "6138c58c852f4307d372989e",
+          "author": null,
+          "description": "Algorithms and data structures are important for most programmers to understand. We just released a course on the freeCodeCamp YouTube channel that is a beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course will help you prepare",
+          "link": "https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/",
+          "publishedOn": "2021-09-08T14:23:56.000Z",
+          "wordCount": 522,
+          "title": "Learn Algorithms and Data Structures in Python"
+        },
+        {
+          "id": "611827fe72231b077cdb021c",
+          "author": null,
+          "description": "Today you will learn how to build your own clone of the 2048 game in React.  What makes this article unique is that we will focus on creating delightful animations. Aside from React, we will use TypeScript and we'll make some CSS transitions using LESS.  We are only going to",
+          "link": "https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/",
+          "publishedOn": "2021-09-08T01:38:41.000Z",
+          "wordCount": 3549,
+          "title": "React Tutorial – How to Build the 2048 Game in React"
+        },
+        {
+          "id": "61372fd1d6679a07b7d43e77",
+          "author": null,
+          "description": "You can use the HTML span tag as a container to group inline elements together so you can style or manipulate them with JavaScript.  In this article, I will show you how to use the span tag to make a certain part of your content distinct from the rest. Then",
+          "link": "https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/",
+          "publishedOn": "2021-09-08T01:18:28.000Z",
+          "wordCount": 668,
+          "title": "Span HTML – How to Use the Span Tag with CSS"
+        },
         {
           "id": "6132237ad6679a07b7d418ca",
           "author": null,
@@ -2014,78 +2086,6 @@
           "publishedOn": "2021-08-10T13:12:34.000Z",
           "wordCount": 17118,
           "title": "Learn Big O Notation"
-        },
-        {
-          "id": "610a44f83306a507d1bfd44e",
-          "author": null,
-          "description": "SQL stands for Structured Query Language and is a language that you use to manage data in databases. SQL consists of commands and declarative statements that act as instructions to the database so it can perform tasks.  You can use SQL commands to create a table in a database, to",
-          "link": "https://www.freecodecamp.org/news/learn-sql-queries-database-query-tutorial-for-beginners/",
-          "publishedOn": "2021-08-10T00:05:46.000Z",
-          "wordCount": 2043,
-          "title": "Learn SQL Queries – Database Query Tutorial for Beginners"
-        },
-        {
-          "id": "610657e03306a507d1bfc108",
-          "author": null,
-          "description": "There will be times where you will want to write commands that handle different decisions in your code.  For example, if you are coding a bot, you can have it respond with different messages based on a set of commands it receives.  In this article, I will explain what an",
-          "link": "https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/",
-          "publishedOn": "2021-08-09T23:21:21.000Z",
-          "wordCount": 1482,
-          "title": "JavaScript If-Else and If-Then – JS Conditional Statements"
-        },
-        {
-          "id": "610e257e3306a507d1bffc96",
-          "author": null,
-          "description": "Google Colab and VS Code are two popular editor tools that many Python developers use. They're great for developing efficient tech solutions or systems especially in the areas of Machine Learning and Data Science. If you're a Python developer or data scientist, you might already know how to use Google",
-          "link": "https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/",
-          "publishedOn": "2021-08-09T22:24:53.000Z",
-          "wordCount": 841,
-          "title": "How to Use Google Colab with VS Code"
-        },
-        {
-          "id": "610d55bf3306a507d1bff496",
-          "author": null,
-          "description": "Pure functions and impure functions are two programming terms you will often see in functional programming. Once core difference between these two types of functions is whether or not they have side effects. In this article, you will learn what side effects are and we'll discuss the differences between pure",
-          "link": "https://www.freecodecamp.org/news/pure-function-vs-impure-function/",
-          "publishedOn": "2021-08-09T21:06:46.000Z",
-          "wordCount": 1278,
-          "title": "Pure vs Impure Functions in Functional Programming – What&#x27;s the Difference?"
-        },
-        {
-          "id": "5fff3dd898be260817e495cf",
-          "author": null,
-          "description": "Cross Site Scripting is the second most prevalent issue in the Open Source Foundation for Application Security (OWASP) top 10 – it's found in roughly 2/3 of all applications.  While automated tools can find some of these problems, there are also automated tools designed to detect and exploit these vulnerabilities.",
-          "link": "https://www.freecodecamp.org/news/cross-site-scripting-what-is-xss/",
-          "publishedOn": "2021-08-09T17:27:40.000Z",
-          "wordCount": 1419,
-          "title": "What is Cross Site Scripting? How to Protect against XSS Attacks"
-        },
-        {
-          "id": "610d9b6a3306a507d1bff9f0",
-          "author": null,
-          "description": "You can use HTML's <a> tag to link to different parts of a website, to another web page, or to a separate website entirely.  By default, it is underlined and given a bluish color, but you can override these style defaults with CSS (which a lot of people",
-          "link": "https://www.freecodecamp.org/news/html-a-tag-anchor-link-href-example/",
-          "publishedOn": "2021-08-09T15:15:04.000Z",
-          "wordCount": 1172,
-          "title": "HTML &lt;a&gt; Tag – Anchor Link HREF Example"
-        },
-        {
-          "id": "610682ee3306a507d1bfc210",
-          "author": null,
-          "description": "You have created your database and your tables, and after all this work, you notice that you need to add or rename a column. Well, you can use the ALTER TABLE statement to do so. Just keep in mind that you need to be really careful when you do this.",
-          "link": "https://www.freecodecamp.org/news/alter-table-in-sql-how-to-add-a-column-or-rename-a-column-in-sql/",
-          "publishedOn": "2021-08-09T15:14:48.000Z",
-          "wordCount": 1057,
-          "title": "Alter Table in SQL – How to Add a Column or Rename a Column in SQL"
-        },
-        {
-          "id": "610aabc23306a507d1bfdc7d",
-          "author": null,
-          "description": "Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital",
-          "link": "https://www.freecodecamp.org/news/google-cloud-digital-leader-course/",
-          "publishedOn": "2021-08-09T13:02:15.000Z",
-          "wordCount": 561,
-          "title": "Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course"
         }
       ]
     },

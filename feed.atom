@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-08T00:45:10.254Z</updated>
+    <updated>2021-09-09T00:48:33.011Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Span VS Div HTML Tags – What is the Difference?]]></title>
+        <id>6138f291852f4307d3729b64</id>
+        <link href="https://www.freecodecamp.org/news/span-vs-div-html-tags-what-is-the-difference/"/>
+        <updated>2021-09-08T21:08:38.000Z</updated>
+        <summary type="html"><![CDATA[If you inspect a web page with your browser's developer tools, you'll likely see a bunch of nested div tags, and possibly some content wrapped in a span tag.  Similar content is usually grouped together by these two container elements – span and div. You can use them both as containers,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t attach tooltips to document.body]]></title>
+        <id>https://css-tricks.com/?p=351389</id>
+        <link href="https://css-tricks.com/dont-attach-tooltips-to-document-body/"/>
+        <updated>2021-09-08T19:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Atif Afzal on using a <div> that is permanently on the page where tooltips are added/removed and how they perform vastly better than plopping those same tooltips right into the <body>. It’s not really discussed, but the reason …
+The post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Installation Guide – How to Get Started with WordPress + the Best Plugins]]></title>
+        <id>6138218b581b610782a91de7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-wordpress/"/>
+        <updated>2021-09-08T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Over 40% of all websites on the internet are powered by WordPress, making it the world’s top choice when it comes to creating a website. Many people and businesses choose to create their websites with WordPress because of its versatility, speed, and ease of use. WordPress is also Open]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Scope in C – Local and Global Scope Explained]]></title>
+        <id>61345caed6679a07b7d42d3e</id>
+        <link href="https://www.freecodecamp.org/news/scope-of-variables-in-c-local-and-global-scope-explained/"/>
+        <updated>2021-09-08T16:40:21.000Z</updated>
+        <summary type="html"><![CDATA[In programming, you'll often have to deal with the scope of a variable. The scope of a variable determines whether or not you can access and modify it inside a specific block of code. In this tutorial, you'll learn about variable scope in the C programming language. You'll see some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Bubbling and Event Catching in JavaScript and React – A Beginner&#x27;s Guide]]></title>
+        <id>6136666dd6679a07b7d437d0</id>
+        <link href="https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/"/>
+        <updated>2021-09-08T15:37:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll help you understand event bubbling and event catching like a pro. I created this resource to help you understand event propagation and how it works in JavaScript and React in a clear and comprehensible way. ❤ Once you've gone through this thorough introduction to event bubbling and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Einstein&#x27;s Five House Riddle]]></title>
+        <id>61366f23d6679a07b7d4380a</id>
+        <link href="https://www.freecodecamp.org/news/einsteins-riddle/"/>
+        <updated>2021-09-08T15:36:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently learned about a logic puzzle online that apparently only 2% of people can solve. There are a few different incarnations of it – some have slightly different wording, different names, or change the items in the riddle slightly. But they are all the exact same core problem. The riddle]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story Behind TryShape, a Showcase for the CSS clip-path property]]></title>
+        <id>https://css-tricks.com/?p=351043</id>
+        <link href="https://css-tricks.com/the-story-behind-tryshape-a-showcase-for-the-css-clip-path-property/"/>
+        <updated>2021-09-08T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[I love shapes, especially colorful ones! Shapes on websites are in the same category of helpfulness as background colors, images, banners, section separators, artwork, and many more: they can help us understand context and inform our actions through affordances.
+A …
+The post The Story Behind TryShape, a Showcase for the CSS clip-path property appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Algorithms and Data Structures in Python]]></title>
+        <id>6138c58c852f4307d372989e</id>
+        <link href="https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/"/>
+        <updated>2021-09-08T14:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms and data structures are important for most programmers to understand. We just released a course on the freeCodeCamp YouTube channel that is a beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course will help you prepare]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
+        <id>https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/</id>
+        <link href="https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
+        <updated>2021-09-08T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Smashing Online Workshops on Front-End & UX]]></title>
+        <id>https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/</id>
+        <link href="https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/"/>
+        <updated>2021-09-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Build the 2048 Game in React]]></title>
+        <id>611827fe72231b077cdb021c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/"/>
+        <updated>2021-09-08T01:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Today you will learn how to build your own clone of the 2048 game in React.  What makes this article unique is that we will focus on creating delightful animations. Aside from React, we will use TypeScript and we'll make some CSS transitions using LESS.  We are only going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Span HTML – How to Use the Span Tag with CSS]]></title>
+        <id>61372fd1d6679a07b7d43e77</id>
+        <link href="https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/"/>
+        <updated>2021-09-08T01:18:28.000Z</updated>
+        <summary type="html"><![CDATA[You can use the HTML span tag as a container to group inline elements together so you can style or manipulate them with JavaScript.  In this article, I will show you how to use the span tag to make a certain part of your content distinct from the rest. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Function? JavaScript Function Examples]]></title>
         <id>6132237ad6679a07b7d418ca</id>
@@ -329,6 +452,17 @@ The post If I work really hard on my Open Graph images, people will share my blo
         <summary type="html"><![CDATA[Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You don’t need external assets in an HTML file]]></title>
+        <id>https://css-tricks.com/?p=351143</id>
+        <link href="https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/"/>
+        <updated>2021-09-02T00:29:23.000Z</updated>
+        <summary type="html"><![CDATA[A fun exercise from Terence Eden. You can send an HTML file over the wire including anything a website might need without requesting any other files. CSS and JavaScript are easy, because there are <script and <style tags. Images and …
+The post You don’t need external assets in an HTML file appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -2201,141 +2335,6 @@ The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can
         <link href="https://www.freecodecamp.org/news/learn-big-o-notation/"/>
         <updated>2021-08-10T13:12:34.000Z</updated>
         <summary type="html"><![CDATA[Big O notation is an important tools for computer scientists to analyze the cost of an algorithm. Most software engineers should have an understanding of it. We just released a course on the freeCodeCamp.org YouTube channel that will help you understand Big O Notation. Georgio Tunson, aka selikapro, created]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cookieless Alternative To Embed HTML, CSS And JS Code Snippets]]></title>
-        <id>https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/</id>
-        <link href="https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/"/>
-        <updated>2021-08-10T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Embedding code examples with third-party scripts often leads to tracking or cookies. We always wanted to have a simple website with a good UX, so setting cookies for no reason wasn’t an option for us. Now, with Indiepen, we are proud to introduce a privacy-friendly alternative.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Henrik Fricke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 41 With Eva PenzeyMoog: Designing For Safety]]></title>
-        <id>https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/</id>
-        <link href="https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/"/>
-        <updated>2021-08-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about designing for safety. What does it mean to consider vulnerable users in our designs? Drew McLellan talks to expert Eva PenzeyMoog to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SQL Queries – Database Query Tutorial for Beginners]]></title>
-        <id>610a44f83306a507d1bfd44e</id>
-        <link href="https://www.freecodecamp.org/news/learn-sql-queries-database-query-tutorial-for-beginners/"/>
-        <updated>2021-08-10T00:05:46.000Z</updated>
-        <summary type="html"><![CDATA[SQL stands for Structured Query Language and is a language that you use to manage data in databases. SQL consists of commands and declarative statements that act as instructions to the database so it can perform tasks.  You can use SQL commands to create a table in a database, to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript If-Else and If-Then – JS Conditional Statements]]></title>
-        <id>610657e03306a507d1bfc108</id>
-        <link href="https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/"/>
-        <updated>2021-08-09T23:21:21.000Z</updated>
-        <summary type="html"><![CDATA[There will be times where you will want to write commands that handle different decisions in your code.  For example, if you are coding a bot, you can have it respond with different messages based on a set of commands it receives.  In this article, I will explain what an]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Google Colab with VS Code]]></title>
-        <id>610e257e3306a507d1bffc96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/"/>
-        <updated>2021-08-09T22:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Google Colab and VS Code are two popular editor tools that many Python developers use. They're great for developing efficient tech solutions or systems especially in the areas of Machine Learning and Data Science. If you're a Python developer or data scientist, you might already know how to use Google]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choice Words about the Upcoming Deprecation of JavaScript Dialogs]]></title>
-        <id>https://css-tricks.com/?p=346368</id>
-        <link href="https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/"/>
-        <updated>2021-08-09T21:23:44.000Z</updated>
-        <summary type="html"><![CDATA[It might be the very first thing a lot of people learn in JavaScript:
-alert("Hello, World");
-One day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …
-The post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure vs Impure Functions in Functional Programming – What&#x27;s the Difference?]]></title>
-        <id>610d55bf3306a507d1bff496</id>
-        <link href="https://www.freecodecamp.org/news/pure-function-vs-impure-function/"/>
-        <updated>2021-08-09T21:06:46.000Z</updated>
-        <summary type="html"><![CDATA[Pure functions and impure functions are two programming terms you will often see in functional programming. Once core difference between these two types of functions is whether or not they have side effects. In this article, you will learn what side effects are and we'll discuss the differences between pure]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Large, Small, and Dynamic Viewports]]></title>
-        <id>https://css-tricks.com/?p=346316</id>
-        <link href="https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/"/>
-        <updated>2021-08-09T20:37:39.000Z</updated>
-        <summary type="html"><![CDATA[We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …
-The post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Cross Site Scripting? How to Protect against XSS Attacks]]></title>
-        <id>5fff3dd898be260817e495cf</id>
-        <link href="https://www.freecodecamp.org/news/cross-site-scripting-what-is-xss/"/>
-        <updated>2021-08-09T17:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Cross Site Scripting is the second most prevalent issue in the Open Source Foundation for Application Security (OWASP) top 10 – it's found in roughly 2/3 of all applications.  While automated tools can find some of these problems, there are also automated tools designed to detect and exploit these vulnerabilities.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML &lt;a&gt; Tag – Anchor Link HREF Example]]></title>
-        <id>610d9b6a3306a507d1bff9f0</id>
-        <link href="https://www.freecodecamp.org/news/html-a-tag-anchor-link-href-example/"/>
-        <updated>2021-08-09T15:15:04.000Z</updated>
-        <summary type="html"><![CDATA[You can use HTML's <a> tag to link to different parts of a website, to another web page, or to a separate website entirely.  By default, it is underlined and given a bluish color, but you can override these style defaults with CSS (which a lot of people]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alter Table in SQL – How to Add a Column or Rename a Column in SQL]]></title>
-        <id>610682ee3306a507d1bfc210</id>
-        <link href="https://www.freecodecamp.org/news/alter-table-in-sql-how-to-add-a-column-or-rename-a-column-in-sql/"/>
-        <updated>2021-08-09T15:14:48.000Z</updated>
-        <summary type="html"><![CDATA[You have created your database and your tables, and after all this work, you notice that you need to add or rename a column. Well, you can use the ALTER TABLE statement to do so. Just keep in mind that you need to be really careful when you do this.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the CSS Paint API: Image Fragmentation Effect]]></title>
-        <id>https://css-tricks.com/?p=345642</id>
-        <link href="https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/"/>
-        <updated>2021-08-09T14:27:18.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …
-The post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course]]></title>
-        <id>610aabc23306a507d1bfdc7d</id>
-        <link href="https://www.freecodecamp.org/news/google-cloud-digital-leader-course/"/>
-        <updated>2021-08-09T13:02:15.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
