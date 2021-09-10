@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-09T00:48:33.011Z</updated>
+    <updated>2021-09-10T00:51:00.761Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Frameworks Helping Image Usage]]></title>
+        <id>https://css-tricks.com/?p=350644</id>
+        <link href="https://css-tricks.com/frameworks-helping-image-usage/"/>
+        <updated>2021-09-09T19:44:54.000Z</updated>
+        <summary type="html"><![CDATA[I recently blogged about how images are hard and it ended up being a big ol’ checklist of things that you could/should think about and implement when placing images on websites. 
+I think it’s encouraging to see frameworks — these …
+The post Frameworks Helping Image Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Largest Contentful Paint (LCP) on Your Website With Ease]]></title>
+        <id>https://css-tricks.com/?p=351259</id>
+        <link href="https://css-tricks.com/improve-largest-contentful-paint-lcp-on-your-website-with-ease/"/>
+        <updated>2021-09-09T19:43:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Optimizing the user experience you offer on your website is essential for the success of any online business. Google does use different user experience-related metrics to rank web pages for SEO and has continued …
+The post Improve Largest Contentful Paint (LCP) on Your Website With Ease appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>ImageKit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course]]></title>
+        <id>613a5290852f4307d372aa23</id>
+        <link href="https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/"/>
+        <updated>2021-09-09T18:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you all about Solidity, the blockchain, and smart contracts. Solidity is an object-oriented programming language for writing smart contracts. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Graph Traversal Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>61210d813bccf807612a4f5c</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-graph-traversal-crash-course-the-only-one-youll-ever-need/"/>
+        <updated>2021-09-09T17:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Are you preparing for coding interviews? I designed a crash course series to help you out. I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the third course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Databases VS Relational Databases – Learn How a Graph Database Works]]></title>
+        <id>6139ca38852f4307d3729e87</id>
+        <link href="https://www.freecodecamp.org/news/graph-database-vs-relational-database/"/>
+        <updated>2021-09-09T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[If you're curious about graph databases and how they compare with relational database management systems, then this beginner-friendly guide is for you.  In this article, you'll discover of the power of graphs by working with a small movie data set. It is based on the built in dataset and guide]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux Middleware – What it is and How to Build it from Scratch]]></title>
+        <id>6133317cd6679a07b7d42191</id>
+        <link href="https://www.freecodecamp.org/news/what-is-redux-middleware-and-how-to-create-one-from-scratch/"/>
+        <updated>2021-09-09T16:38:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore what middleware is in Redux, why it's used, and how you can create your own middleware from scratch. So let's get started.  What Is Redux Middleware?Redux Middleware allows you to intercept every action sent to the reducer so you can make changes to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your Enterprise Kubernetes Environment Secure, Efficient, and Reliable]]></title>
+        <id>61129a0572231b077cdacd2f</id>
+        <link href="https://www.freecodecamp.org/news/make-your-kubernetes-environment-secure-efficient-reliable/"/>
+        <updated>2021-09-09T16:36:35.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a cloud-based entrepreneur, you should have a Kubernetes platform for your enterprise. But adopting this six-year-old technology can be tough if there are gaps in your operations. Improving the operational quality of your Kubernetes cluster is important in Kubernetes adoption. This article can help you achieve a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Array – How to Declare an Array of Strings in a Bash Script]]></title>
+        <id>61310196d6679a07b7d411dd</id>
+        <link href="https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/"/>
+        <updated>2021-09-09T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Bash scripts give you a convenient way to automate command line tasks.  With Bash, you can do many of the same things you would do in other scripting or programming languages. You can create and use variables, execute loops, use conditional logic, and store data in arrays.  While the functionality]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Array Declaration – How to Initialize an Array in Java with Example Code]]></title>
+        <id>6139e660852f4307d372a0a2</id>
+        <link href="https://www.freecodecamp.org/news/java-array-declaration-how-to-initialize-an-array-in-java-with-example-code/"/>
+        <updated>2021-09-09T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Arrays are an important part of the fundamental data structures in Java. And they are incredibly useful in solving a lot of programming problems.  What is an array? By definition, an array is a collection of data of the same type.  An array is usually declared so you can have]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=350070</id>
+        <link href="https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/"/>
+        <updated>2021-09-09T14:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Frontity is a framework for creating de-coupled (or "headless") WordPress sites. In this article, we dive into the process of spinning up such a site, with a detailed overview of the building blocks provided by Frontity and its flagship theme, Mars.
+The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[460 Free Textbooks – Math, Science, and More [Online PDF for College and High School]]]></title>
+        <id>612cc03eb5177808226d4a6b</id>
+        <link href="https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/"/>
+        <updated>2021-09-09T14:25:28.000Z</updated>
+        <summary type="html"><![CDATA[While you're in school, you will go through a number of textbooks and the cost can add up pretty quickly. Luckily, there are websites that offer free textbooks for high school and college students.  Here is a list of 460 free textbooks, arranged by topic. Once you find a topic]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)]]></title>
+        <id>https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/"/>
+        <updated>2021-09-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Span VS Div HTML Tags – What is the Difference?]]></title>
         <id>6138f291852f4307d3729b64</id>
@@ -2158,185 +2283,6 @@ The post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by bein
         <summary type="html"><![CDATA[How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Complex Graphics with OpenGL]]></title>
-        <id>610d8f383306a507d1bff9c3</id>
-        <link href="https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/"/>
-        <updated>2021-08-11T12:40:12.000Z</updated>
-        <summary type="html"><![CDATA[OpenGL can be used to create complex 2D and 3D graphics effects.  We just released an advanced OpenGL course on the freeCodeCamp.org YouTube channel. Victor Gordan created this course. Before this course he created one of the most popular OpenGL course on YouTube. Now, he will help you take]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Mounting And Unmounting Of Navigation Routes In React Native]]></title>
-        <id>https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/</id>
-        <link href="https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/"/>
-        <updated>2021-08-11T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Don)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Destructuring and the Spread Operator – Explained with Example Code]]></title>
-        <id>610e151e3306a507d1bffb32</id>
-        <link href="https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/"/>
-        <updated>2021-08-10T21:46:07.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript has two awesome data structures that help you write clean and efficient code. But handling them can get messy sometimes. In this blog, I am going to show you how to handle destructuring in arrays and objects in JavaScript. We'll also learn how to use the spread operator as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View Source (on Mobile)]]></title>
-        <id>https://css-tricks.com/?p=346392</id>
-        <link href="https://neatnik.net/view-source/"/>
-        <updated>2021-08-10T21:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …
-The post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View Source (on Mobile)]]></title>
-        <id>https://css-tricks.com/?p=346392</id>
-        <link href="https://css-tricks.com/view-source-on-mobile/"/>
-        <updated>2021-08-10T21:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …
-The post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Web Development Basics – HTML, CSS, and JavaScript Explained for Beginners]]></title>
-        <id>610d11273306a507d1bfeffe</id>
-        <link href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/"/>
-        <updated>2021-08-10T21:02:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are learning web development, you will come across terms like HTML, CSS, and JavaScript. These are often called the building blocks of the Web.  These three tools dominate web development. Every library or tool seems to be centered around HTML, CSS, and JS. So if you want to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Way to Learn Python – Python Programming Tutorial for Beginners]]></title>
-        <id>610642353306a507d1bfbfe4</id>
-        <link href="https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/"/>
-        <updated>2021-08-10T20:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Python is a great programming language to learn and you can use it in a variety of areas in software development. You can use Python for web development, data analysis, machine learning, artificial intelligence, and more.  With the vast amount of resources to choose from, sometimes it is hard to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python any() and all() Functions – Explained with Examples]]></title>
-        <id>6108f8453306a507d1bfce17</id>
-        <link href="https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/"/>
-        <updated>2021-08-10T20:26:25.000Z</updated>
-        <summary type="html"><![CDATA[When coding in Python, have you ever had to check if any item or all items in an iterable evaluate to True? The next time you need to do so, be sure to use the nifty functions any() and all(). In this tutorial, we'll learn about Python's any() and all(]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Coding? Computer Coding Definition]]></title>
-        <id>61122afb72231b077cdac810</id>
-        <link href="https://www.freecodecamp.org/news/what-is-coding/"/>
-        <updated>2021-08-10T19:54:45.000Z</updated>
-        <summary type="html"><![CDATA[When you're starting your coding journey, one of the most exciting – and at times overwhelming – things about it is just how much there is to learn.  You'll discover different languages, frameworks, libraries, inventions and conventions.  One technology often requires knowledge of another one, and everything seems to be interconnected and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 VS Code Extensions to Increase Your Productivity]]></title>
-        <id>610ef4fc3306a507d1c00257</id>
-        <link href="https://www.freecodecamp.org/news/10-vscode-extensions-to-increase-productivity/"/>
-        <updated>2021-08-10T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the best things about VS Code is the rich library of extensions you can use to speed up your coding and make your life easier.  Some of these extensions are paid, but there are tons of quality options that are available for free in the VS Code Marketplace.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Web Scraping Tutorial – How to Scrape Data From Any Website with Python]]></title>
-        <id>610ce4f83306a507d1bfeba5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/"/>
-        <updated>2021-08-10T17:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping is the process of extracting specific data from the internet automatically. It has many use cases, like getting data for a machine learning project, creating a price comparison tool, or any other innovative idea that requires an immense amount of data. While you can theoretically do data extraction]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Against DDoS Attacks]]></title>
-        <id>5fff3e3798be260817e495df</id>
-        <link href="https://www.freecodecamp.org/news/protect-against-ddos-attacks/"/>
-        <updated>2021-08-10T17:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Distributed Denial of Service (DDoS) attacks aim to take an organization or service offline and originate from multiple, distributed hosts.  The difficult part of defending against DDoS attacks is that the hosts are distributed – if it were a single host or small group, you could easily block the traffic with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format a String in Python]]></title>
-        <id>60f7aef31d2b080797b80a01</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-a-string-in-python/"/>
-        <updated>2021-08-10T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Formatting a string is something you'll do all the time when you're coding in Python. For every variable, tuple, and dictionary and the logic that we define, we eventually have to either print or display it in some form.  And each of these, without exception, require us to format the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible Markdown in Next.js]]></title>
-        <id>https://css-tricks.com/?p=345861</id>
-        <link href="https://css-tricks.com/responsible-markdown-in-next-js/"/>
-        <updated>2021-08-10T14:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.
-That being said: parsing, processing, …
-The post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Kitty Giraudel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WooCommerce With Apple Pay and Google Pay]]></title>
-        <id>https://css-tricks.com/?p=345799</id>
-        <link href="https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/"/>
-        <updated>2021-08-10T14:54:56.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Got a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …
-The post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Nesting, specificity, and you]]></title>
-        <id>https://css-tricks.com/?p=346355</id>
-        <link href="https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/"/>
-        <updated>2021-08-10T14:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:
-div 
-…
-The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Big O Notation]]></title>
-        <id>610abfc03306a507d1bfde47</id>
-        <link href="https://www.freecodecamp.org/news/learn-big-o-notation/"/>
-        <updated>2021-08-10T13:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Big O notation is an important tools for computer scientists to analyze the cost of an algorithm. Most software engineers should have an understanding of it. We just released a course on the freeCodeCamp.org YouTube channel that will help you understand Big O Notation. Georgio Tunson, aka selikapro, created]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
