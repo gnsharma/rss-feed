@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-10T00:51:00.761Z</updated>
+    <updated>2021-09-11T00:45:03.284Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“Just in Time” CSS]]></title>
+        <id>https://css-tricks.com/?p=351562</id>
+        <link href="https://css-tricks.com/just-in-time-css/"/>
+        <updated>2021-09-10T20:32:51.000Z</updated>
+        <summary type="html"><![CDATA[I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:
+<div class="C(#fff) P(20px)"text
+</div
+And it will generate CSS like:
+.C\(\#333\) {
+  color: #333;
+
+…
+The post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun Times Styling Checkbox States]]></title>
+        <id>https://css-tricks.com/?p=351034</id>
+        <link href="https://css-tricks.com/fun-times-styling-checkbox-states/"/>
+        <updated>2021-09-10T14:53:24.000Z</updated>
+        <summary type="html"><![CDATA[We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.
+Although designing checkboxes is not that complicated, we also don’t …
+The post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EyeDropper API Dropped]]></title>
+        <id>https://css-tricks.com/?p=351697</id>
+        <link href="https://css-tricks.com/eyedropper-api-dropped/"/>
+        <updated>2021-09-10T14:47:11.000Z</updated>
+        <summary type="html"><![CDATA[I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). 
+🎨 Loving the new `EyeDropper` Web API: 
+“`js
+await new EyeDropper().open();
+// Returns the picked color, e.g.,
+…
+The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Excellent Editorial]]></title>
+        <id>https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/</id>
+        <link href="https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/"/>
+        <updated>2021-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frameworks Helping Image Usage]]></title>
         <id>https://css-tricks.com/?p=350644</id>
@@ -2168,121 +2224,6 @@ The post Using Web Components in WordPress is Easier Than You Think appeared fir
         <summary type="html"><![CDATA[FastAPI makes it quicker and easier to develop APIs with Python. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to use FastAPI.  Tomi Tokko developed this course. Tomi has made many popular courses both on his own channel and the freeCodeCamp]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search Tree Algorithms for JavaScript Beginners]]></title>
-        <id>61025c793306a507d1bfad64</id>
-        <link href="https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/"/>
-        <updated>2021-08-11T23:50:28.000Z</updated>
-        <summary type="html"><![CDATA[I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement iOS-Specific Components and APIs]]></title>
-        <id>610d4a303306a507d1bff2ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/"/>
-        <updated>2021-08-11T23:31:34.000Z</updated>
-        <summary type="html"><![CDATA[One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Podcasts for Flutter Developers]]></title>
-        <id>611091a63306a507d1c00a1c</id>
-        <link href="https://www.freecodecamp.org/news/best-podcasts-for-flutter-developers/"/>
-        <updated>2021-08-11T20:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Podcasts are a great way to consume digital information. They've become quite popular because you can listen to them anywhere, any time.  Podcasts deliver educational, entertaining, and engaging content on all kinds of topics – tech topics included. The hosts and their guests talk and share ideas, each in their own]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static vs Dynamic Web Pages – What&#x27;s the Difference?]]></title>
-        <id>611126603306a507d1c00fd2</id>
-        <link href="https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/"/>
-        <updated>2021-08-11T19:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you're interviewing for your dream job and the interviewer drops this question for you: “So can you distinguish between a static web page and a dynamic web page?” What would your reaction be? If you don’t know the answer to that question, or are struggling to think]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Props in Vue.js]]></title>
-        <id>610eb7f03306a507d1c001f5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-props-in-vuejs/"/>
-        <updated>2021-08-11T19:51:52.000Z</updated>
-        <summary type="html"><![CDATA[We use props to pass information/data from a parent component to child components. In this article, I will explain everything you need to know about props and why you should use props in Vue.js. Here's a brief outline of what we'll cover in this guide: What are props]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna see a whiter white?]]></title>
-        <id>https://css-tricks.com/?p=346388</id>
-        <link href="https://kidi.ng/wanna-see-a-whiter-white/"/>
-        <updated>2021-08-11T19:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Heck of a CSS trick here from Dongsung Kim. 
-There are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% 
-…
-The post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&lt;img&gt; HTML – Image Tag Tutorial]]></title>
-        <id>6112913c72231b077cdacc4d</id>
-        <link href="https://www.freecodecamp.org/news/img-html-image-tag-tutorial/"/>
-        <updated>2021-08-11T15:28:58.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, you use the <img> tag to add images to websites. It is an inline and empty element, which means that it doesn't start on a new line and doesn't take a closing tag (unlike the paragraph (<p>) tag, for instance).  The <img>]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Node.js Database using Prisma and SQLite]]></title>
-        <id>610ee8443306a507d1c00249</id>
-        <link href="https://www.freecodecamp.org/news/build-nodejs-database-using-prisma-orm/"/>
-        <updated>2021-08-11T15:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Lately I've been seeing many tweets and articles about Prisma. It's a modern ORM (Object-Relational-Mapping tool) that works with Node.jsand TypeScript. Yes, this library will help you build and manage your Node.js database – and it's compatible with TypeScript! It will generate all the types of your entities automatically.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static vs. Dynamic vs. Jamstack: Where’s The Line?]]></title>
-        <id>https://css-tricks.com/?p=345889</id>
-        <link href="https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/"/>
-        <updated>2021-08-11T14:31:20.000Z</updated>
-        <summary type="html"><![CDATA[You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …
-The post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mike Neumegen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Napkin]]></title>
-        <id>https://css-tricks.com/?p=346384</id>
-        <link href="https://www.napkin.io/"/>
-        <updated>2021-08-11T14:31:13.000Z</updated>
-        <summary type="html"><![CDATA[We took a surface level look at Pipedream the other day, which really does look cool. It’s like a much more modern and fancy version of what Yahoo Pipes was. A better comparison might be Zapier, except you …
-The post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Smashing Workshops on Front-End & Design]]></title>
-        <id>https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/</id>
-        <link href="https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/"/>
-        <updated>2021-08-11T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
