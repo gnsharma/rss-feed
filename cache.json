@@ -454,24 +454,6 @@
           "publishedOn": "2021-08-16T14:44:35.000Z",
           "wordCount": 3453,
           "title": "HTML is Not a Programming Language?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346665",
-          "author": "Chris Coyier",
-          "description": "Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. \nReminds …\nThe post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://unicodearrows.com/",
-          "publishedOn": "2021-08-13T18:08:07.000Z",
-          "wordCount": 10,
-          "title": "Unicode Arrows"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345944",
-          "author": "John Polacek",
-          "description": "Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …\nThe post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-cool-front-end-thing-generator/",
-          "publishedOn": "2021-08-13T14:41:21.000Z",
-          "wordCount": 2034,
-          "title": "Building a Cool Front End Thing Generator"
         }
       ]
     },
