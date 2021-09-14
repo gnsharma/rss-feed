@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351302",
+          "author": "Jimmy Chion",
+          "description": "Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …\nThe post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/grainy-gradients/",
+          "publishedOn": "2021-09-13T19:04:51.000Z",
+          "wordCount": 1821,
+          "title": "Grainy Gradients"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351726",
+          "author": "Chris Coyier",
+          "description": "I feel like my quest to make sure this site had pretty sweet (and automatically-generated) social media images (e.g. Open Graph) came to a close once I found Social Image Generator. \nThe trajectory there was that I ended up …\nThe post Social Image Generator + Jetpack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/social-image-generator-jetpack/",
+          "publishedOn": "2021-09-13T14:20:13.000Z",
+          "wordCount": 844,
+          "title": "Social Image Generator + Jetpack"
+        },
+        {
           "id": "https://css-tricks.com/?p=351562",
           "author": "Chris Coyier",
           "description": "I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:\n<div class=\"C(#fff) P(20px)\"text\n</div\nAnd it will generate CSS like:\n.C\\(\\#333\\) {\n  color: #333;\n\n…\nThe post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -463,6 +481,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
+          "author": "hello@smashingmagazine.com (Kirill Myshkin)",
+          "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
+          "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
+          "publishedOn": "2021-09-13T09:00:00.000Z",
+          "wordCount": 3012,
+          "title": "Orchestrating Complexity With Web Animations API",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
@@ -777,6 +809,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "613fbc95852f4307d372cf35",
+          "author": null,
+          "description": "In Microsoft Word, you can create digital forms, surveys, to-do lists, and printable forms. And you might need to add a checkbox in these forms so your respondents can select certain options.  In this tutorial, I will show you how to insert an interactive checkbox in Microsoft Word for softcopy",
+          "link": "https://www.freecodecamp.org/news/insert-a-checkbox-in-word-how-to-add-a-checkmark-in-microsoft-word/",
+          "publishedOn": "2021-09-13T23:48:00.000Z",
+          "wordCount": 1128,
+          "title": "Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word"
+        },
+        {
+          "id": "6138a480581b610782a921ee",
+          "author": null,
+          "description": "In this tutorial we are going to build a modern sign up form with floating labels and smooth transitions using plain HTML and CSS. A viewAs you can see in the above image, when an input within the form gains focus, its label floats to the top and a semi-thick",
+          "link": "https://www.freecodecamp.org/news/how-to-build-sign-up-form-with-html-and-css/",
+          "publishedOn": "2021-09-13T21:15:35.000Z",
+          "wordCount": 1605,
+          "title": "How to Build a Sign Up Form with Floating Labels and Transitions Using Plain HTML and CSS"
+        },
+        {
+          "id": "613b2c1a852f4307d372b02f",
+          "author": null,
+          "description": "Emoji help you express feelings and emotions beyond texts. They also bring liveliness into conversations in a fun and concise way.  But sometimes it's hard to find the right emoji to use, so I decided to prepare a giant table of them that you can simply copy and paste into",
+          "link": "https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/",
+          "publishedOn": "2021-09-13T21:04:08.000Z",
+          "wordCount": 2042,
+          "title": "All Emojis – Emoji List for Copy and Paste"
+        },
+        {
+          "id": "612e048bd6679a07b7d3f47b",
+          "author": null,
+          "description": "Let me start this article by asking, \"What is JavaScript\"? Well, here's the most confusing yet to-the-point answer I have found so far: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.Hold on a second – did it say single-threaded and asynchronous at the same time?",
+          "link": "https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/",
+          "publishedOn": "2021-09-13T21:00:57.000Z",
+          "wordCount": 2632,
+          "title": "Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More"
+        },
+        {
+          "id": "608851a68eb3fb07cf098178",
+          "author": null,
+          "description": "The best way to learn a new programming language is to build projects with it. I have created a list of 25 beginner friendly project tutorials in Python. My advice for tutorials would be to watch the video, build the project, break it apart and rebuild it your own way.",
+          "link": "https://www.freecodecamp.org/news/python-projects-for-beginners/",
+          "publishedOn": "2021-09-13T15:12:15.000Z",
+          "wordCount": 1470,
+          "title": "25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python"
+        },
+        {
+          "id": "613c107c852f4307d372b87a",
+          "author": null,
+          "description": "When you're writing a shell script, you may find that you need it to wait a certain number of seconds before proceeding. For example, you might want the script to wait while a process completes or before retrying a failed command.  To do this, you can use the very straightforward",
+          "link": "https://www.freecodecamp.org/news/bash-sleep-how-to-make-a-shell-script-wait-n-seconds-example-command/",
+          "publishedOn": "2021-09-13T14:29:40.000Z",
+          "wordCount": 590,
+          "title": "Bash Sleep – How to Make a Shell Script Wait N Seconds (Example Command)"
+        },
+        {
+          "id": "6122041a3bccf807612a575e",
+          "author": null,
+          "description": "In Python, there are a few ways you can read a text file.  In this article, I will go over the open() function, the read(), readline(), readlines(), close() methods, and the with keyword. What is the open() function in Python? If you want to read a text file in Python,",
+          "link": "https://www.freecodecamp.org/news/python-open-file-how-to-read-a-text-file-line-by-line/",
+          "publishedOn": "2021-09-13T14:00:03.000Z",
+          "wordCount": 1255,
+          "title": "Python Open File – How to Read a Text File Line by Line"
+        },
         {
           "id": "613a5290852f4307d372aa23",
           "author": null,
