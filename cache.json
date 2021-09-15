@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351518",
+          "author": "Chris Coyier",
+          "description": "Blogging about HTML elements¹? *chefs kiss*\nHere’s Ben Myers on the (aptly described) “underrated” Definition List (<dl>) element in HTML:\nYou might have also seen lists of name–value pairs to describe lodging amenities, or to list \n…\nThe post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/on-the-dl/",
+          "publishedOn": "2021-09-14T22:37:21.000Z",
+          "wordCount": 538,
+          "title": "On the `dl`"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351454",
+          "author": "Jonathan Land",
+          "description": "Learn how to build an HTML form in PHP using DOMDocument — a structured and expressive way to build logical markup.\nThe post Building a Form in PHP Using DOMDocument appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-form-in-php-using-domdocument/",
+          "publishedOn": "2021-09-14T14:36:24.000Z",
+          "wordCount": 4150,
+          "title": "Building a Form in PHP Using DOMDocument"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351970",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat? Jamstack Conf! It’s the best! Learn what’s happening and what’s next for this hot ecosystem.\nWhen? October 6–7, 2021\nWhere? Virtual / online.\nHow much? It’s free! There are workshops as well though, …\nThe post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://jamstackconf.com/",
+          "publishedOn": "2021-09-14T14:32:16.000Z",
+          "wordCount": 707,
+          "title": "Jamstack Conf 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350466",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nThere is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …\nThe post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/developers-designers-uxpin/",
+          "publishedOn": "2021-09-13T19:21:00.000Z",
+          "wordCount": 1325,
+          "title": "Developers and Designers Work on a Single Source of Truth With UXPin"
+        },
+        {
           "id": "https://css-tricks.com/?p=351302",
           "author": "Jimmy Chion",
           "description": "Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …\nThe post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -481,6 +517,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
+          "author": "hello@smashingmagazine.com (Tracy Osborn)",
+          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
+          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
+          "publishedOn": "2021-09-14T09:30:00.000Z",
+          "wordCount": 2102,
+          "title": "The Power Of Pen And Paper Sketching",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
           "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
@@ -787,20 +837,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
-          "author": "hello@smashingmagazine.com (Cache Merril)",
-          "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
-          "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
-          "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2962,
-          "title": "How To Develop Your Business’ Technology Roadmap",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -809,6 +845,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "613b1a82852f4307d372ae6b",
+          "author": null,
+          "description": "When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn",
+          "link": "https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/",
+          "publishedOn": "2021-09-14T19:21:11.000Z",
+          "wordCount": 1352,
+          "title": "Python f-String Tutorial – String Formatting in Python Explained with Code Examples"
+        },
+        {
+          "id": "612fa993d6679a07b7d402ab",
+          "author": null,
+          "description": "As an employed software developer today, there's a 96% chance that you're building company software using some sort of open-source technology.  You might be using VSCode, a free open-source text editor primarily maintained by Microsoft, or React, a free and open-source front-end JavaScript library, among many other tools. Companies today",
+          "link": "https://www.freecodecamp.org/news/a-business-case-for-open-source/",
+          "publishedOn": "2021-09-14T18:59:46.000Z",
+          "wordCount": 966,
+          "title": "A Business Case for Open Source – Why You Should Contribute to the Open Source Community"
+        },
+        {
+          "id": "61407a67852f4307d372d4a1",
+          "author": null,
+          "description": "Google Docs is an essential productivity tool for digital work.  This article will cover how to save a Google Doc as a PDF on the Desktop version of Google Docs.  What Is Google Docs Used For? You can use Google Docs for many different tasks.  For example, you can jot",
+          "link": "https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/",
+          "publishedOn": "2021-09-14T17:58:28.000Z",
+          "wordCount": 741,
+          "title": "How to Save a Google Doc as a PDF"
+        },
+        {
+          "id": "61405cf6852f4307d372d219",
+          "author": null,
+          "description": "Ever since I became a GitHub Star and GitHub Star of the year in 2020, many people have asked me how they can become one.   There is no definitive checklist and you cannot apply or nominate yourself. But the GitHub Stars Program website gives some useful insight into what GitHub",
+          "link": "https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/",
+          "publishedOn": "2021-09-14T16:41:32.000Z",
+          "wordCount": 1633,
+          "title": "How to Become a GitHub Star – Tips from Actual GitHub Stars"
+        },
+        {
+          "id": "613b7a2c852f4307d372b3a9",
+          "author": null,
+          "description": "Hey everyone! 🌈 The seasons are changing, and September is the perfect month to focus on new goals and start new adventures. Maybe you've been on vacation, enjoyed the sun 🌞 or the mountains, and you're ready to dive back into work. New adventures are sometimes unexpected. But I hope that when",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/",
+          "publishedOn": "2021-09-14T16:19:39.000Z",
+          "wordCount": 2446,
+          "title": "How to Become a Junior Software Engineer in 6 months"
+        },
+        {
+          "id": "613c7719852f4307d372b9b1",
+          "author": null,
+          "description": "There are so many programming languages out there, and more are developed every few years. We have Python, JavaScript, PHP, C++, Ruby, Java, C#, and way too many more to list here.  So you might be wondering – why are there so many programming languages, and do we even need all",
+          "link": "https://www.freecodecamp.org/news/why-are-there-so-many-programming-languages/",
+          "publishedOn": "2021-09-14T16:11:17.000Z",
+          "wordCount": 1238,
+          "title": "Why Are There So Many Programming Languages?"
+        },
+        {
+          "id": "61409b8d852f4307d372d5cd",
+          "author": null,
+          "description": "If you want to get into the growing field of cyber security and ethical hacking, you are going to need to understand how to use Linux. We just released a free course on the freeCodeCamp.org YouTube channel that will teach you all the common Linux skills used in cyber-security",
+          "link": "https://www.freecodecamp.org/news/linux-essentials-for-hackers/",
+          "publishedOn": "2021-09-14T13:03:08.000Z",
+          "wordCount": 372,
+          "title": "Linux Essentials for Hackers"
+        },
         {
           "id": "613fbc95852f4307d372cf35",
           "author": null,
@@ -2003,15 +2102,6 @@
           "publishedOn": "2021-08-23T08:28:32.000Z",
           "wordCount": 1076,
           "title": "Why Isn't Usage Based Billing A Bigger Category?"
-        },
-        {
-          "id": "https://swyx.io/measuring-devrel",
-          "author": null,
-          "description": "DevRel is hot but nobody knows how to measure it. That's because we don't agree on what effective DevRel *is*, and we don't agree on the tradeoffs of lagging vs leading metrics for a creative, unattributable, intimately human endeavor.",
-          "link": "https://swyx.io/measuring-devrel",
-          "publishedOn": "2021-08-16T01:06:41.000Z",
-          "wordCount": 3672,
-          "title": "Measuring Developer Relations"
         }
       ]
     },

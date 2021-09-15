@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnsharma.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-14T00:51:05.683Z</updated>
+    <updated>2021-09-15T00:46:47.987Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://gnsharma.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://gnsharma.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the `dl`]]></title>
+        <id>https://css-tricks.com/?p=351518</id>
+        <link href="https://css-tricks.com/on-the-dl/"/>
+        <updated>2021-09-14T22:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Blogging about HTML elements¹? *chefs kiss*
+Here’s Ben Myers on the (aptly described) “underrated” Definition List (<dl>) element in HTML:
+You might have also seen lists of name–value pairs to describe lodging amenities, or to list 
+…
+The post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python f-String Tutorial – String Formatting in Python Explained with Code Examples]]></title>
+        <id>613b1a82852f4307d372ae6b</id>
+        <link href="https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/"/>
+        <updated>2021-09-14T19:21:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Business Case for Open Source – Why You Should Contribute to the Open Source Community]]></title>
+        <id>612fa993d6679a07b7d402ab</id>
+        <link href="https://www.freecodecamp.org/news/a-business-case-for-open-source/"/>
+        <updated>2021-09-14T18:59:46.000Z</updated>
+        <summary type="html"><![CDATA[As an employed software developer today, there's a 96% chance that you're building company software using some sort of open-source technology.  You might be using VSCode, a free open-source text editor primarily maintained by Microsoft, or React, a free and open-source front-end JavaScript library, among many other tools. Companies today]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save a Google Doc as a PDF]]></title>
+        <id>61407a67852f4307d372d4a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/"/>
+        <updated>2021-09-14T17:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs is an essential productivity tool for digital work.  This article will cover how to save a Google Doc as a PDF on the Desktop version of Google Docs.  What Is Google Docs Used For? You can use Google Docs for many different tasks.  For example, you can jot]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a GitHub Star – Tips from Actual GitHub Stars]]></title>
+        <id>61405cf6852f4307d372d219</id>
+        <link href="https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/"/>
+        <updated>2021-09-14T16:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Ever since I became a GitHub Star and GitHub Star of the year in 2020, many people have asked me how they can become one.   There is no definitive checklist and you cannot apply or nominate yourself. But the GitHub Stars Program website gives some useful insight into what GitHub]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Junior Software Engineer in 6 months]]></title>
+        <id>613b7a2c852f4307d372b3a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/"/>
+        <updated>2021-09-14T16:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! 🌈 The seasons are changing, and September is the perfect month to focus on new goals and start new adventures. Maybe you've been on vacation, enjoyed the sun 🌞 or the mountains, and you're ready to dive back into work. New adventures are sometimes unexpected. But I hope that when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are There So Many Programming Languages?]]></title>
+        <id>613c7719852f4307d372b9b1</id>
+        <link href="https://www.freecodecamp.org/news/why-are-there-so-many-programming-languages/"/>
+        <updated>2021-09-14T16:11:17.000Z</updated>
+        <summary type="html"><![CDATA[There are so many programming languages out there, and more are developed every few years. We have Python, JavaScript, PHP, C++, Ruby, Java, C#, and way too many more to list here.  So you might be wondering – why are there so many programming languages, and do we even need all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Form in PHP Using DOMDocument]]></title>
+        <id>https://css-tricks.com/?p=351454</id>
+        <link href="https://css-tricks.com/building-a-form-in-php-using-domdocument/"/>
+        <updated>2021-09-14T14:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an HTML form in PHP using DOMDocument — a structured and expressive way to build logical markup.
+The post Building a Form in PHP Using DOMDocument appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jonathan Land</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Conf 2021]]></title>
+        <id>https://css-tricks.com/?p=351970</id>
+        <link href="https://jamstackconf.com/"/>
+        <updated>2021-09-14T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+What? Jamstack Conf! It’s the best! Learn what’s happening and what’s next for this hot ecosystem.
+When? October 6–7, 2021
+Where? Virtual / online.
+How much? It’s free! There are workshops as well though, …
+The post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Essentials for Hackers]]></title>
+        <id>61409b8d852f4307d372d5cd</id>
+        <link href="https://www.freecodecamp.org/news/linux-essentials-for-hackers/"/>
+        <updated>2021-09-14T13:03:08.000Z</updated>
+        <summary type="html"><![CDATA[If you want to get into the growing field of cyber security and ethical hacking, you are going to need to understand how to use Linux. We just released a free course on the freeCodeCamp.org YouTube channel that will teach you all the common Linux skills used in cyber-security]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power Of Pen And Paper Sketching]]></title>
+        <id>https://smashingmagazine.com/2021/09/power-pen-paper-sketching/</id>
+        <link href="https://smashingmagazine.com/2021/09/power-pen-paper-sketching/"/>
+        <updated>2021-09-14T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tracy Osborn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word]]></title>
         <id>613fbc95852f4307d372cf35</id>
@@ -44,6 +164,18 @@
         <summary type="html"><![CDATA[Let me start this article by asking, "What is JavaScript"? Well, here's the most confusing yet to-the-point answer I have found so far: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.Hold on a second – did it say single-threaded and asynchronous at the same time?]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers and Designers Work on a Single Source of Truth With UXPin]]></title>
+        <id>https://css-tricks.com/?p=350466</id>
+        <link href="https://css-tricks.com/developers-designers-uxpin/"/>
+        <updated>2021-09-13T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+There is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …
+The post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -2181,26 +2313,6 @@ The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You c
         <summary type="html"><![CDATA[Have you ever noticed the "HTTP" or "HTTPS" at the beginning of a URL in your browser? Well, what is HTTP and what is HTTPS? How are they different?  In order to understand the differences, it helps to demistify to meaning of these two terms and]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop Your Business’ Technology Roadmap]]></title>
-        <id>https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/</id>
-        <link href="https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/"/>
-        <updated>2021-08-16T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cache Merril)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Developer Relations]]></title>
-        <id>https://swyx.io/measuring-devrel</id>
-        <link href="https://swyx.io/measuring-devrel"/>
-        <updated>2021-08-16T01:06:41.000Z</updated>
-        <summary type="html"><![CDATA[DevRel is hot but nobody knows how to measure it. That's because we don't agree on what effective DevRel *is*, and we don't agree on the tradeoffs of lagging vs leading metrics for a creative, unattributable, intimately human endeavor.]]></summary>
-        <author>
-            <name>Swyx.io RSS Feed</name>
         </author>
     </entry>
 </feed>
